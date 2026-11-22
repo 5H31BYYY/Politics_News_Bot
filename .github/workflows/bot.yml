@@ -2,7 +2,7 @@ name: Politics News Bot
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # GitHub's minimum interval; runs may be delayed a few minutes
+    - cron: "6,21,36,51 * * * *"   # every 15 minutes (staggered off :00)
   workflow_dispatch:
 
 permissions:
