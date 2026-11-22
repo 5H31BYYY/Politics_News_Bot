@@ -23,13 +23,6 @@
 },
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
-"ts": 1795240864.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQVp5T1dTdUo4czdNRG5OS2RWZHZUNXJKeXdCaHA4VXRGT2FyNTdZOUd5ZlVEa05RQjdmZVE3UEg5X0FyLWRza1czYUdLS3ZXQmdVb041bGRkUHI1M2FXclZISnlWbTdldVhNeTFHZThwVFJUblRONHVuM0JWUzh5NDB3UnBPUVBBVGc?oc=5",
 "src": "CNN",
 "title": "Cartel kingpin on FBI’s most wanted list reportedly captured in dramatic Mexican military operation",
@@ -1105,6 +1098,27 @@
 "src": "CNN",
 "title": "Immigration news - breaking stories, video and analysis",
 "ts": 1795369064.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVF82OEJtelJqSUY0N1c4TS1KU0VuRzdpWndkc3VQX0tOd21GblN4NXlsMlhmX0dvcjNRRmhhclE1eGJOdWNRckVxZGY2eFNSaXJOaHNCR2c1SzRiekVkRE5Ib3ZPMkgzaERYYkxMNjFMVHBySElFVlFUdl9YUUYyQkRtZng2bFhVMjdZY3hlbU9hdw?oc=5",
+"src": "CNN",
+"title": "On GPS: A modern day Yalta?",
+"ts": 1795364047.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNb3E0MHJkalBhempOaUxQVFJhZm5WM09oMGt5MUFFUnBVSWwxOGRaaXZzejdQSG5md0lQeGJLSnJBQ0dIWUxITE9iYUFBeTVxWG1Wc0lLVG1tVGxndzBIZG9ZSUpnVktualpoX2NydjVjcmVV?oc=5",
+"src": "Reuters",
+"title": "Fifty people remain missing after a fire at an Indonesian candy factory",
+"ts": 1795368097.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
+"src": "Le Monde Politique",
+"title": "Israël : les partis de Gadi Eisenkot et de Benyamin Nétanyahou concluent de nouvelles négociations de coalition sans accord",
+"ts": 1795370227.0
 }
 ],
 "seen": {
@@ -1654,7 +1668,6 @@
 "CNN|CBMifkFVX3lxTE1YR05pUlJMbTBlLWRkd0Z6Smg5bzdieFUwRDZTV290c0Rrd1Z2OXNTb2hCVFUyVTdvQWVzazU0TVJYcDVpMnl2OVdOOHNDZWpTQkUwTjh3S0NiVjFzMGNIdG9JaHNGazNGVWtiT3lLTXlhMUVkRHduNUUyN0lOdw": 1794843038.3002346,
 "CNN|CBMifkFVX3lxTE1hUmM4TnBoeFdnVkpQUkN5QXNhc0NFLVFvTVYyTWJHVGxNYzRGc3VYSU5lRy0wZGtNVGFxSnRRMGQ1ZDExMDlTdHBzVGhVRUpyaXBXZF9IOXpqWWlrVXBfT1NGeDk1aTNfUWdqQnkyWmZtSGlPWXNvS2l3Vl85UQ": 1795007728.6548152,
 "CNN|CBMifkFVX3lxTE1ndWNoZkstcW90MnZoRjFlWGtMaHk4SjFES1JGdXNmZ0k0b2FOVHlfOHZQb3BPemlCX1FZVHlReU5JQlBGUzJlaFdKN1NtbFRmT2lyNDAzNk5XVkF4ZjhyNmE2a3VFNjhySDcwQXVYQWZ0T0pscVA5UktBTEJ0Zw": 1795180527.2656703,
-"CNN|CBMifkFVX3lxTE55VHo3VlcxWjFvSWoyZ3pHcDE2OEkwM1dfRTNQbnBzZnVNZDlmaDZNbFpqblBERU5adlJfanhRQmQxUG91VVpkeTJvNGFiSXMtRXFiMldyYjBRVGRkMmt4ajVuenhPbkxLSjJSeFRObEhmR25PY09NaVhsUDlodw": 1794766528.8728914,
 "CNN|CBMifkFVX3lxTE55amtnRkpDYTdYZjN3RHVSalQyc1dSMUdsQVFyQ1ZRUUU2QUpCb3NlTjZpZnZ0TUppNDZFYktSSGhoN0xRMEtRSHd3UXhTaGZ6WXVoclQyOHZhc3VPdjJqazdFM1hSSkRFOGlScExPakRtRld2WUdLX1dydlA0QQ": 1794863747.1185596,
 "CNN|CBMifkFVX3lxTE56YldsTXI4Q291eVFsZWVzTFBFTnpPWXBjYThOUXVVMVROdngzbW5TZFlKVWJ2Z3FuZjB2Qmp1MWd2QU1YcVJsRHJvZHl2dHdkU2dQVWRSdzE2a201b3F4Mkt2ZnFwU0wzcTk1WjRzMmVQUjJhQUd6VkhrWHJuQQ": 1794998592.605571,
 "CNN|CBMifkFVX3lxTE5HZmZrTGFOWlVRMUZmSHZCYjJqQm85NVl0Y0hsZDJSeXZ6YUY2ZGo3V3R2ZmFFTmJ6YWljQS1jV0FZS1dwS2NvRk8yWFhXUjctN3lTbGFRWEdxY0lCem4tTnNXSUc1T2lPblk2bmNQZVFOY3JVVXpjV2o1Q1VqZw": 1794837641.641186,
@@ -1793,6 +1806,7 @@
 "CNN|CBMihwFBVV95cUxNckN0UzV4WnpBN09NUHROSE1zeW9JY1FfeEpINUJLQ0hDNlBPZjRWdmR3TzQ2RmFyTTVmMzFWd1ZDM215RWljUjdiTUNxZE5lX0ZfYTB2Z2ZLZWcyNGRzWlNnR0J4YXltNnVOdnlhN2hMcDViVFlFMlpPcXd5cFo1aG94Zk5sTXc": 1795193130.8066945,
 "CNN|CBMihwFBVV95cUxNdm04dkExUUNSbVRSQ21Rd2ZEM0ZQWmhFS3NNREFnaFlYdHVic0htMDJyUVpKQnJqWkhXQ04zMFNXdHZsS1NJYjhFM0ZGSGF3T3RjZUd3dnFFd1Z1ZElRR1ozUkpOQS1lMzdrQkJjYnRYMDA3b2dRVzdWeXNIMUxRdUNJUlZFeWc": 1794875441.6765964,
 "CNN|CBMihwFBVV95cUxOU25JQ0gzaWhNU3R3RWV3UHpXUkJsb1NrUXlqZUtkSnNOOFljS3hjNjAzUTBOWFJtb1FxRDdzX3hCMHlqT0NpNlk4cmRIQWwxTFIxcmswcWloQnF4Y016T2ZybG8tRDZTQ2d4SlgwWlRHTm1zWUt3N1dPSzFYYi1IcWk2UHc3a1E": 1794879930.043065,
+"CNN|CBMihwFBVV95cUxOUVM5cHZINGttSnJfZUlLV1BVSEVFREg0MGNuT1lBZDJjeGR6UDBBbC1nMEdZbVprTGJNaWNYbXZMeVd5UndvSEJxNXV0c254SmE5UVZfOVhLRVVuWFltZWZ2MEc4R1Judm91UnJKRkRremFuQ2h0VDVyOEc1TWVZaGI4R0w0NHM": 1795371333.4419487,
 "CNN|CBMihwFBVV95cUxOYS1IcGFOYkV4Mk53akNzb3lQOEpEV3U4Z19faXo1ZmFuZ05rSTBDQk9WOEh2Mk9PVFNWa1FVTzZfRXlLY1dpX05MRjFfaEtkMzU4VENQVEdseHlLY20xNEw2dHdTX3U2WEJtWEdQZE1nblYtcFZEOGFxeWR5alZIM3FrM2U3am8": 1794955530.5145502,
 "CNN|CBMihwFBVV95cUxOZ2U3clRJNjNNZ3BCUGdGaWhiUXVlNjg3UzFPRHc1eFdRNVJ0aHZ5WlVod3lWMDVFZzg2QjdxekhoSXhuOWtJdnd0a050elZiQjljck1XalNYSFJpMVl2aExGc2Fmc1lIQloxQU4zQ0pLbFI1ZVRxR2RjbHI4UzZBRjVJYlZYWFk": 1795133726.7477143,
 "CNN|CBMihwFBVV95cUxOaUdyR3lqdFVNNWdIcWlWdkc4QzFhZEZrRHZ1NUM1dEstMVM4aWpBSlBoTDhjeURSM1RJRUk2VTRrdnBkVmtCeUwtdTZZSVc0eGRycWd4ZER3dllSa3NCNEQ4ck8zR1lpVWVLNlowTnp1VHJ1ZGpUdFZELWtaTFltZHpfdWg4MVk": 1795303727.0445561,
@@ -1948,6 +1962,8 @@
 "CNN|CBMikgFBVV95cUxNSnpEQ1RYSkVyWkoyQXRLRFY2emowbHVCLU9MZkpqNXZTZjlGem03Q1NRVW9KQXRaNDNVcHBQVXBDamFFbUotVjdoUUszbkNZdVpETFVEdTNZUHFFQjFJSDdrZGFhYzNRcnlYQl81OW91b1A0andQX01PRno5SU9PQ2xnNlBYV2UtQXpEMmZNWjdfdw": 1795138237.5342789,
 "CNN|CBMikgFBVV95cUxNdE1PTTc0SVNQbHZjdGFBNHBRcXJVUHBjY1RDMkxMY3RzeGN3QjFEZE5KMXRvd3czallqRWN3THZlTDlGSlhldV96cWV1bGR2OENjMnhmUFJicWd1VVEyZHF6OEtMZGpLRkQwalE4YzlNXzZrM1F2bENnZ3duRWJGTFZQdHUzaUYwa0VyQ1RGUUdOZw": 1795365322.9146135,
 "CNN|CBMikgFBVV95cUxOSkpnQ2hYQTFNRWl6eWFaVFhDZ19qLVY0LUZkanZ3ZDdjb2NTdHU0dGpPa3JMMS04Wm1QNXlVR0xRLTQxU0k5YkpGWkliVlk4dmtMQ2dJbk1sZHRqSW5tMVdDWnFuM0JpWlBDU2N5Ynpwb001MXlTQ1FJT29ueUNVdDlEWXUwLWZoV1VtLXdEY3Qwdw": 1795024841.1498108,
+"CNN|CBMikgFBVV95cUxOTnRRbDBJWnFyOGc2dUIwOXRZYTZzTmNreDMwYU1MaTFrajB4Zk5NRUc0c1RSdGVqdDBUYXBoNEpfVVZzYnNIZmNaS1FnRFFEWUtXLUd5VFZ6RnhRVkxTRVNlV0RMaFJYR2h5Qm82NXh3YjNzLVRpX0RBcEMyWmVlM0d0NFNDRU9mS0M1dFVjSkE1QQ": 1795371333.4419487,
+"CNN|CBMikgFBVV95cUxOVF82OEJtelJqSUY0N1c4TS1KU0VuRzdpWndkc3VQX0tOd21GblN4NXlsMlhmX0dvcjNRRmhhclE1eGJOdWNRckVxZGY2eFNSaXJOaHNCR2c1SzRiekVkRE5Ib3ZPMkgzaERYYkxMNjFMVHBySElFVlFUdl9YUUYyQkRtZng2bFhVMjdZY3hlbU9hdw": 1795371333.4419487,
 "CNN|CBMikgFBVV95cUxOWW9ocHBCbFZDVkpVUjZiZ25qX0hvSERfQjJUWmszcWxOZUVqbVNiLVEzMU83ek8yblBSQ0NyNWl4VTNmbnUyRmlPTnRaRmUza0Fad3hadlFFak5xejU4RUFpNzVfaTlJZjctLXlTQWJ6S0RXMldEaGJXaWxSeDk0ZVdFbEFMSk11azd2bXRMMnp4UQ": 1795022128.5402737,
 "CNN|CBMikgFBVV95cUxOYkpieXNoeGt4S2c4UUZ6UmUzanZlajlTVEFzUTdtdHRlMWFvZUdaa3hSeU03eUZCOWp4WjZwRGZ4bW1OOERDalpjN0JYdFBsOVNXVTIydEtUbGdUa0NGdy0zNVkxV2RuYkpQZUpma1dVRkRhU3h2ZlFQblVnOENYZWExU0RQeVdTSEVWZnNvdW93UQ": 1795207530.0080664,
 "CNN|CBMikgFBVV95cUxOeDlBT2pOVzhfZXVZV3dDOW5WMi1RN0NoZlNHRS1fQVU4MU1CQTBNSXBDMXRBV1ZwcDl4M0ZJczluZzZlV0NlUS1vN1FvR3pSTXJicWF1aVpYaWc5RGtQLTJ0amJpYVY5VENrOHFFNGgzQnMwNzIwcjRQZkU4VWdjZlF0U2hkTHk0QVBIX0dHOFJYUQ": 1795303727.0445561,
@@ -2872,6 +2888,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/20/a-travers-l-europe-des-mobilisations-vendredi-et-tout-ce-week-end-contre-la-militarisation-la-vie-chere-et-pour-l-education_6813661_3210.html": 1795191327.2615736,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/20/royaume-uni-prison-ferme-pour-le-militant-d-extreme-droite-danny-tommo-apres-une-action-antimigrants_6813680_3210.html": 1795195836.3103993,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html": 1795303727.0445561,
+"Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html": 1795371333.4419487,
 "Le Monde Politique|https://www.lemonde.fr/international/video/2026/11/20/contre-la-guerre-et-la-vie-chere-pour-la-jeunesse-les-images-des-manifestations-en-italie_6813669_3210.html": 1795194042.8617408,
 "Le Monde Politique|https://www.lemonde.fr/international/video/2026/11/22/video-manifestations-de-la-gen-z-et-contre-la-vie-chere-retour-sur-un-week-end-de-mobilisation-en-europe_6814237_3210.html": 1795368635.4724112,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/18/faut-il-encore-reformer-les-retraites-les-faits-a-connaitre-pour-comprendre-le-debat_6813070_4355770.html": 1794978928.3095505,
@@ -3290,6 +3307,7 @@
 "Reuters|CBMidEFVX3lxTE5zOE8xaVdlSHlYSnB3Y185WTVBRnE3Z2dJSGJTdUh4YnMzUk1lX0UyaHZfLUNYNllkT01WUEpiWlRsTWFNd043b0EwTGVfYUpwTXhTYXlNY3RnUDdlZ0N6QXlNWmtrc0VwWUVhZGJNSkE5NVZs": 1795077929.0197918,
 "Reuters|CBMidEFVX3lxTE90UXEtVHFIUGxiN0p6bUVrNkpGekp2cXdtLVRTWVJZUHFCbmdxM1Z4S3VPdjNpWWFEekloU2ExWUxxQWUwX1NBdFY4cFRycVVrLTlocGxYQmVDN2ZLUnNMT093blRKdkUzY01MUzFBNkdrZVFZ": 1795364127.0687544,
 "Reuters|CBMidEFVX3lxTFBLdGhvRjBMRXhkV0V2SGtvVXpDVW0zTk1ta3poSGdsMGpPaUFPNHdOQUJsNGpfc2poWDhlelRSTjh6elVRQ1h1MmhoeFJRUG45SkxyamF3TmRDNkZTTzF5a3dBbElBaFNnbmxyNUxwWnJMTW9O": 1795108526.4845712,
+"Reuters|CBMidEFVX3lxTFBNb3E0MHJkalBhempOaUxQVFJhZm5WM09oMGt5MUFFUnBVSWwxOGRaaXZzejdQSG5md0lQeGJLSnJBQ0dIWUxITE9iYUFBeTVxWG1Wc0lLVG1tVGxndzBIZG9ZSUpnVktualpoX2NydjVjcmVV": 1795371333.4419487,
 "Reuters|CBMidEFVX3lxTFBOeW1NYVc5OThLTEdINFlCSHdDajdwOXlob1pMYm81NmF4cFhVd3RCblRobk9mWnZwVnY2VjZDOFEtN2xxRVltVGYzb2NmbUlacm02SXNRZ1hkcjVhOWdiN0lSNG9CTlR1Ym5GcXJfdUwzWk1a": 1795363239.8836958,
 "Reuters|CBMidEFVX3lxTFBVUmlSR2JPdmtZSUZsZFFFMHF6MGh5SUpmOWNxdXd6Qm5kVTVPY09lQkdnVlZlZm1XeXVJWEN2ZW5VMlh5czNKdDlBaHh4bjNxOEZxVWllQkJLTWpYSE9OUkJTSEs3UmczcEtsUUdxZk11ZWZU": 1795222853.2397647,
 "Reuters|CBMidEFVX3lxTFBmQTN1cTBsdUdkbzRHMVNFcWxubVZZU19kVUM5SEJzNWhGX1U1dGNCR1VxLWx6QkwyN1hVWmc3aFJBREtFQlk5eEg0TU9aZ3FYT2hsem40LVNLQWFNUldpT296OWxJS1N4dmxJNXJVUGN1N3Jw": 1794851128.550975,
