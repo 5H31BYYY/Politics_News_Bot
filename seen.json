@@ -1077,6 +1077,27 @@
 "src": "Reuters",
 "title": "No to a 'COP that greenwashes fossil fuels': climate talks collapse",
 "ts": 1795367660.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMGEyUVJwNWJIaUdnemN0MFJQdnV0ajllV2dhZWJKYUxTZnFva3UySzhFcnc5TGcwcm9VNkJOUEh4RERUVmVBTXlCbEZLc3IxRFh1aG1jYTVqZExmOTdOTFpPS2s1RjJjWlJ6aDZXR09uRmpHWE5nZkJ2eUlFaVRLMFJJazFEUHVwUml4b2dLQzcwN2RzSUdsVjFha094MXB3WlBia3d2anl0WXZPWmk0ZHpOMHAtRnc?oc=5",
+"src": "CNN",
+"title": "State of the Union",
+"ts": 1795367963.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/international/video/2026/11/22/video-manifestations-de-la-gen-z-et-contre-la-vie-chere-retour-sur-un-week-end-de-mobilisation-en-europe_6814237_3210.html",
+"src": "Le Monde Politique",
+"title": "VIDÉO | Manifestations de la « gen z » et contre la vie chère : retour sur un week-end de mobilisation en Europe",
+"ts": 1795368032.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html",
+"src": "Le Monde Politique",
+"title": "L’idée d’une « règle d’or » budgétaire dans la Constitution soutenue par Marine Le Pen et Thierry Breton, critiquée par Gabriel Zucman",
+"ts": 1795368119.0
 }
 ],
 "seen": {
@@ -1773,7 +1794,6 @@
 "CNN|CBMihwFBVV95cUxPRFRFc211bUdTM2IzU2c5TkgyMmcxdWdZcU5ZZnRzLVVVQ3laQWFNRVVGRWJZMF9aR2s2OEJxRWNmS2ZRcTJ4bkpOenRJQkxKbElHZEpKSm95N3ZwcTgxX0RxZWt3LTBFcUd1UFZZdVlyREhzcnpBeGYtZV9KeTJMR2xsd3ZWdUU": 1795111127.9935796,
 "CNN|CBMihwFBVV95cUxPSGp5MFFLOVRoaTl3WW05TVJWaGh5VXJERlFvdk1MakpKZUtzUU5aRC01ekVPNENPai1Ra3Nya0pPTHFWX3I4SjBKWUxSMDZxSDhJUzhGbXBTVjN4YXBWYkpzVm1DWW55QUJqU3RDbzlIaWxDNW1sbENkenQ1Z3JxOWRTTFpFNlU": 1795039241.6164157,
 "CNN|CBMihwFBVV95cUxPU0FoVWpNUTVqelZTaWpBUVUyWnpHU2NITHFrdk9BQUMzTzNlWFpmWGlHa3UxcE85RkFYcUktcTZkTFlsazR1X2pCNEQ5V2NkS0ZiVUVqcTZzdmh6WmRCWHdUbmhVLUdhZTR3eHhLQWZDdTNGQ1JuMEVOMVJpS3JTMkpCSlo4NWM": 1794816039.1514192,
-"CNN|CBMihwFBVV95cUxPV2JMTGlBS3pZLVRlSVR5dXJ3TlVDVWt0c2hoVTNtdUpmNm9iOGNXX3N0dWkxcENkUjEwWVdBeWhEUG1lSDlZWTlEX0x1bGdxZlpmaFNDV3o2MkdQT0xqNnBMbk56UWVOS1VMVGY0SC0zYklNOTVoblFyeHRTTGlxX3ZOT3pQZWs": 1794763837.1021914,
 "CNN|CBMihwFBVV95cUxPWnFXNGNfQ2RELVJ3aVVjQjJ0aXBhbHJjbWhLbHF1d2R4aFBYVlRPeVNtOXZkYWtzZ3hqcVBmeVVSX1JfT1hpWlNHNzVqcmd2NDNuX2RLSlV6Wm1OYy1lQkNFTXlRdWRKTGl4d1YzdVpmamlQN0Q5RUVkTlNFcmlmWXd2VUd4eWs": 1795132841.7968645,
 "CNN|CBMihwFBVV95cUxPXzFxaVhYcDFONTlweU5ZNzdmc29RY1NQaTNtVnRKa3dTUENrRWpuV0hmNE5nSXExLVJzSW9FX25NM1BNazVpaUlZWDM1cm5iSV8tNUR5Z2w5UHFKOXJ6NXl0Tlo4dGpjb1FXZEp3NW1sVmR2Z3hUeVdFZlU5WjFRT3E2eWJ5SFk": 1795367728.2954621,
 "CNN|CBMihwFBVV95cUxPbzVadGNWMEdfc0hWVHpvbUpKWHFOYldmQ0dnYkFGSEdpR1NqZ1dwRGpHeUdydldNM2s4aTVLaUQzaUVZSW9pM3lUY1d6QVZUbDhpMmFBY3Q1ZF9EWmhnZnJ3dW0zTGUwakRwc2VLRWR1S2dvMUxLUTVmcjFxTm9hWGRSNXdSWWc": 1794856542.6165998,
@@ -2059,7 +2079,6 @@
 "CNN|CBMinAFBVV95cUxPSTBwWEFVM0w4UXlmVmQ3SkFYbXNUUkE2UzdrVFNYTWV2TklBbDh6dWFEMVpfLXJfWDgyRjFDWlI1SjJQTDBIYzJTSHBSX1ZWS0luUGVQbW9adjZDV3c5bmtELWlyejExTnlBSWZHNXRrdUxpVkduXzZYMnh3N0lNaFN4UUVEWi04VWJjcHZaaFI3UjZOY3RzOWJrUEk": 1795285034.035354,
 "CNN|CBMinAFBVV95cUxPTjRTcUNHcC1KNDdQVnBBTmlLbnJrMDRiZm4yOTFFUkJyNVJ6N1U5ZlVuLWdkWm40ZU1TVlh6T0UwTnRZYXU0cUZmTFpBb09KOXlXc1l0MDhvVWxUT1c4dU8zN0JVSmNXbWJwTE9LM0FXQ2hNaGpGc2U3Uk9JU3ZFVDIybjRWZVFiSFNJeWhiZXJWV2JUTmItLWhZU0E": 1795173326.894129,
 "CNN|CBMinAFBVV95cUxQLWZEWkRER1BTcmZob25uc1lhdmZsV2lIUWtuS19RNkxvWXZGeS1PM2Z1RVBobGdtc0tGZDhtVEY3V1VqYnpuRjN6dzNtR1Z3QXhZWGJwZk1SaHVJN0tMaXpqSHR1MXpzYXNvcDNjN04yWE9SY01Cb3FfRkpKS3lLc0xVb1ZsenV4Q2M2WXh3NnFVdnhPOTlzbm5wRFg": 1795021257.9388134,
-"CNN|CBMinAFBVV95cUxQRm5KMTU5eTdteHlhcms1LWdCLS01ZGt5clhOX1VJM1JoNFlmekVnSVJSZHNCTWxiV2ZsMWxGWHhBMzhvU0taSE1uWE01MnRLZjRpYmhZQ2RkOThEdTY0OVIwdkdhQllpRFV6elJNeV9RS09Jd2xUZjhkMGpSUTJFR19RSXg3dm41cWVaUjkzcW5SV25TdTRjaGNUaXY": 1794763837.1021914,
 "CNN|CBMinAFBVV95cUxQV1JmOE9RckRzdHBWdmZGQ2RVZnRySDJ5ZUlLRnhNOEk3Y1BPQ0NDWlFHeF9zOVJJN29hdzQ2VWZDWG1uTFQwcWg1UEwxdU1nUW9BZ0JPdUpOeDJrTzE3WG9Wb3VwZ1VmY05Nb0pWMWRvaGRUdXFaSE9acTVxSTNaUnoxREdsbEpHWnJvVUNnN09JbFhlandqR2ViZTE": 1795176043.9205928,
 "CNN|CBMinAFBVV95cUxQV1daR1hRU01kRkdxbEZMbjdlT2xHb0pXdFE2cWVORVhFMnY4QXJvSENFdnJXa3lkR1FIZFRTWTFrN041Y1drUFBub2VZT1hhdURVTl9Od0FCSmh4Tm16LVVHZFktemdrMkxwVEZhOTJGVVFwZGxXYTdTVlRobElXNXRYSnl3XzRHdEpfOHZDYm1mTUJhMWZqYUtUcGw": 1794855664.380905,
 "CNN|CBMinAFBVV95cUxQYkM4QXBxRnhJQ1l3ZmtJVTR5MTBNekh5Yk1yeWc2cXVzc2FsMGREQlczTTViVFliMk12NXMtVnhPdVlFMnRLNkMzOGQ2MWNSYVVwS3hObHlXMDZSZkRWME5Gc0RyVFpMSUFTLTkxSmY3MV80ZHZoblE0ckVJTDg5QWI3dGlCRnp5RkhidUdjR1Nxei1LS2dJcVRTbDI": 1794945642.9962833,
@@ -2089,7 +2108,6 @@
 "CNN|CBMinwFBVV95cUxQUUh2UXJYRy1SbDI1TzNxMFF3NWd6NlpIR282dkFXYjlxeUhQZWlSRk9BUmZTX25LTDdYUk54OV91ZkdLZklnR0FqOWRTcU8zY2FVa2VjQkZMSFZnaGc1OS1HcTlnUUZmbzZHQlJ1NjZaMzdlUWs1OW9PLUVOWHByRkVtakJBVVhCNllqZ04zTVFRY2JvZWpXbTQ2V3RLMFE": 1795133726.7477143,
 "CNN|CBMinwFBVV95cUxQUVlnOG1fNU8zWGNfUGJPY3N3NnJmSTlZMExMV2gteWhPck15VEtfNG1DTjdQX0RPNERvU04zeUlFc0dtcmw0bm9wNERWaEluSTJ6RXdOV3BIblFUYk9SVDBUc2RTSUhKWGJKU2JDX05tbWN6dzlYUHpvZUQ5SUg0RXd5WWxHSWRDdGtFelBNY1hJNTVLLS1WUWVfTEYyM0U": 1795303727.0445561,
 "CNN|CBMinwFBVV95cUxQXzZhYm81MFMta2pqX243cXVsNl9kQzdOaXMyVnR6TjV3bVNPa1N5VnQ1ZEFEaXJDQUdPS2xsT3RfY09JcmlGQVhnd3dubFp6TmNvZVZ6U2VrV0NRZUZPa1JwVkRPZlFxby1PVndoRS12ck5jWXBSQVpiZ0s5LUFrN3h6dFpvWVhsalcwU05lMFh3U0VBdnY2M25yY3ppeW8": 1794942043.3954837,
-"CNN|CBMinwFBVV95cUxQYk5xeUFmZVNmM0lNT0RVdHRrNUZZeXlyM1BFTEFNalk5V0x3eDhVeDJITldGNTY2OFZXZjdiazVuM2RiVkJ5MEx2NFhxNmNiNl9YOVlhVGFkelpMQkFwVEc4MndxalgyZ2VZNmhwc013ZmxHVnJka1A3dGxZdWpMUkduQVdiaGJFQm5BWWs0eDZPSkhkNkFrYjB0aHJka3M": 1794763837.1021914,
 "CNN|CBMinwFBVV95cUxQd25lV0RpN1BIc2k5MHFBWnQ2eExjeW9RUWk0S3BfbHZ3Vl9xT192bXpEU0tpQm4zVDl6UXRNVU9vUEdVWWN2VmlzbExFTDkwUDZWZi1STFlBTnZ0a1hsNmsxUC1NVGZwckFBWlZjSXFXeTlIeGxscVRKRnVGNWNxTjFRSllBdnpNcW1aM2lrODJPc283bzJXYjJVMWktYTg": 1795285034.035354,
 "CNN|CBMioAFBVV95cUxNQzc4RHNRUVpOTzg2TFg3NVJwN20yTDJaQmNlNGh6N2ZEbV9tMlRWdl93cENkWlE0TUlSUWtYMFBBM2diLTcyTHhIYUlxeFdteXpBN0MtVWpTMFNmM09WTzQyZXRLdDB5V01CNGZkN0NpcDdZWHZkQmxVN3l3dl9vZlUwUkxmVzRIV2VxOG5qTEVPWUxUbGtoLVF1Q1A3MTdm": 1795179651.4090025,
 "CNN|CBMioAFBVV95cUxNUkFjd29KV2tOSDg3U01rMExGOGZUOUl5WU94NnNBRXlOOUdwMVFlSkVtNTBudnBrbHVsMzdhbmVLWjZpclBfX18wZjZGcjFhcFpBcVh0ZzBNYjRsMm16Rm9zaGt2bnhLaTJDcWh3ZTJJV1RCRHF6T0tuRWUzSXJSWFVLSGVYVXFWX1dQb1d0em9oLW14cUdUMThVQXI1cHky": 1795085126.5044694,
@@ -2252,8 +2270,8 @@
 "CNN|CBMitwFBVV95cUxONHAwaTU1Nmt6MGJ2d0JwSHlPd0N0ZE1rb0F2QTdUeXUyb1VqMXNfQjRMSnJmcG1uRzRmQ2tPd3FkaWo0dHMybW5PcmpVRUpMVEVJOUg3QjE5REZmdXJxOWtKaTEwbGlQRzRaTjN0OHkwdWdkN1pYcXFXQkVURFZUb05ac3k0T3RQT2RoRUpic0JRT3VidlNVRWpPSW9UQjBfa1BWQjR1V0tncEt1ZjdaQjBWc3JWdlE": 1795210241.8119922,
 "CNN|CBMitwFBVV95cUxOUEtLYjQzRGFCd0s0QWt1dUU3d2JTU282VkFMUmxyMmExQmpJV0ViSnpYTThGZWxGRXlCMGI2WWwyZEktM3Nsd0s0bkN3UWt5YTV0akdnZnFxdUM2MWQ2eFVvejhDNS16bC1ocU1kYlhVczMyMFk0SFloZGFkUWc0eHF4am5yMEFyWFA5UWdrYVVpWFJHejFPeFBVdlNfeEZHaVREV21xOGM1RkhGby04X2RvYTdMUDg": 1794909643.5209646,
 "CNN|CBMitwFBVV95cUxOaENLd1NqbDNPNlpJZUlILTg3SjFScUYxeEtIMC14UV92dmV0a3NxSFVieThHbUhDbkQtd1pSV2dickdrWlV4TkdhUWo0eDlsUl9NcGllQzkzMnhwTzRaRE5qNGlubTFxSG80eEtEM3JMbXdsNDdGUXp4QkFOXzBFUkh5US0zdVZtOTBtMzFmblJTTi1pMVFXQmd1M3l6bVl4Mm52bzRtdExHakoxTWhGRk1sNWswMUk": 1795037434.107533,
+"CNN|CBMitwFBVV95cUxPMGEyUVJwNWJIaUdnemN0MFJQdnV0ajllV2dhZWJKYUxTZnFva3UySzhFcnc5TGcwcm9VNkJOUEh4RERUVmVBTXlCbEZLc3IxRFh1aG1jYTVqZExmOTdOTFpPS2s1RjJjWlJ6aDZXR09uRmpHWE5nZkJ2eUlFaVRLMFJJazFEUHVwUml4b2dLQzcwN2RzSUdsVjFha094MXB3WlBia3d2anl0WXZPWmk0ZHpOMHAtRnc": 1795368635.4724112,
 "CNN|CBMitwFBVV95cUxPQko4anBMTS10RGEwUDhoakRRcC12TnpUQXEzSmFfSWQ2Qko4LWNpRlZfdTRydUlFbzJ5RC1lS24wOTRvb0VQSEZ6Z1Q1a0RJTVl2TzhCSDkzcVhpelpsVEg0eXdkWVc4Y3dHOFJ3UTRBUnRYLXB0STktaGxkXzNSUkFGUkdkR1NnSElhMGtSY21XdW1qMk9IZFFQMDNkdnNGc2NGVmMtczZfNUtmU2trTUtsaHVVdEE": 1794955530.5145502,
-"CNN|CBMitwFBVV95cUxQRzBQU0xWMURBTWd6bURKeEtVNktsLVNLaTJiRXA0ZTcxV2NFX3RSMzROdHZUWmdxbjNfUFdLMXQzaE1vcUtxZlduQXpkUkw1TDdjMWNpVkhhdDAtSll2RFU5WXBGcmtLWWxYdDVOeDl0OHlUWW12RDRHckN6eUVTVTlPQjQyTlE3Uk1XVXE3LXdQWWJUSmd6WURiYk5ZV2g5Nkc3WWhWQlVsckxkNllldjM5NXkxVjQ": 1794763837.1021914,
 "CNN|CBMiuAFBVV95cUxNbG9LYXcwNUFMTHFva3JhZVBxczduWGFSSGw2MDZRdzgxUDMySVZQcTVrUGZsWWFSdEh0OU5aWFZBVVZKdUdGYWQwNXNFVXJwVUI1ZXpveTJvUXdiNEZkRmxlcDJ4UGU4RTdQRW1pN3hSLXFmUUc4ak1NZ3U1eUlQVDl4OEQ4azZGSEV1eEJ0Rlg1aE52MTNPeUV2em5oNUQxWlZJRXBLbmJ0dWkxTUplSTJLczM2TmNz": 1795157127.4052646,
 "CNN|CBMiuAFBVV95cUxOTlVxTWNOUXRjMllIN085YkFPUk85cXNZZmg2Sl9DUVYzeUJ4ckxjQ0FGOVRSdEtZd1Fwa2VlcVBpeG5OczdHZmNUekVhaGZIODE3ZW92YUhhTUVyVDhIdzdkbFJNM0w2UTBoUHNOdThlNmlUekg1MXdpUHA3T0ZMeXE3eXVFRkEzamdXRGkyaEZ5MWJyZi1IbG5uOHNrVXNOVDJPSDVod01MNTRZQ2Q0Ul9MOTZPa2Rv": 1795229127.7949388,
 "CNN|CBMiuAFBVV95cUxOcjljYnZ0eHNNbEdod1RJRElDQTEzT3pHS1JVNmg5emU4SHotbzIzeGdEbVN5RUZDRlZuXy01S2s2dkF0ZzY4NEF3SlE0NHN4d1JXSVVLeFFqNnBrVUJKa2ZiVXM5blJhbTBQUkdia2NlWGtsTlZ0YUhYSjl6bW5FWEMtTk1leXZpTHNXYWdxZ1ZlcUh5emFkU09uTzlxMGl5TkM0amlvRFRnR19KdTlCYThqYWdRV0Jl": 1795067126.4460716,
@@ -2851,6 +2869,7 @@
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/20/royaume-uni-prison-ferme-pour-le-militant-d-extreme-droite-danny-tommo-apres-une-action-antimigrants_6813680_3210.html": 1795195836.3103993,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html": 1795303727.0445561,
 "Le Monde Politique|https://www.lemonde.fr/international/video/2026/11/20/contre-la-guerre-et-la-vie-chere-pour-la-jeunesse-les-images-des-manifestations-en-italie_6813669_3210.html": 1795194042.8617408,
+"Le Monde Politique|https://www.lemonde.fr/international/video/2026/11/22/video-manifestations-de-la-gen-z-et-contre-la-vie-chere-retour-sur-un-week-end-de-mobilisation-en-europe_6814237_3210.html": 1795368635.4724112,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/18/faut-il-encore-reformer-les-retraites-les-faits-a-connaitre-pour-comprendre-le-debat_6813070_4355770.html": 1794978928.3095505,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/18/jean-luc-melenchon-et-l-ukraine-ce-que-disent-les-votes-de-la-france-insoumise-au-parlement-europeen_6813096_4355770.html": 1794991529.154102,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/21/presidentielle-2027-qui-sont-les-candidats-declares-ou-probables_6680905_4355771.html": 1795285034.035354,
@@ -2861,7 +2880,6 @@
 "Le Monde Politique|https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html": 1795124726.76715,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/11/19/medias-et-extreme-droite-histoire-d-un-glissement_6813222_5463015.html": 1795061725.6441245,
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/11/20/droit-de-manifester-notre-etat-de-droit-est-il-menace_6813551_5463015.html": 1795148128.903906,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/15/fractures-francaises-un-paysage-politique-clive-dans-lequel-l-election-presidentielle-n-est-plus-vue-comme-une-solution_6811038_823448.html": 1794763837.1021914,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/de-nouvelles-elections-municipales-auront-lieu-en-janvier-a-wittelsheim-dans-la-seule-ville-alsacienne-aux-mains-du-rn_6811964_823448.html": 1794843038.3002346,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-consensus-autoritaire-et-xenophobe-penchant-liberal-et-climatoscepticisme-au-c-ur-des-convictions-des-electeurs-d-extreme-droite_6811238_823448.html": 1794802528.8905563,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-la-violence-comme-marqueur-politique-determinant_6811535_823448.html": 1794812446.7197492,
@@ -2943,6 +2961,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-comment-l-argument-du-barrage-anime-la-campagne-de-premier-tour-au-risque-de-l-affaiblir-au-second_6813960_823448.html": 1795252536.5783057,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html": 1795303727.0445561,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html": 1795285034.035354,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html": 1795368635.4724112,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html": 1795353332.1042247,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-l-intersyndicale-de-la-fonction-publique-appelle-a-la-greve-et-a-la-mobilisation-suivez-les-manifestations-avec-nos-journalistes_6812905_823448.html": 1794892526.4495647,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-journee-avec-nos-envoyes-speciaux-a-paris-marseille-lyon-toulouse-en-bretagne-et-dans-le-nord_6812905_823448.html": 1794907835.2831342,
