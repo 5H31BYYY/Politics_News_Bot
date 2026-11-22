@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGhqS1NXLWdiOERsOFE5aTJSblZ3Y3U5bTN6SzdzRVhuS2NKaHZHTWl6ZVpCMTZrYmJDT0xKbmtfUjFVLXo0eG9NX01YVURfcDYySk9TdEZjSGU0SzM3VjVicExIVk1nS29SWEZTWWRzZ3p2Nmxrd3FjdDZFa2xTSG95U3YzcThZdUY2ZlA0MWgzcEU?oc=5",
-"src": "CNN",
-"title": "She Clocked in as a Nurse and Clocked Out With a Newborn",
-"ts": 1795253614.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-en-pologne-la-coalition-pour-l-ukraine-s-exerce-%C3%A0-l-ombre-de-la-guerre",
 "src": "France 24",
@@ -1217,6 +1210,13 @@
 "src": "Reuters",
 "title": "Can climate diplomacy build on the collapse of COP31?",
 "ts": 1795382143.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261122-elections-g%C3%A9n%C3%A9rales-en-rd-congo-la-symocel-doute-de-la-possibilit%C3%A9-de-tenir-les-d%C3%A9lais",
+"src": "France 24",
+"title": "Elections générales en RD Congo, la Symocel doute de la possibilité de tenir les délais",
+"ts": 1795383777.0
 }
 ],
 "seen": {
@@ -1522,6 +1522,7 @@
 "CNN|CBMib0FVX3lxTE4zN3JSS3QyR2ljRFJLblBLYVUxWVZELVB5b3JjeU9SS29MdWRqWGpNM0I4WEZ2OU1fMDNKUjhkdm9lbU1QYWFhTFNfTVd0QW5NOENkWS0yUDJxQ0dVc2laMjVzdFdRZnQzNmE1ZVRrQQ": 1795347933.9392827,
 "CNN|CBMib0FVX3lxTE51ZWdnODZmUEpFVVc4dVF3ZGdtSzFwUVZtZkRSclB6ZXFXbHlkZHZjNmU5UnRESTBtTjRyYmgtMEFQclBQNm5ISVQ2VlQ3VmVhMWlEUko2S09ST1BBSTJiaC1KQVUzbmNLck1zOEw1dw": 1795240839.1146922,
 "CNN|CBMib0FVX3lxTE5Lbnkxeks5OW1hSjhjcElVYUtUWlJkVjJjcXhSWllhcjNRYXZoQ3d2dkFjdkZOVS1DRWZrQWRGeTVOWWdKZWlyelN5UFdlRzh6TVdmZncydU84dk0tQkpYWDFvX2cxbnRmNEI5TWprcw": 1795132841.7968645,
+"CNN|CBMib0FVX3lxTE9KOERwVGVKa192WEF2UkhKbDBMem1GbmVVU1FGLVBkRmplT1RXOVNGS3JJaW01QjdndXl2dnRuejB1UExCNWxLQUtUUkxoWVJLYjFyanlMTnljMGRkWlpNd3pKZWRqamJFN3ZwUi1OSQ": 1795383924.07425,
 "CNN|CBMib0FVX3lxTFAwRm9zQnBtZ2dGNFRtMnpfV2VUMnJremxxcTA1NkFZMm9zUndSRDktM2FaRElLS0F1VkVQVTJVVzB0VXo5U1FlSFhRNnNLWi1LZzdJU1NFOVg4cEJrN3d0aGdyVXZaREwxTlFkaFhTSQ": 1795230042.7265394,
 "CNN|CBMib0FVX3lxTFB0eXZvU0pUVVJqZGJMcUVQTVFmM0QwZFNVTXBnVUUxbm5FUWZyWWx0Tk16UkdocmJDdjJFN1dOc0VRZkVsZ1J1RGpCSldYQlg3MHoxRW5kNzBoVllHZ3pSSUdtZzN0eVl3d1VSc0h5NA": 1794806133.02778,
 "CNN|CBMib0FVX3lxTFBMZ1JVNmxhdEo0NGNPV2RSTWdHenVFcFllMmVHMEV2WVRTSlB6MU1CYXdTeGxFUmJwMFZUejgyc29LMW0tb1Q4eFVRaEJuckJXYlFsTU1qNE92MEZiU0JjRkh6Tm1YQ01hbnNjTXU0cw": 1795285034.035354,
@@ -2640,6 +2641,7 @@
 "France 24|4eca4a46-e302-11f1-b328-3b31a3594493": 1794973525.6264477,
 "France 24|4f8c9ef6-e3f8-11f1-a0e4-c7ae21025669": 1795082471.8808134,
 "France 24|4f90fd94-e2b2-11f1-8ad8-57dac076eb8b": 1794940235.8315213,
+"France 24|5048c0c8-e68b-11f1-83e2-7b99c80322fe": 1795383924.07425,
 "France 24|50c9ec34-e40b-11f1-92d9-05394f350ba2": 1795088729.5648017,
 "France 24|50f7b1f8-e2cd-11f1-b7c8-1f7135d26f3c": 1794951035.5489872,
 "France 24|5153a5de-e341-11f1-99d6-f37f73a84b31": 1795003241.1748316,
@@ -2805,6 +2807,7 @@
 "France 24|adbc3dee-e27a-11f1-8016-59c86b2a102c": 1794930329.4841983,
 "France 24|ae1b9ef6-e27f-11f1-9c99-595b50f332f8": 1794929438.57118,
 "France 24|ae937202-e435-11f1-b592-3fdb82a74f7f": 1795133726.7477143,
+"France 24|af117e7e-e6bd-11f1-b884-73184c4a7611": 1795383924.07425,
 "France 24|af49f136-e669-11f1-8552-b1adb80e046f": 1795351534.9184165,
 "France 24|af6d59e0-e444-11f1-939b-41d0c91ce3bc": 1795173326.894129,
 "France 24|afcc9eec-e4fc-11f1-b582-51d86bce9055": 1795194042.8617408,
