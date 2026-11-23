@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "UK should only rejoin EU if it innovates on technology, Blair warns",
-"ts": 1795289629.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CcHdUNi1ybkRJUFNWNkpJc3dKa3AxM243aGs4OWVGRXR5QllfWXo3ckdSTEZ1UjMzdTJMUG5Ld3FDZWFHSTk1UUxlZHFwVWRmNWZzQUNYMFVraUVMa0tnTEsxclJ3VmM?oc=5",
-"src": "Reuters",
-"title": "Mexican forces capture alleged drug lord 'El Chapo Isidro'",
-"ts": 1795290113.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html",
-"src": "Le Monde Politique",
-"title": "Jair Bolsonaro, ancien président du Brésil, à nouveau hospitalisé en soins intensifs pour une occlusion intestinale",
-"ts": 1795290199.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPblBHN01yUE9VT21OdDBLZnpXSkE5V01kMFFTdERTdlpZQS0wbnh1U3Z2YlBhbUtIWjNfYzFqYWpORDdLdjViVG53TlhnOXNXQkFXa2RFTTFqaXNrR0RzY2pURUd4U1hHYzZMa0JIYTJQZzN0YWJhRDdhMFpnNmF3SnJlaEUwVExia28wN3RLMndwS3FiVWR4VFM0SW9iTlhOaS1GX3pxc1hvcmlHNV9ENW5HLWtxOUJ0Q2ViZFoxNEpfWWFUdEQ1QU5hWVFxYzlObmZEd3dtS2o4clZTMTVXZk1fUTVlRHhYZk9GMS1CSGNlblR1Z18w?oc=5",
 "src": "CNN",
 "title": "‘Like a bake-off’: Inside Vance and Rubio’s apparent audition for 2028",
@@ -1371,6 +1350,13 @@
 "src": "CNN",
 "title": "Sitemap - November 2026",
 "ts": 1795415415.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclN1bFN6SGcwYUZYc2hsUlJsRjZaT19SVE9QQlBSVXl2R1FIeVYwajJFMllBMTE1MmE1SWw5N3VnNm1iRXBoVGgzVmUwUEdkQ2FfM21STjFqc1ppeXRzMGRXN2Rob083d2cwWk5pczRtdDl1Wmd4OUVGYm0xbHphMlZxUmJ0LThoNnZXXw?oc=5",
+"src": "CNN",
+"title": "A ban on dancing? It’s not ‘Footloose’– it’s South Korea",
+"ts": 1795419181.0
 }
 ],
 "seen": {
@@ -2161,6 +2147,7 @@
 "CNN|CBMijAFBVV95cUxPZGVlaDAwQ2x6dDA2dVFFa0hpd3RzOVFDODJzQ3dHR1pXUDBseUdFMGRzSzlBWkJjMHc0YVdvb01sRnFZRzZKZTUzdzk5NzQ4YkNad291Ni0tRUI3YkpYY011UVotRXk5dU9maGw0QUNfaHlLNGRVNktxalhiSGYzZkk3R3J6X0VIQ0g2Qw": 1795176927.019521,
 "CNN|CBMijAFBVV95cUxPakEtY290VWhVQlR6UVpONzh4Y0ptTWdZeS1ZYTZLZzg3U0dodV9yOGJBMEhkSm1qUVJpS3hROG1hUVhlZGlCb2ZCOV80ajJZZ2JqUEF5d3dQdzVkVmdsbTVEcndzRVdKbGRlRGFLek1tX09EcGRtNFNLSkZKQWRiemhHRm56aHNkTGZ3MQ": 1794933939.8238747,
 "CNN|CBMijAFBVV95cUxQTzQzNTVfVXduV2dBWFFqbzI2MzVqXzF3cTNMMnprclplbVNJSV9lQUJRaWJDc1BLREFON2NFdnNBWGlMSmdoa2E1NGI3REZYT3pkRndYR1FWaXFVd2pnMDQxVnJOZ19paWVyOFVibUxaV2ZKYWtyNmZXUTQxU2FHVDhQaE9IQ2Z2MXVMZQ": 1795374925.6711144,
+"CNN|CBMijAFBVV95cUxQclN1bFN6SGcwYUZYc2hsUlJsRjZaT19SVE9QQlBSVXl2R1FIeVYwajJFMllBMTE1MmE1SWw5N3VnNm1iRXBoVGgzVmUwUEdkQ2FfM21STjFqc1ppeXRzMGRXN2Rob083d2cwWk5pczRtdDl1Wmd4OUVGYm0xbHphMlZxUmJ0LThoNnZXXw": 1795419927.342833,
 "CNN|CBMijgFBVV95cUxNOWpwS0NDMV9HX1A0MFN1OVhjd3dhVWZ1WjI3dkFOeWZzb25IV0RhdGRJdFRBTGJEd3BEUGNXOUE5cVBtS0JiZzRuLTBheHBQUVZSZlkyam94dE15VlNabWRkQTR2b3hLbGNlemNKMEZINHVQTGtPemZjeThNbXBGM05aZXB5Rk9mY1NtSW93": 1795091438.440524,
 "CNN|CBMijgFBVV95cUxNUkN4VVcteWxiNFVKN19NbEI3cm5XNW1lTnJLZVNPV1N4c2tJUi16czdOT0V6Q1JJWUN6ZXFDT0VqeV9KRkJqaFVlSzhMWjNkOF9NLTJmV1F5WUM1YjQxMzd6b3UzY3Ixb2tyWFRBbEk0MzM0ZHJULW9tc3A1N3VLZG5pRzRQMG1vMEVSUjhR": 1795194941.9928415,
 "CNN|CBMijgFBVV95cUxNX0VuN3Z3TnJ3blRxckxyM2piRkE1MWlQYUF2OGJWQmJSRV9ZcXhCVHdpU0hMd1FLRXlEU2FfUE1vUDR6UHpJS1hpYVBTcWFQbXFUR0pfUGQ1S3VEN3ZtaWdIclQwMzZvaFBacjZKQWVCZXZOZksteUw5V1ZacHFsSGp6RmlXMVdfYW0xcm5B": 1794974441.0162513,
@@ -2909,6 +2896,7 @@
 "France 24|897dfe2c-e356-11f1-87e1-eb4275e070c0": 1795014929.13376,
 "France 24|89b1f8bc-e3f6-11f1-bbfa-7b8659907848": 1795078857.451952,
 "France 24|8b484a30-e1c3-11f1-88de-a9e3fd89e95e": 1794837641.641186,
+"France 24|8b865d4c-e6e2-11f1-a878-2fb0ef8e8037": 1795419927.342833,
 "France 24|8bd8c72a-e35a-11f1-b6e5-6346fdd719fa": 1795014929.13376,
 "France 24|8c897400-e506-11f1-878a-2d755854e753": 1795195836.3103993,
 "France 24|8d108eee-e54d-11f1-bb08-f182e15d332d": 1795261486.363686,
