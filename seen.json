@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
-"src": "Reuters",
-"title": "Nasdaq has its worst week since 2020; Dow, S&P 500 in correction",
-"ts": 1795302228.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGtkdWM5MXZUYlhPd2dGcE1xc0hnWnFtdzMwcWtTRnJhZVRybjR2cnpDd2hpajUzci1RYWljdWZPUE1wUFVNb2JIcHM4S09yUjkzcmctSmhqd3B1MGNydnpZbVRQVmFoMDNUN2ktMUNvNno5Z2FGQ1lmbkVqQjVxa3hzamJWc2ozZDZLODgyWGs1RW93bEQtZHljaW94LXBEVmRXQzl5RTJHNmt5eGpUTFlLbTVTU2hpcmZiSGlkSTk4UEk?oc=5",
 "src": "CNN",
 "title": "Trump attempts to put ‘positive spin’ on apparent FBI security breach",
@@ -1469,6 +1462,13 @@
 "src": "France 24",
 "title": "Cisjordanie occupée : enquête ouverte après des incendies imputés à des colons israéliens",
 "ts": 1795430299.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UFAzOU9VZEE0Qk5rdFNLNWJvU2FqLTd5a0Z0N0RGU1JaclhBamtSR29tdUpuTU5adXlBU3JieDBPbnNkWndfSnRqck4xTGFMdHhQdmdQQXhCeW00cTBSdFBPY2dnUExkU292cjJ0Zk9TWnM?oc=5",
+"src": "CNN",
+"title": "Republicans mulling deal that would fund military, but limit operations in Iran",
+"ts": 1795431615.0
 }
 ],
 "seen": {
@@ -1501,6 +1501,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c893r4923wngo#0": 1795303727.0445561,
 "BBC|https://www.bbc.co.uk/news/articles/c8n50457edd4o#0": 1794982533.675623,
 "BBC|https://www.bbc.co.uk/news/articles/c8n50457edd4o#1": 1795085126.5044694,
+"BBC|https://www.bbc.co.uk/news/articles/c95y100nrm41o#2": 1795432116.4124994,
 "BBC|https://www.bbc.co.uk/news/articles/ced75e7d11po#4": 1795336844.4007232,
 "BBC|https://www.bbc.co.uk/news/articles/cj04w7n74gqno#0": 1794837641.641186,
 "BBC|https://www.bbc.co.uk/news/articles/cj04w7n74gqno#1": 1794879034.5829694,
@@ -1567,6 +1568,8 @@
 "BBC|https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#2": 1795030235.480869,
 "BBC|https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo#0": 1795335972.510022,
 "BBC|https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo#1": 1795418129.0735571,
+"BBC|https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo#2": 1795432116.4124994,
+"BBC|https://www.bbc.co.uk/news/articles/cr78251892z7o#2": 1795432116.4124994,
 "BBC|https://www.bbc.co.uk/news/articles/cr868jnlllpgo#0": 1795356040.4708402,
 "BBC|https://www.bbc.co.uk/news/articles/crp3e1n5kezpo#1": 1794938441.853177,
 "BBC|https://www.bbc.co.uk/news/articles/crvg2n8vwyqdo#0": 1794836730.8401408,
@@ -1786,6 +1789,7 @@
 "CNN|CBMibkFVX3lxTFBia1lORnFBYlkxMVNaMGx4TW5CLTFGM3pjMHJhWlpIUWk3Q2NGRmpmMVNTTU1tcmxRTWVtUjE4VXVudGJIM0dOUC1VTm9PY2NrTkNIMDFMMDFCX1U2cHg2cTUtSHo4aDU3OXlVV21R": 1795364127.0687544,
 "CNN|CBMibkFVX3lxTFBxWEx0elBmZmFsbTloenBfTWI1R3F5TU51OHc4ZlJfY3ZEYzV5QnVYOER6NFlOaDBwME03cWJCMXNUbXlSVFpEb01YbEpFZTZTdjF1SWd5ZnBJd0FqNWxoaEd4YkFuZlZUdm1DdnVB": 1795104042.455837,
 "CNN|CBMic0FVX3lxTE0zRVdfUDNuZlZGcjVSSXdKYWNfNnlVdjBnSTlPd0ltMnZFZFRaeTlndW0wTV9seEJVQ0piTzQwRkhNWnR4d0RnOVI0ekRUWFdGay1TTlo2UTVzdXdVU3BKQVdXbm4zaGpYNzdxbmRMcXQxSFE": 1795285034.035354,
+"CNN|CBMic0FVX3lxTE13UFAzOU9VZEE0Qk5rdFNLNWJvU2FqLTd5a0Z0N0RGU1JaclhBamtSR29tdUpuTU5adXlBU3JieDBPbnNkWndfSnRqck4xTGFMdHhQdmdQQXhCeW00cTBSdFBPY2dnUExkU292cjJ0Zk9TWnM": 1795432116.4124994,
 "CNN|CBMic0FVX3lxTE1DSWhQWjB1OTdjYjhPVFJtRTZDSzVFOF9nM09ZOE0ya3QxSTJpMGVub1p0bjE5NUtSamZMUVJQQW1nejlTX3J3b2tleENYSk9CNkVpLUN1Ukd4TTg4bVdNZTdyOGtWWElLd2NxR0hXODJFM1k": 1795095036.5492787,
 "CNN|CBMic0FVX3lxTE1MdDN3X28yR245WWFpazBrZ1M0QWczN3FNY3RCR2djcGFVWk9wcmowM3hSWXJWUkxqYnRMRmhUQmF2Y2xFazMwaExqb2xyYUprVHhhbG53ZXY3VzE4d191OWRQR0diczlGSjd1TFRnN1ZMVUU": 1794964538.451117,
 "CNN|CBMic0FVX3lxTE1ULTJBeGFScXN2U1lIZldUaTladXF2Y2taSUg1Q3c4WTdmc29XaGVPRU0yUHdiaGNlWXNJSkJMZEFpQ3JkbExhNFE3VjJnTWZGaV9aYWlkU29ZNkhWNExmbUh2R0dBLUZLbHF0VDV4SFVrZ2c": 1795171526.257736,
