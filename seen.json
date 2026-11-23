@@ -8,20 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmE0TkphdGtNSG5vRGplXzBERWxxVVNfRHlfMDVzUjdpbVIwSm9pYUo1emtJWlM1R1FyU3JZUUMtVHQ4NVgtWWZvTU1Tc1JWcEhfbkFzLVFvMmdvbjNVVEFtYldsTDNuVEMwcGx0cm1iQmlVaXhLTWF3RmtGX0w3dFdpempiVXVyajZqTlREb3Y3X2dNYWxBS3VBa3dpUWFVQ2NVVHAyR0xEZw?oc=5",
-"src": "CNN",
-"title": "The world is on the verge of a religious shift. What’s driving it?",
-"ts": 1795281503.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2o5a0NuQ2REU0xOUnFFekFUbjV6WVdyVVNlci1yLXVlUE5vZTg1c0Y3djhsdlJubFhhSnNPZTBZdXcwR3FQMFJJVy1oWTJ2WHR2X04yQnNQbkFZODRuTUJyYlkwVnJ0TnVVejBfcGRkNk44Rm1ndGRhRHpWNWV1NWhTYkxOWG9mbndKVGxFcWtYNGpNc0tkRlZMZks0ZGk3LWJvY2h5ZDIyZw?oc=5",
-"src": "CNN",
-"title": "Is GTA6 gaming bringing us together or pulling us apart?",
-"ts": 1795282155.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
 "src": "France 24",
@@ -1322,6 +1308,27 @@
 "src": "Reuters",
 "title": "Europe's cloud sovereignty push gains ground, but US hyperscalers remain dominant",
 "ts": 1795410180.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261123-turquie-la-cop31-se-termine-sans-accord",
+"src": "France 24",
+"title": "Turquie : la COP31 se termine, sans accord",
+"ts": 1795409312.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/moyen-orient/20261123-israel-partis-gadi-eisenkot-benjamin-netanyahu-achevent-discussions-sans-parvenir-accord-likoud-coalition",
+"src": "France 24",
+"title": "Israël : les partis d'Eisenkot et de Netanyahu achèvent leurs discussions sans parvenir à un accord",
+"ts": 1795411168.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/23/gaspard-g-youtubeur-les-regles-de-la-tv-sans-les-aides-de-la-presse-c-est-le-pire-des-deux-mondes_6814347_3232.html",
+"src": "Le Monde Politique",
+"title": "Gaspard G, youtubeur : « Les règles de la TV, sans les aides de la presse c’est le pire des deux mondes »",
+"ts": 1795411206.0
 }
 ],
 "seen": {
@@ -2222,6 +2229,7 @@
 "CNN|CBMikwFBVV95cUxQdmtwSFFYTTZ2S09wOEZ5TlA4QVUzdWhMODAxcFNyY01HUFB4SFFqWXBzZTl5TUVmUjZaMEFaVDBBcXA1QURsbTc2U3hoYnMydGZSejNxcFJxQUtOb2hPcWFMVVhOTkptNFRkV2hFeGNyTnhnRURlaDFKYTZONFhWbjFRMENrTGZaLXJHSjE0dkhrVVU": 1795060837.7882113,
 "CNN|CBMikwFBVV95cUxQeGhqS1NXLWdiOERsOFE5aTJSblZ3Y3U5bTN6SzdzRVhuS2NKaHZHTWl6ZVpCMTZrYmJDT0xKbmtfUjFVLXo0eG9NX01YVURfcDYySk9TdEZjSGU0SzM3VjVicExIVk1nS29SWEZTWWRzZ3p2Nmxrd3FjdDZFa2xTSG95U3YzcThZdUY2ZlA0MWgzcEU": 1795254326.2271338,
 "CNN|CBMikwFBVV95cUxQeXRtdGlqTG96cDNoV1JmS2FuV18yV0Z4bDdpQUVFMXJtRkJBYkZoUm9FVEYwQjlpREN2cXd0X2FEQWYxR3pmc2ZNZUtmMWs1cXlIY1haanB4OW9weHNnUXU2Mk9PSjhCM0o2dkl2YWt4OGlMWTdfTG4zNHVqTlBGZlNaMDdqMFpsTW16Y1hfaFBCV1E": 1795022128.5402737,
+"CNN|CBMilAFBVV95cUxNS1RURjNCWjdvTnVLVm1GS3N5ZUk2TFpUc3JSdWxEd29wclprOV9mR1kwcHZIUDdjOWE5czlSRW9aTXBjSHdQeHYwdklScHNOd3dBVlRldXpHQzM3TWliSTVDZnBUcENwTk4zdWNPV2dMLXZVY0NaakVxY29IeWUxaEV0Y0Q5cnYtUTFHWUMyUW9QVUEw": 1795411834.818295,
 "CNN|CBMilAFBVV95cUxNUXJldDUzZVByTWV4WV9WR0QwZF9QU3JPYmVXRklCVzFONHl0d2N6RWlhUHYtOFBETnR4MjdqU3NvYzdySHdBSVRocU54TkhDSHBHbl9kcFhEVjM1MmFVMGpPcUlldHk1M1hPYTFVeWstODFXNUN6MDVjNDJoSDNqWGl3aDJYVXBBcmFDNXYyQ0M0dUZV": 1795190449.4291084,
 "CNN|CBMilAFBVV95cUxPcUNHa1g1U0M3VnB0OUcwUE1mS3hVcVRoRTA3OTg4OXMtRGY3TFlObWVkMVRaTFp5NVBkbVplUUtVQ25pNElDeWctc1BvOUI1SE9TbHJ6cnpiWWpLYzR4X05lcWJCNG83TW1lcW1aRlI5cUJGaXZOekJBRjFzSUZObnlTaEQ5NVR0MUR3bzdhUDAxbkgx": 1795043728.2390366,
 "CNN|CBMilAFBVV95cUxPdnV3T1lRa0pKY0ZDMDBpcUIyOHRwbVB0Z0k4c0tPNllnVVFHNl9VNGY5U3FuVVVmVkdRSm8tUEZEeVpCVV9KQXFjZlhPR3dQVjd1dlBDYk1MWGZrTGtEVmJ3dUxkbWVmbGpFWlQxRVZBcUg2VmFrdVJmNXQxME5UVVJZZDlRdVFRMUF0a0hGQkJWbWJN": 1795162526.0845933,
@@ -2880,6 +2888,7 @@
 "France 24|980d34c2-e332-11f1-a70c-7dd683f00449": 1794997835.9014316,
 "France 24|98554c74-e203-11f1-b3f5-b189343949ce": 1794866440.3067124,
 "France 24|9a4e4b70-e4f1-11f1-b5f0-e9dd789a7cad": 1795195836.3103993,
+"France 24|9abbebf6-e6fb-11f1-8f97-0115e6cbaf3a": 1795411834.818295,
 "France 24|9ad971b4-e366-11f1-bcfe-abe39dbd3cfe": 1795021257.9388134,
 "France 24|9ae3095c-e1f6-11f1-8c1d-7bc933339a1c": 1794860129.9847298,
 "France 24|9b1cb79e-e2a3-11f1-98b0-e35b13d88367": 1794933939.8238747,
@@ -2978,6 +2987,7 @@
 "France 24|d407f342-e27c-11f1-a099-630dae9af3d4": 1794917728.114598,
 "France 24|d40f0d08-e3fd-11f1-ad6a-716fc05a0009": 1795082471.8808134,
 "France 24|d5d50fd2-e337-11f1-8afc-3db251848732": 1794999645.579125,
+"France 24|d5f4ea18-e6f8-11f1-9f77-6df6dcc2d776": 1795411834.818295,
 "France 24|d863a9c4-e4d2-11f1-9cfc-f74c1ae58bbf": 1795175128.4886515,
 "France 24|d98a0bb8-e379-11f1-b3ad-0f94d98a89dd": 1795082471.8808134,
 "France 24|da5c4d4a-e40e-11f1-be04-8b516facbc5b": 1795091438.440524,
@@ -3086,6 +3096,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/20/jean-luc-moudenc-maire-de-toulouse-gabriel-attal-david-lisnard-edouard-philippe-et-bruno-retailleau-de-vous-quatre-il-n-en-faudra-qu-un-comment-faire_6813555_3232.html": 1795149929.2677069,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/21/entre-la-france-d-un-passe-idealise-et-la-nouvelle-france-nous-avons-besoin-d-un-autre-recit-national-sans-enfermer-personne-dans-ses-origines_6814042_3232.html": 1795285034.035354,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/21/nous-sommes-face-a-de-nouvelles-socialisations-politiques-les-mobilisations-en-france-en-italie-et-en-allemagne-vues-par-les-philosophes-michael-f-ssel-et-martin-rueff_6813919_3232.html": 1795238138.171145,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/23/gaspard-g-youtubeur-les-regles-de-la-tv-sans-les-aides-de-la-presse-c-est-le-pire-des-deux-mondes_6814347_3232.html": 1795411834.818295,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html": 1794869126.7947497,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html": 1794978040.0109122,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html": 1795063525.8877308,
