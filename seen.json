@@ -282,13 +282,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTDhycVJFZ1lnYV96d19ndThhekUyMTZUVEFuUG5RaEJHQTMzT3N0UklpVm0xTDJ5VFU2R2kzQ1hvY1phMnlNM3dKWUExaml5b19EQ3dHUXJZZzN5ZlFfYVVvVzVtVGd6ZHpVWlMydVc?oc=5",
-"src": "CNN",
-"title": "CNN Newsroom",
-"ts": 1795338000.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSk53cTA1czNlMWJ1enJXa0NGVFgtYUNfa3ltLVMxOUpXdFVNVkVOUXlXcE1OdXZiYW1QT0dzYnhoQWJPRERIc0staVJGZ2RUdzRWSlZuZmwtNldyTVBjVVZpX3QtaVJrajRIMkhxWE8tby01NGFreTJnSHJXSkI4Z2tUajV6SlJJQWtN?oc=5",
 "src": "CNN",
 "title": "- CNN",
@@ -3037,6 +3030,13 @@
 "src": "Reuters",
 "title": "Huang's stunning Nvidia return sparks relief for battered AI trade",
 "ts": 1795466442.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html",
+"src": "Le Monde Politique",
+"title": "Budget 2027 : Sébastien Lecornu appelle au « compromis » dans une lettre aux parlementaires et liste les priorités du gouvernement",
+"ts": 1795466571.0
 }
 ],
 "seen": {
@@ -4865,6 +4865,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/22/l-idee-d-une-regle-d-or-budgetaire-dans-la-constitution-soutenue-par-marine-le-pen-et-thierry-breton-critiquee-par-gabriel-zucman_6814238_823448.html": 1795368635.4724112,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html": 1795353332.1042247,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/a-saint-fons-hadi-mebarki-met-en-uvre-le-communalisme-de-lfi_6814413_823448.html": 1795450539.6604943,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/budget-2027-sebastien-lecornu-appelle-au-compromis-dans-une-lettre-aux-parlementaires-et-liste-les-priorites-du-gouvernement_6814451_823448.html": 1795467641.52155,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/budget-ces-cinq-obstacles-auxquels-se-heurte-le-projet-d-inscrire-une-regle-d-or-dans-la-constitution_6814433_823448.html": 1795455927.5708222,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/en-guadeloupe-la-defaillance-de-la-securite-sociale-met-en-difficulte-de-nombreux-beneficiaires_6814340_823448.html": 1795410927.6148431,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-a-tarascon-le-maire-rn-veut-faire-de-la-ville-une-vitrine-pour-marine-le-pen_6814388_823448.html": 1795441526.9127512,
