@@ -1336,6 +1336,13 @@
 "src": "Reuters",
 "title": "COP flop triggers backlash in Australia; Pacific nations express despair",
 "ts": 1795414320.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/23/presidentielle-2027-la-democratie-doit-etre-une-confrontation-d-idees-et-non-de-comptes-en-banque_6814356_3232.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : « La démocratie doit être une confrontation d’idées et non de comptes en banque »",
+"ts": 1795415406.0
 }
 ],
 "seen": {
@@ -1574,6 +1581,7 @@
 "CNN|CBMiUkFVX3lxTE1heTZ4akNUMlFveTl4Sng5Mk9KSXF0Q0lxUTVpeUNtaVhGa0ZnZjUwVjVtX1dUMXlUZGxyeU9LTGZ5alg5aWJOQmNOemJwdmg3aUE": 1795400127.7741086,
 "CNN|CBMiUkFVX3lxTE1laG5neXVwUFdRZ3gyeGhDOXptdGhWdEROMDlnZl9lMHVJSnNIU093QjNPTmhrM241akFXRWdpVDQtazFYdXUwaFB6Q0xRREEzRHc": 1795240839.1146922,
 "CNN|CBMiUkFVX3lxTE1yRFNSanJBeXBaSlVLX3ZqTjRsZTVidjZpUnVQai1CSExIN1hUYUh1ZjJ4U3J3RW5RSmE1WEx0UE5URGVfUFIyazNHbGRyWFdkbWc": 1795120247.1825867,
+"CNN|CBMiUkFVX3lxTE4tVENvTlVxR2ZSUGttYVlYUFlVRlJfSk9ZdHR2OUZ2UklzbVZYVThHR01pYkhZT2oyS1Q4c1p3QUdnVmRPdnZEN1lSX1dqNHZ6U2c": 1795416327.0888858,
 "CNN|CBMiUkFVX3lxTE4xYXlnUkxMTlloakVtLXR4SmxSdWJXX3A1TGU1Q0xjTDk5WWF6ZTItYjB4eWZ2cnFHb0lIcXlaSW9GOUtMZVJCczJJQ0prLWFqZ1E": 1795336844.4007232,
 "CNN|CBMiUkFVX3lxTE5UbkhMMngyaG5RbUxmS1ZGOGtMZGpWMi1GZWM4TGdVUV9kT0wwRjhITEVWVERVZnY4ekZhU0lFbWtMNWhjZGpJdm1iek5wS0lrZUE": 1795352443.9832923,
 "CNN|CBMiUkFVX3lxTE5WUDVWMnhxMzZqODVLSjJMREwweE00b1c2WFMwcDJwaW1FRkxYcFlZOElwZkVUYTN6c2pIRGQ5V1FPd3Y0X3dFaS1iQlpWLVBqMVE": 1795338926.864661,
@@ -1725,6 +1733,7 @@
 "CNN|CBMickFVX3lxTE5fdE9UY1FBdEdZbFlBeGxGWU1uU05RT3M3UGdsbjFvdUZQeDJ5VVdITndBSjBFaXh2MHBYdXlNYmFaSVh1ZC1pQ0M3Skd3OEZ0THliV0hNeW0wTG9TLUNPeGd0bGNTaksyb2N1S2JKMTh3UQ": 1794835834.9430282,
 "CNN|CBMickFVX3lxTE5feGZ1SXNFTy03eGxuWGxyb0xkOGVJZExoZGVKTDZaWjMwMXVlNGt1UTFaVDZ6d2pOZF9CbERlQlhWYVF5ZXZkaHRKanlkSVdKVFZaTHY4RjlScmlnWDhrX1o1SkpZXzNsQ0tMNkFTeEw4Zw": 1794843929.3911307,
 "CNN|CBMickFVX3lxTE5mcWdsOEYxc3lqZFhTSFFtZENLUzJsS01OMkY0WDZXNkE2N19ncEZCaGhwX0V0Yzk4XzNGOTlrSndURXFwbnQ2Rmhjck41dlpRT3BmSmZCZ0tsOFlOZzZISEhCYnU0RVFOTnVoY2tkVTMzdw": 1794891644.618442,
+"CNN|CBMickFVX3lxTE5sYzRhWjRabGxEVXB6MEZMOTIxRm1samtuTzFSVHFBWGpvQmNkWExuLUFuUDZ3T2hBbXpxRVVRa0JlamhWRU1oUXlERmJEQThldDdTWk9ORG1yblhOcEVDU0pMd1JIRm4zV2tvNEdkNU93Zw": 1795416327.0888858,
 "CNN|CBMickFVX3lxTE82ZVRmbFVyOHJScm93ekU5MklXUGVkS0xNbUU4VW5UV19GazdMRERLR21POUdDZnV6Tk1rUGtiS0RTLWtOeHNpNFd2bll2VmRvbEVCUVlrQU5OOUIzc2VFN01EM2N1QU9iTzFTS2xveWtfUQ": 1794906928.3921034,
 "CNN|CBMickFVX3lxTE9XUlM3ZzlFZWFsVXpfNUxubHdxY3hPMUhTV29UWS1DTE90eUJIaU9tOVotTC1YMldoUzdQUGlpa0pyZUZuSDFiV1BRRnd6eHhFRFlvX1o0VnN2R25EaFNYVXYyNDZvMUhRclpkd2NEaVRUdw": 1794811531.3019524,
 "CNN|CBMickFVX3lxTE9iTGJWZmNHbEZ0ZjlNVmgwZnBUSUt0S0ZKS0VXUzNxTVNhVHF3NkpzaEs2bEh1cmxoMG82VnlKSzFZbGhVTGJTcXowcG5XMndWNEtBb3FlbGFDTzhOcnBWN0dSbDk2d2JWY1ZfYloxSDI1Zw": 1795159834.336623,
@@ -3101,6 +3110,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/21/nous-sommes-face-a-de-nouvelles-socialisations-politiques-les-mobilisations-en-france-en-italie-et-en-allemagne-vues-par-les-philosophes-michael-f-ssel-et-martin-rueff_6813919_3232.html": 1795238138.171145,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/23/antoine-lilti-historien-il-est-tres-frappant-dans-les-mobilisations-en-cours-de-voir-que-ces-jeunes-reclament-que-la-promesse-des-lumieres-soit-tenue_6814349_3232.html": 1795412726.0370994,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/23/gaspard-g-youtubeur-les-regles-de-la-tv-sans-les-aides-de-la-presse-c-est-le-pire-des-deux-mondes_6814347_3232.html": 1795411834.818295,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/23/presidentielle-2027-la-democratie-doit-etre-une-confrontation-d-idees-et-non-de-comptes-en-banque_6814356_3232.html": 1795416327.0888858,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html": 1794869126.7947497,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html": 1794978040.0109122,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html": 1795063525.8877308,
