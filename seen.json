@@ -1280,6 +1280,13 @@
 "src": "Le Monde Politique",
 "title": "Teddy Riner, le candidat que personne n’attendait",
 "ts": 1795406405.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtaVc4ZUs3RmNIYzhwUjRUTDQwOXJXYm5WTDU1WlBYazBkSnV1RmJfd2pfa2xEd0w1ZDBuTVhnYzBvd1V5UnRDWnNmZHQ1WTZVMk9FMUhZVDVmMy1YUHAyR0Nkc0xoOEE?oc=5",
+"src": "Reuters",
+"title": "'It looked like a kidnapping': Witness describes ICE arrest in Seattle",
+"ts": 1795407804.0
 }
 ],
 "seen": {
@@ -3056,9 +3063,7 @@
 "Le Monde Politique|https://www.lemonde.fr/podcasts/article/2026/11/23/teddy-riner-le-candidat-que-personne-n-attendait_6814307_5463015.html": 1795406441.3684838,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/de-nouvelles-elections-municipales-auront-lieu-en-janvier-a-wittelsheim-dans-la-seule-ville-alsacienne-aux-mains-du-rn_6811964_823448.html": 1794843038.3002346,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-la-violence-comme-marqueur-politique-determinant_6811535_823448.html": 1794812446.7197492,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-17-octobre-une-journee-de-mobilisations-et-de-violences-revelatrice-du-profond-clivage-generationnel_6811270_823448.html": 1794803433.479111,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-le-lien-entre-activite-humaine-et-changement-climatique-s-impose-dans-l-opinion_6811600_823448.html": 1794815137.0070627,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/fractures-francaises-marine-le-pen-et-les-limites-de-la-dediabolisation-du-rn-a-l-approche-de-l-election-presidentielle_6811336_823448.html": 1794803433.479111,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/l-assemblee-nationale-adopte-un-texte-pour-debloquer-l-epargne-salariale-a-la-veille-d-une-nouvelle-mobilisation-pour-le-pouvoir-d-achat_6812558_823448.html": 1794867327.1035633,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/marine-le-pen-assure-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue-presidente-de-la-republique_6812229_823448.html": 1794851128.550975,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-a-metz-a-nice-ou-en-ariege-lfi-et-ses-reunions-publiques-a-la-conquete-des-territoires_6812171_823448.html": 1794847530.0264525,
@@ -3287,7 +3292,6 @@
 "Reuters|CBMiZ0FVX3lxTE5CcHdUNi1ybkRJUFNWNkpJc3dKa3AxM243aGs4OWVGRXR5QllfWXo3ckdSTEZ1UjMzdTJMUG5Ld3FDZWFHSTk1UUxlZHFwVWRmNWZzQUNYMFVraUVMa0tnTEsxclJ3VmM": 1795303727.0445561,
 "Reuters|CBMiZ0FVX3lxTE5FakhqdmR3QUNNai04UEg2RDVHeXJjRGVmSXNQcHpIdE1DRjJxQVVhM3FkVnVTTkdtU0xCMENjLThYMWhDM19JWUZBWWhWT052LThJZE04b0J1RFY0WHhxLVFPWUZvOEk": 1795169736.3908436,
 "Reuters|CBMiZ0FVX3lxTE5HU0c1dktzVlNfNnk0dmZpTGxZQmZrMFRYWnZLTXVPdTVwU0Z5Y0hzckRtMHo3UHBJbDN1bFBEb3JiZXJWdUdYVnVucXhiN2JEaGJZbnY4cTAzLXFRSFFuXzlhMXZBSEU": 1795088729.5648017,
-"Reuters|CBMiZ0FVX3lxTE5KaWJsVEhrcnpRampxcjB1ODBlMERub1N0OXgxblV2aFllYTBYWlRBVkFtOFd5ZnhCampnWk56NWdicmNrckVBa0Vzeno3WlB1U0NObGRUZThweEFza0R6dmZBbi1Kcm8": 1794803433.479111,
 "Reuters|CBMiZ0FVX3lxTE5KdEpoZm5LYWhST2Jib2NjRWtiT2xONDhfZndLVjZTTFhIREx2MnlnYWVRVGZzTTFFcGZhckZJeVJFMGhMbWlnWnluODdhOWE0bU1tNjduNFhMU1ktVjdpVElyY09XWWM": 1794853838.1541076,
 "Reuters|CBMiZ0FVX3lxTE5LUGZ1Qno4bVNMVF84VzV1elo0MVBCMEVUa3JZc0FwY1Q5QWNhaDJ0VlcyN1hYeTNjRnlURE9fblhYRHVucXFTUDRmQWxXWTQ0SXlIVUtDMUZsY09QX0Y0OWNXUkpJTUk": 1795078377.8773239,
 "Reuters|CBMiZ0FVX3lxTE5NVW5XZVlnLVkzM0ZUazlpZGhYalV2a2huV0xXZVF6Y3Z1ZWQ4WHR3MVRGUC13cXdCRjFOZFVSSXNhWGJGZ1JadDEzTk9pc2hueUt1Y3h4eE1mVW44cWNra3gzcnJaZ0k": 1795370441.3755467,
@@ -3355,6 +3359,7 @@
 "Reuters|CBMiZ0FVX3lxTFA3dmJVcUhBd05XbkszX2g5a25YaWtjVmU4emZ2OHlXZ1FCOVE5TVg5WGtDRGxhc2lWblBLZ21FbVhqcVZfV1JWN0RFSXNPX1VPMEZYY20wSW5YNG9FQmgxSjc2VlE0WHM": 1795044636.318581,
 "Reuters|CBMiZ0FVX3lxTFA4aFRORGVkX2VMbDBVX09WSHdHcHNpTS1idC1mckp2c0F0TnVha244X3pCUmdmS1BjX0NYWS1WR2o1TjJNMVktZEVJd2RMR3JxNkpOVnNzOS1oSkRhcFBfT2ZCUXVrUGM": 1794852042.735301,
 "Reuters|CBMiZ0FVX3lxTFA5dDg1azJYdFgwTm54S1g3eEROTEQweTFiTWk2RGdSMVVoVEJtU01KSlVkSlA2UDdkSGFKX1JLUll3WnQ2MDhhaFRDODVnR0ctbnJ3NzE5WTNaOHlLNEpfN0RNUGp4SE0": 1795200333.340859,
+"Reuters|CBMiZ0FVX3lxTFAtaVc4ZUs3RmNIYzhwUjRUTDQwOXJXYm5WTDU1WlBYazBkSnV1RmJfd2pfa2xEd0w1ZDBuTVhnYzBvd1V5UnRDWnNmZHQ1WTZVMk9FMUhZVDVmMy1YUHAyR0Nkc0xoOEE": 1795408235.2113225,
 "Reuters|CBMiZ0FVX3lxTFAwek4tcllkQ0hSczBhV05DNDFxaGNoYmFLV29vUlF2WUgtWjd3M2lRdThzTV9iZHo4VXMyLUhPOFA5SzN6QmdGdG5Bd2xwaDhuQTVXc0ZlMkFXay1yN1JidjB1TFpvcUk": 1795230042.7265394,
 "Reuters|CBMiZ0FVX3lxTFB3MXhGT1RBMC1pdHkxdzIwTWRReFFaa1VsUlJjUFZtTkhnUU9JMnZ4aDV2VDlCUFdyS0pHZWIwdng3eF9SWlloS3pjU0dGQmp3T3l2MEdkcGVPMURJSEg4WnNCTlRfNUU": 1795059034.8381524,
 "Reuters|CBMiZ0FVX3lxTFB4aE5FbkhBRFdITldkcV9Gd3ZfNV82LTZselNabzlLaDZWdDFEdlpVUlY3ejVWcXhyWVVUbVdjckRSNGJtbGJHOWhtdnJ5Ym16WW1RVkZnanNCbGFjM2lyQjVvNDlucWs": 1795071643.1942382,
@@ -3755,7 +3760,6 @@
 "Reuters|CBMiqgFBVV95cUxNQWxhSndRSHRSdEJXcm1fQ1gtc0wwRGZJM1lobnREeE5zMVM1UC1TXzA3ajI4bXVsVVlNZE1EWng0Y0ppTElHd3Jfd1cwQy1WYk5ZaDM2TVhTWHIxTlVzN2U4a0VIZ1FDTG1UTWJXZTh4RHlNLV9MLXdCQTM0NWl6amhfdHA5bFFDVEpLYXNnb1ktaWxPRGlhamNXbjR1OG5YLUN2N2pjbVNqQQ": 1794843038.3002346,
 "Reuters|CBMiqgFBVV95cUxNQmtzeUdlYi1CMENKX1FxNUFpUW10OFNJbzlrVldULTloQUZxc01XNzlkcXQ1c3RWRXJMTndHamRrenlXRUJMMFpIVkxORUdRNUV1R2hEUDRIX2hqcWItdUFOclFMNFkwZi1YVl81UzA5OTMxRnVTOXpDeXBOQkRKVzJVOFdBcmN1R1QtNVM1R2UtMTJUZkFwQll0MllyOVMyLTNuM0t1RVRRdw": 1795009526.4425063,
 "Reuters|CBMiqgFBVV95cUxNRTNXZGFtaWhlXzBudGFGN1hxYkNkbXRETG5IbG9QeWc3aVFyYlhNQVBkdkNsX1Q4U2dJR2czZmthRnNxZmg4UlFXQW5EWGM4NTNxM05XWV81eGtNUTlZeWdMblNSOUVwS2pua0U1eU9wVHpSTHJZeTlibmlnYW91SWJza0J6b2MxMnFDdmdxcDQ4UEhhM1RaQ3Z6Q3h0S1UweDJRRkFHVTRfdw": 1794987044.700565,
-"Reuters|CBMiqgFBVV95cUxNS3dlZEQxckwyUkt6MHVHX0F4NUtiOGVEM3hDdnNVQ096TUktSU96c0xjZW5kS0pTVTE5eDNucGtJdDlRbUt5WEFnS2VYNVJ0RmR4N0w1WW16cFQ3eDNZejBqUG9vYWtlNUhSMmRscFZrdEhoek5MX3BURmYzTEQ1Z21qQzdQZE1selBDRDlWc1dkeHp3aHZxbXo1a1hvU3JLTTBqVkliSTg5QQ": 1794803433.479111,
 "Reuters|CBMiqgFBVV95cUxNSW9pRUZnYkY3cUdrR2xFVXFzdi1RQUdNdlhVd0N5cWU1MkVJa1BrYjEwSURCckVqTGJhSFRBUWkwMjJzQUlJOHFjcW5tWnM5NjNucTJEbk1aNFZuRE1fNF9QRllKXzNobVIzc0gtY3cza1pwOTVMdUhsN3pLdy12RlFKSmoza25ONFlINTBHTVAxRXpQbVFVVWE0TVlLRFR5cGRLcncxdHdudw": 1795023928.122743,
 "Reuters|CBMiqgFBVV95cUxNTmhITDNJWDN0aFIyMjg5dmx0bWFQS0RJcDZ4RDVUTEF4T3gzVUZ3VzZRVjRNMk1sdy0zaXdyWHBGdVBWQjI3V0FaRnhwbDJJQ2FqdjhIeFhMdEVDVWRadUs5M2tyM2RfTHNBVks3SVU0RkN2cXFwc2FPZWJfbHppVXhkVmZrbnVVOS14bVVaX1pRWG1yZEVvbm5GOVZDYWlQTEtvcmNyYUZWQQ": 1795209327.035777,
 "Reuters|CBMiqgFBVV95cUxNUFhWOFRLMkc4TVozaUc2bWtkQVJsaXBpemdxZEdWY1d6b0xvYVpUTGtwb080UmpvcXAtSGJlREdVWFNQUFNFNGpxMFZOdUhTdDZzbWZJQmJ5TEptRFN2c2x6RjNkbE1GSU1rc05td3UwTF9xOEpKMzVsOXNNcmhvNXdRTTdVVHRJOFpsRE9fTlhuVzVHcTZ4TmViQ29GOUdicDNMY2xzdWtDUQ": 1795159834.336623,
