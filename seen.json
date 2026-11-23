@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
-"src": "France 24",
-"title": "Présidentielle : prenant \"acte de l’impasse\" de sa campagne, François Ruffin retire sa candidature",
-"ts": 1795282640.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zVnJGdDhzdVRVeW5nSVhhZmdXcUpLa00tSzlXd3NVejVIUGhXYi1VZVc2aXlpT0NrM3d6RExpd3FaTVRRbldNNlNmcGNCSTVFVkJqeWZrMVhYTkVubktHNDFyZzNVUzg?oc=5",
 "src": "Reuters",
@@ -1329,6 +1322,13 @@
 "src": "Le Monde Politique",
 "title": "Gaspard G, youtubeur : « Les règles de la TV, sans les aides de la presse c’est le pire des deux mondes »",
 "ts": 1795411206.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/23/antoine-lilti-historien-il-est-tres-frappant-dans-les-mobilisations-en-cours-de-voir-que-ces-jeunes-reclament-que-la-promesse-des-lumieres-soit-tenue_6814349_3232.html",
+"src": "Le Monde Politique",
+"title": "Antoine Lilti, historien : « Il est très frappant, dans les mobilisations en cours, de voir que ces jeunes réclament que la promesse des Lumières soit tenue »",
+"ts": 1795411808.0
 }
 ],
 "seen": {
@@ -3096,6 +3096,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/20/jean-luc-moudenc-maire-de-toulouse-gabriel-attal-david-lisnard-edouard-philippe-et-bruno-retailleau-de-vous-quatre-il-n-en-faudra-qu-un-comment-faire_6813555_3232.html": 1795149929.2677069,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/21/entre-la-france-d-un-passe-idealise-et-la-nouvelle-france-nous-avons-besoin-d-un-autre-recit-national-sans-enfermer-personne-dans-ses-origines_6814042_3232.html": 1795285034.035354,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/21/nous-sommes-face-a-de-nouvelles-socialisations-politiques-les-mobilisations-en-france-en-italie-et-en-allemagne-vues-par-les-philosophes-michael-f-ssel-et-martin-rueff_6813919_3232.html": 1795238138.171145,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/23/antoine-lilti-historien-il-est-tres-frappant-dans-les-mobilisations-en-cours-de-voir-que-ces-jeunes-reclament-que-la-promesse-des-lumieres-soit-tenue_6814349_3232.html": 1795412726.0370994,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/23/gaspard-g-youtubeur-les-regles-de-la-tv-sans-les-aides-de-la-presse-c-est-le-pire-des-deux-mondes_6814347_3232.html": 1795411834.818295,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/16/un-juge-federal-americain-annule-les-limites-de-sejour-des-etudiants-et-journalistes-etrangers-imposees-par-donald-trump_6812623_3210.html": 1794869126.7947497,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/18/midterms-2026-malgre-la-polemique-les-democrates-s-imposent-en-alaska-et-parachevent-le-basculement-du-senat-americain_6813069_3210.html": 1794978040.0109122,
@@ -3450,7 +3451,6 @@
 "Reuters|CBMiZ0FVX3lxTFBrOVo2ajRyUHFvMWNfeDd0bng3eTR1aThhQ3lQWWIyU0FSY29MSFE3REJtUlo5TVpQVDJDcTBsMGY3QzNJVFJTNWJfajlJdjA1dzl5YWFtRHd0RVh5Wm9YeEFOZEJxMG8": 1795108526.4845712,
 "Reuters|CBMiZ0FVX3lxTFBvLTN1dFFXbHlRS3BReU1tX2xsd0d0cl9ENmNSTThIMTJvU3ZrSHhBd0FsUXV3Ul91WWdOdDNWdFg4S1NWSk8zanpXSy1sZFRWMnZvN2NPM2ZtZHJ4NWV4dGdPUUdHUlk": 1795218337.2823436,
 "Reuters|CBMiZ0FVX3lxTFBvYVA2RVNRYW5vQ0ozaVVZUVE1eDJOU2xYa3Y3ejJLOHJRVkFvUnRFMEwxN2w1Tmo3ZENSSlpjbjdhcHZQZkhHYjZJNXBRZlNNVnFkRGU3dWdTX0JkdmVWN252YWFIOU0": 1794937531.1508462,
-"Reuters|CBMiZ0FVX3lxTFBzcS1RZjFiX0d0N2dNQzBsWDBOOWdQeEpxX0doRDNKS212QUVma2RJV3F6RDZDTTJhcGFCUmNOelVLeFNQT3R0dVB6ZEZ5VWlfSlhqblpmNG9heXBOUm1sTzRjZkFYVFE": 1794807047.224677,
 "Reuters|CBMiZEFVX3lxTFA1Vk9ZUkxqTkVyYjc5ZzBkVDZwaGM4MUE4YklwakJGQlU5WmRoNnA5SVRSN1JUSW9HRUdybm45eHZhMjBuQVJoVXdQOFh6NlowR0EtZlJZOHNMdERMckdRMjdFZnc": 1795090528.0040333,
 "Reuters|CBMiZkFVX3lxTE00eVkwNmxNS3FUMWNRdFF0RFVsZDliTXZOOVBVc2pOZ2VzN1JGQU5TaUc0U1BTLWpUYXBES3dWVGRnY1B5OVJxV3pjTVA5MERyd0Y5RVNiM05MVUlxTnFkWGhBc0lXQQ": 1795148128.903906,
 "Reuters|CBMiZkFVX3lxTE0wYjBQb3Y5RUNTOGRZdnVTSlVsVG9EWHZQeVZ4ZV9RWUNKbUNNOHRrT0w5M1VRakdsXzk4ZXF1ZXBLcjRnMmxLSmhCc3g5a1pJWlVrbi14bGJBZTBCVmQ1NzdKMm1WZw": 1794917728.114598,
@@ -3508,7 +3508,6 @@
 "Reuters|CBMieEFVX3lxTE9xdjV0WHUwdHlkNjVteTMtc0E0WHk5d0pkTUtGcXpGdUI4VXloWXRZZXdYZmlxRzZCSWpHMHV2Z3JHVUZuRU9UYk52eHduTlhTUWJzTkVxa0JvMWcyTTlLNl9hd21PUHhVXzZ6cWVWUmpybHBTZzRnag": 1794924046.3196342,
 "Reuters|CBMieEFVX3lxTFBvU29HQ09TYTRoYjRRQ0dialBDam9vNmtjSFktOW5EdDNReDhvS01DMU13bXEyLTB1UkRvRzRMdGN6ejFjemRCODNhNDNBVTE1UXZCR1NDOWVIaDRtNENZanQySjJzYUJ4Nk1IWWJxaE9CUVNpVzRiTA": 1794997835.9014316,
 "Reuters|CBMiekFVX3lxTE0tYjVTMG5nV0wwS0Y5bnJ5b3VfVExGTzVEbTBWM1hjZUU0MjNiTnNiaURVUU9IX1BwdmotTDhSb2xhbTRUdkh1Q3J3YW8wbnpFWkpIc1JOLTJNclk1SGJlMGRzS2ZNRUVZSHgyQ0R3V2VnTE1qd3VnbGln": 1795135525.7171662,
-"Reuters|CBMiekFVX3lxTE0xN2NlMTFGNllraERmQ0hRaU1SUi1CN1VGeW1PRWdLODBPQ05LRzUtNVVlRzdwODZtR2g0aW9xR090Y3RVLTF6QWJNUDBjbGRXQmRMdlNTTkZqUWh6UzhrRTA1UmRDOUNQeGM4MloyNGlsd3NZU0lGSWp3": 1794807047.224677,
 "Reuters|CBMiekFVX3lxTE0zWFdTaHRKUFJTU0NLV21xWExtUVlia3N6ZUs2dWkxTkNJQUlBLV9jZkN6cWxIeEFJMmQyWWYxR2lRTTZWNEtLSDRSTmVFMFNMeTVRdjhnRlo4ajFmVkljdlJDYWRNbW9zbkFTMm1oaVZTQklnRVlkeXRB": 1795161641.319272,
 "Reuters|CBMiekFVX3lxTE1FdFlEQ0JlQnpzS1F6X0ZtNzJ3Mkl1Z1ctVUhEWVkzd2lPT3dWZWVYQm9fd2VjTEYxSF8xTXVfMFF2OHNPNEJNWFBHT2VYZ0s0NHY4Sno1bWVKU3JFR2tXTVZ5ZlpmdlZQam5ZdktVaVVVMmdYS25TLVJR": 1794854728.0686758,
 "Reuters|CBMiekFVX3lxTE1TVzZBWFRhYjJhNG5hcWtPSXhOV3lvOElsejNwU0ptWnFPZDYzT1cxNXE5Wjk1QkVMVnZ3N1lsVjlHQkFwM0dsYUZzUzliU00ySFE4bVF2NVQ4RDNBckdheUEyRG9VcmxVR3kxeV9mRnhLRm83N1RBelZ3": 1795245332.284183,
@@ -3589,7 +3588,6 @@
 "Reuters|CBMiigFBVV95cUxQOU91R0lJS1dBVndLbTN5cHlKY01KMUdDY0NyRUkxdG8xRWwtNlpFMGFFTXo0MUhOS3dDU2kzbUVESTRsSm9YMnp3eUhxeUhjLVZ4NGVGRms4WENBdU5kVGtfQUl3LXdaUzhvOVk2LTMwUEc0Sk1PODhQNm1iazlPOHpsTHR6RU1USXc": 1795095036.5492787,
 "Reuters|CBMiigFBVV95cUxQSWpkTE42ZTktUkhwT1JvNm5BcldXUUVocmszNXhHOC13cnhOc05fR09JZEdwWTNqWjkxTjV6S0YtYXNYQmt2UG1abjJkdUNYVkZwOU1sNWllRm1EejJ3Z1hvVF9YcENFVzZxQ1lQcnBmaHRQUE9mTkVsS2tNWkxIUUJfWWFhRzRxaHc": 1795012242.2928278,
 "Reuters|CBMiiwFBVV95cUxNMURaTXp5M2JELXY1X0JxZTItTGxDNlpHWVo3bWdWXzBHTWUzcWZyYWplVlZkejR2dzZmdTE2ZUczTG5JZ18xeFFYR1dvcmRwTXJCZ3VaUGwzbjR3d1RkcklFVEdVZXU2c1BkS1hiMWVsX1JIZjh2MG5lYjlRdV8wa25VZEF4ckU1cEtv": 1795014042.2119937,
-"Reuters|CBMiiwFBVV95cUxNYWdla05nRUhYdHdvcDdEZnM4TXFzLVo0TUVwNW5VX19lcVpBbmozdDhicEdsbHpWcm5uU0lsVW5jc1Z3OXo0S3JRLXF2eFdmcHdwM2pNczN0bHBpd2h0SUwyNllQZmZVSEpaQm45ZWd6SU5oS2ZpRDdlczY0ZTRwNnF1OERySm5XNDJZ": 1794807928.2227905,
 "Reuters|CBMiiwFBVV95cUxOUlpaUHRxNFJlWnpJUnA5c050amY5N0hJdFlaV2lFUFF6TEFPMnFaYWNES3djVWdNY0pOYWh2dlVNd2h6cWxHQ0FpaFpLWE5rVFJaZ2hrWS1TUi1PMWl5ZzRwNk85bTBpb3JkWWtCNDVtSTJic0dMNG1yZ1o4YlBvRTdIa3J2STk1Q2s0": 1794939327.7535737,
 "Reuters|CBMiiwFBVV95cUxOWEtqSjBxQVRRb0xRMEhrc01Md0NQdlFHclRCR0FCVGNZQUxuYWJHUktpb0dya1FseHNFSkVJRlg4T19qTFAydGloZjRUOGZGMlpnOXRPY1RnTnM5TGJkMGtpbWpSSzYtV1dNY0t3Vm8zSXZTeDVWeThtVG9yaFVpa0prQS00MGc1TDZR": 1795250725.1867383,
 "Reuters|CBMiiwFBVV95cUxOZHp4QS1PRHlQYk5ZUlVhWHdSWGViYV9RZTJyLV95c2szblI5bTJJVTU0SV9Pek9zWGZCYzVoMUMtT0lKY3NkMEpDWURkQXpXenpnUDI5ZHgwQXYtMTJaVUx5MzVTbjNpVW9ZWEZrT2pCVllWalJJamdVZUtyNXZ5ZHE1bFVDX3NPMjVj": 1795232004.5623093,
