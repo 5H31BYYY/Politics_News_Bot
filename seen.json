@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PUHNMZmhVZmhXbTdUeEFNM29PX1Q3d2xGejVMZ3QyYk84WG1KYkhVZDU1ZG5ydkktS2xDeUZocjhLQi1ZZDJaUXhHRW51TGJxc3c?oc=5",
-"src": "CNN",
-"title": "Immigration news - breaking stories, video and analysis",
-"ts": 1795369064.0
-},
-{
 "lang": "fr",
 "link": "https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html",
 "src": "Le Monde Politique",
@@ -41,13 +34,6 @@
 "src": "Le Monde Politique",
 "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre",
 "ts": 1795373611.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NblRFVlpvclRQMFNVZG9VTVJPOFUyLVFQNzJRS1BaeU1PS3dpTmRRbE9YaGxFSURaajl6dE9zLWhrSjl1YkVadE9DZ0JVZGIxcG9vcXlBUURkUmpOTW9zalB3?oc=5",
-"src": "CNN",
-"title": "Sitemap - November 2026",
-"ts": 1795368673.0
 },
 {
 "lang": "en",
@@ -3128,6 +3114,13 @@
 "src": "CNN",
 "title": "Sen. Warren: ‘Stronger’ urgency to investigate Jensen Huang after Nvidia comeback",
 "ts": 1795497360.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2VwWDRoVWNubmU1eTdrRlRGUWdjd1lQLWpCVlQtVGZyWHR3LTFsSC1PekZvVHlVUk9CbkdJVXlEUG0zRzJ5SzUwMmFjcVpSZ3NHYzlrS3RCR1lGT3c5TEIyWXVJWExRZ3VJSVpVSXZrMmVYUEU1OEZMYlNkYjdmSFNHMTlJTnItcnBVOXlR?oc=5",
+"src": "Reuters",
+"title": "Singapore raises 2026 growth forecast after 6.1% Q3 expansion",
+"ts": 1795478760.0
 }
 ],
 "seen": {
@@ -5391,6 +5384,7 @@
 "Reuters|CBMiiwFBVV95cUxQdW5WWC1iblRxMmVsMFhWSk85UzRtekt3UG03N2tuY1hHLTBwblc2M3Y1RnhYSk5mMmlrOXdpcWxWaGtWQmYyQ2RKYTBXdl9kcV9UWnBhaGZEbU9RbjM3Znk3dWplTzhJYkw0bEpYTGQ5UzNjcDk0NU1jcnlkUF9kd2VZb1dBcEo3bnFN": 1795285034.035354,
 "Reuters|CBMijAFBVV95cUxOaV9FUXhRM2ctWnAxX0NuakZwS1Y0LVRfR21OXzVsWlVIazk5akpqbGk2SDhfODhfS2xEbzhJQU9oRllkQ2RqYmQyaHkyTy1kMkpDOE9iZUVXdXE1dGpNMVU0WmN0aE1WOGFZSmd4UEdjN183NzlVMW9oM3hPblFRZHFJNXRkUUkzU3FDdQ": 1794978928.3095505,
 "Reuters|CBMijAFBVV95cUxPNlZKel9fWTJpNnBrbG5hMWtsbmV4VnZPdTFGZHZOSURhMkdVdVNPMk40cnljYW5SbDd4LS1FeFhoSWJwQU9pWkVST19HdHZ5NkNGZFR2R2U4cE1lbGFiX0k3T2k5ZlpySEh4NEk5alVZb1A5YndWWU5oLUpuZ3pWMHlHS3ZzcTR6bUQ0Ng": 1794959127.4676023,
+"Reuters|CBMijgFBVV95cUxNd2VwWDRoVWNubmU1eTdrRlRGUWdjd1lQLWpCVlQtVGZyWHR3LTFsSC1PekZvVHlVUk9CbkdJVXlEUG0zRzJ5SzUwMmFjcVpSZ3NHYzlrS3RCR1lGT3c5TEIyWXVJWExRZ3VJSVpVSXZrMmVYUEU1OEZMYlNkYjdmSFNHMTlJTnItcnBVOXlR": 1795499128.8692048,
 "Reuters|CBMijgFBVV95cUxOWDMyd1FiWFhSY0tZbDU2dXk5eWs2U1RxR2J1S0hGSWxtRDlwLVg5bERSa0Y3TnFmN3NhTHZpQWxzVkljZXpiRFdBbFZJcDUzTl9ZelhGa09MMTg2ZEptaU5FQnE5ZThodC1yWndfY0hMcGJ2aDRZLWdlNmZLWG8wbXJ3c1Z4cjd4T0E2aVl3": 1795067126.4460716,
 "Reuters|CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR": 1794978040.0109122,
 "Reuters|CBMijgFBVV95cUxPdDBsZzh3bFByNFRNalVhdERCLVFHRzJ1UXEtNXRqaTBydmdjUE42N1Uzc29JMjlkVmFYQ1FhNDZrYS1wbUJ6b3hvVmR5QVBKUmctUnlFM0FabXhwQmthZ1lJUXpGUHhBZjJWc1hYTlYyM2xpbzVqVFpvNUdBbEd3ZEpEcDlvVmFyd0tFMjhn": 1795114840.8992467,
