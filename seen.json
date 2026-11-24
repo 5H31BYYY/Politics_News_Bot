@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNGU2dFhkazJ0REFhVXA2a2cwaWU3YUlSWmw2R2c1VEQwVTJPVHdmUldvcHUyVGEwdkRxQlVxYVBQa05vd29KNnZBdm5JZ1c5YXhMVERPampXeXJhVl85eVJUVWRMS2JfWWlUU3VMUEpLeDZwSHlOYXdldERzekhVYTVVMDdLU1pnUGhRd1htVGFpNXNZQlNhX3ZrSjcwRmRJdWZhVlhuYktjQkRCUEZCejRqMV96NXlBNUFVTU1EeE1USmxEMmFVWndzNGVxYnR0cDVkWEJpMlo3TXFwMFhDSk1WWQ?oc=5",
-"src": "Reuters",
-"title": "Clariant and CD&R in talks to buy chemicals firm Ashland, Bloomberg News reports",
-"ts": 1795380457.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1RyOVZKTlV6bndHdTJhb3ZfZkI5R081UGttS1pZMDB4T0s0ekRPNGRQLW5FUERHRGVFLUxLQTFEcnFKSHpwVDBOQThBRGVaZkJfVTlMUzZPOFc3b3dZZllkVUVuRF9Lbnc3d3pzd01KQTE5WFpzR1h4alU4dUF1ZW0yYkpFeHF1RjRvbklfbWJqdDNXV1lkVkFCQnlRZw?oc=5",
 "src": "Reuters",
 "title": "Can climate diplomacy build on the collapse of COP31?",
@@ -3128,6 +3121,27 @@
 "src": "Reuters",
 "title": "Volkswagen confronts union over costs in face of strike threat",
 "ts": 1795498320.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PZVYzSF82aXJjSjJlMXhhM05ZbG4ycS0xZmFWNEw3N3dzVHZHREpVSzl2bzFkRVg3bl9ld283T0YweWxKOVZhbHVNaW94d2taLXMyUzhCaVZsUWlZRkVvSUFBbzFKc1dXcGdDcXRULWFDX0d0Q2JNRTZB?oc=5",
+"src": "Reuters",
+"title": "Nvidia employees chant Jensen Huang's name as he promises to be 'better CEO'",
+"ts": 1795507388.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/a-l-assemblee-nationale-les-niches-parlementaires-menacees-d-embouteillage_6814723_823448.html",
+"src": "Le Monde Politique",
+"title": "A l’Assemblée nationale, les niches parlementaires menacées d’embouteillage",
+"ts": 1795509904.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html",
+"src": "Le Monde Politique",
+"title": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
+"ts": 1795510352.0
 }
 ],
 "seen": {
@@ -3590,7 +3604,6 @@
 "CNN|CBMieEFVX3lxTE1GMHdia3FRcGpSMmROUGR0bU9Lek1STVR5UmxuRUlseG1fWDJIN2szVG1oTklEblBpRzdwVUpnUGtReTlfMjJPc0p2MHJKVUhoTVYwcVh0Tm9GRGpLU1pUbGxVNEU3eDlScHNiY0xSUHI5dVdOZXNFUQ": 1794961835.341787,
 "CNN|CBMieEFVX3lxTE1nWGRKbExudl8xSDFGcERMQ3FLbTUxWlZEX2pXQzhYTHlpYzY5ZnVXNjFkT2FhNEdwNnhLdUlBV3NPQXBWMUVjNDNObVU3LXZENl9YYkowU1ZZbUVuS2RoajRxc0VfbTMxSDE4SmYzWkUwVEc4X2hYRw": 1795173326.894129,
 "CNN|CBMieEFVX3lxTE4tbkwyTUhyYUNUV0RnMGhrUFkyU18wSEVuSE9HQThaYW56dXZzYmRfaXBEbDkwV2Y3cGVmZ0k1NVdMdmhubmhEeWxPbzkyNlVYNEJlbGhpOWpyakJQZmkyd0Ewc3pYRE5VTEZTV1BJeklaaWN6ei1lZA": 1794943833.6625953,
-"CNN|CBMieEFVX3lxTE4xU2VLVThmSDVHZERvRlgwQWRPYWhNN3NhUVpRVm5NZXhwbU9rWkdEbnRGOG9taFVzdndCSTFOSWhXR3AxSW55czdtTnpuc1FqUHdmRFRvOFhRRjllYnAxQVdkaTdjTHJUSHhCTVZ5MzF1RzZaTl9ONQ": 1794906042.4751477,
 "CNN|CBMieEFVX3lxTE53azU0SENKT1N4RVlna1VmUWtTWHlZQzVydTc4TjkxQS1yU1k3QnZ0Nl8xSzZ1LU5LZmpKdlBWUVc3NXRmN044RWpYSW5ucWdBYjhPbUNFWlllYktYbUUxU3dUUXFISko2TGYySjZUak93ZzFWOFpWUA": 1794968131.0209777,
 "CNN|CBMieEFVX3lxTE5HWFRKSWxyaTBrM1A0YXl5VlkwLXpkQkYtbzdNSFNncktUNWNodXpuTVFmYUZjNnF6S2hYTVRXdG9rQ2hybi1ham1VM2x1N21MNUFtazV2cUtKTGZYWmJzWVJNenI4U3NwQjFtWm01WVZlQnpqaGMyZg": 1795454128.1261537,
 "CNN|CBMieEFVX3lxTE5Ic09wYzVGcGpxd2hrVElXdkJ4NGJQdTNZS2JYTm1rMjl1UzhuaGxKVWpYUE9GMlhSUHNQalI5Sk1BNnhnVkI5NGFYMFlMM2pGdWpxckczR2Rfc2x4N2xEUXZMeDd4WXczZkdrV2owaHZUbTFKNF9meg": 1794970857.092864,
@@ -4803,6 +4816,7 @@
 "France 24|ed349de0-e5b8-11f1-a0f2-25edb8eac155": 1795285034.035354,
 "France 24|edd36b58-e394-11f1-b650-d7063c7e45e6": 1795038325.0891185,
 "France 24|f2360a08-e730-11f1-878e-61edac5a91f5": 1795437044.6533449,
+"France 24|f252ca12-e75d-11f1-9427-fd7c1c310120": 1795510856.2094223,
 "France 24|f33f7844-e591-11f1-a11c-8d3b5089e52e": 1795257926.8733742,
 "France 24|f43458b2-e354-11f1-90af-ed2fb1dfbcca": 1795013128.2516553,
 "France 24|f50bc868-e351-11f1-9c11-cb03c1449f37": 1795010445.1373608,
@@ -4967,8 +4981,10 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-marine-le-pen-une-campagne-au-defi-de-la-justice_6814312_823448.html": 1795409136.7605355,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/retraites-la-cour-des-comptes-plaide-pour-une-limitation-des-possibilites-de-departs-anticipes_6814442_823448.html": 1795461328.215167,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/23/yannick-jadot-et-jeremie-iordanoff-en-rupture-avec-marine-tondelier-creent-un-nouveau-parti-ecologiste_6814435_823448.html": 1795455927.5708222,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/a-l-assemblee-nationale-les-niches-parlementaires-menacees-d-embouteillage_6814723_823448.html": 1795510856.2094223,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/affaire-hugues-moutouh-la-prefectorale-oscille-entre-soutien-affiche-et-etonnement-mesure_6814721_823448.html": 1795507241.5413527,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/le-congres-des-maires-de-france-s-ouvre-sur-fond-de-course-a-la-presidentielle-et-de-protestations-autour-de-la-double-candidature-de-david-lisnard_6814718_823448.html": 1795504528.8404267,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html": 1795510856.2094223,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-journee-avec-nos-envoyes-speciaux-a-paris-marseille-lyon-toulouse-en-bretagne-et-dans-le-nord_6812905_823448.html": 1794907835.2831342,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-greve-du-17-novembre-suivez-la-mobilisation-a-marseille-lyon-ou-nantes-avec-nos-envoyes-speciaux-avant-le-cortege-parisien-qui-doit-s-elancer-a-14-heures_6812905_823448.html": 1794920442.3618543,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/17/en-direct-manifestations-du-17-novembre-a-paris-une-manifestation-calme-a-17-heures-ayant-rassemble-28-000-personnes-selon-la-prefecture-de-police_6812905_823448.html": 1794933939.8238747,
@@ -5298,6 +5314,7 @@
 "Reuters|CBMiekFVX3lxTE0tYjVTMG5nV0wwS0Y5bnJ5b3VfVExGTzVEbTBWM1hjZUU0MjNiTnNiaURVUU9IX1BwdmotTDhSb2xhbTRUdkh1Q3J3YW8wbnpFWkpIc1JOLTJNclk1SGJlMGRzS2ZNRUVZSHgyQ0R3V2VnTE1qd3VnbGln": 1795135525.7171662,
 "Reuters|CBMiekFVX3lxTE0zWFdTaHRKUFJTU0NLV21xWExtUVlia3N6ZUs2dWkxTkNJQUlBLV9jZkN6cWxIeEFJMmQyWWYxR2lRTTZWNEtLSDRSTmVFMFNMeTVRdjhnRlo4ajFmVkljdlJDYWRNbW9zbkFTMm1oaVZTQklnRVlkeXRB": 1795161641.319272,
 "Reuters|CBMiekFVX3lxTE1HOFJsU2QtNFNkZklYbjZTblBMMDlycmVUWDU0ai1xOFBkaElsMGl5akwyN0hIMTRRZFB2ZnBORTJ1dEtWQjdtZEgtTlhXV2xiclpXbkpUbklpTnIzUjdVcmtsRnJQdldMaW5rQlBFSVBNWFVIYUZuUTdn": 1795482925.7301111,
+"Reuters|CBMiekFVX3lxTE1PZVYzSF82aXJjSjJlMXhhM05ZbG4ycS0xZmFWNEw3N3dzVHZHREpVSzl2bzFkRVg3bl9ld283T0YweWxKOVZhbHVNaW94d2taLXMyUzhCaVZsUWlZRkVvSUFBbzFKc1dXcGdDcXRULWFDX0d0Q2JNRTZB": 1795510856.2094223,
 "Reuters|CBMiekFVX3lxTE1TVzZBWFRhYjJhNG5hcWtPSXhOV3lvOElsejNwU0ptWnFPZDYzT1cxNXE5Wjk1QkVMVnZ3N1lsVjlHQkFwM0dsYUZzUzliU00ySFE4bVF2NVQ4RDNBckdheUEyRG9VcmxVR3kxeV9mRnhLRm83N1RBelZ3": 1795245332.284183,
 "Reuters|CBMiekFVX3lxTE1qaGNMQTdJUll1NVIwTzJZaHVmdjBHSmFJbUhORVZ5Nm1FV1YwclFXb1FJUXc2djRHZ1ZzOG9tOXVRUjhtWExqY3FObTF6RVFOd0M2ZnJtdUlkQ3hhUEQ4Wl9aOU1EczhMMG4zMEJVTHU3TzRvWTZRUkNn": 1794994233.9336715,
 "Reuters|CBMiekFVX3lxTE40cDJsM1E2eTlBbTRVLTZEMlhhTmQ4ZEhBUVBhUWt3WXcxLXpWY25aajl4Y3lSODFBX1NzWWJIVVRKME1YeEJtMUNJQVNxWEFId29QWjAxbUhZQnIwV2pTX0FvcXFabURKbkdnZTM3Qkt3UmxFLXY1cl9B": 1795145435.4634204,
@@ -5512,6 +5529,7 @@
 "Reuters|CBMinwFBVV95cUxQZ1dqbjcxS1NvVGZBUEJYTDd1alo4YWNzRG9aMVZoVUE2b1ZibW95VlhQWDQ5dWNZTTFkbXBnbHVob1JMT21UMElBbnlQb01wT2Q4NXdHRi1GWGFfQ040NGRCRFlzcFNUTjJJMGRPT1FEWF9sTUJUZVV2MU90dUZOXzAzbmlnZWxwOG5YOVFNcUJOdGF1aEl6dERxSEhJMDA": 1795023928.122743,
 "Reuters|CBMioAFBVV95cUxNOFQyQ0xQWVhQQ1drd2JWdzNLSTVJcjFOTkVFdkVOZ3NteGVlSC1COF9OM3FxdEVEdmVtcG90M1RMb3ZsVmtlZ0FtX3dKdlFPVjktdHNUcjdWRDdYX0hrdncwUWdRMlJDWWgtMzRBSHg5YnRMcnpxZDduaGZPZlJlUG40SkRVUFJXZ254MU5Xak85WDF5b3hpSmhPYWxtZTBP": 1795043728.2390366,
 "Reuters|CBMioAFBVV95cUxNSWwtcmZqemtkQmd4OWJQUHN1OXZLZTgxM1FtVk5JTlAtNndPYzRndHkxbEZ2MEdNZGtRdWUwMUxlblhtLThfQ0NoRHYtZ1lzd2VkSHc4N0U3UlFjUGFubjBkOFc4bDhpR3lELUoxalJBN1lkUUtUYk1NSk9sanNaeUZrZVVXTWlDV2Zja1FFQ3lPaXNUN2FXb3BST0dmZHd3": 1795150840.6154244,
+"Reuters|CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It": 1795510856.2094223,
 "Reuters|CBMioAFBVV95cUxOMmhqb0E4Q3hTMkFoVnU5d2Ffby1IUFhtMEROZ2pRZ2xva3dxZTVabklKVnJhRk9XWmxxX0hfM2ZIV1JjQ01yNXJCLXpaaXZmTmV6QkkycXcwV1pNbF91OXptLTA1QjZVM1RhOTN5WHUwTFRtRmNlbkkxc2Nod1oydmFJeV9TZkZfdjBqb1l5TWJXeUVkRVZDdjNzbW10dW80": 1794919526.630799,
 "Reuters|CBMioAFBVV95cUxOYWkzVFZIZGpWS2lKODVQQ0RmTkFYS1luRGFCVDVxSXZVQS1BR2pQdWdqdjNqRHJqd3NsdXFJZ0w1elNwUU02NEc4ZXJxNnZSQThyVzlkN2tyLWhYUGtqTzVmS0xNNjYtNUR0djJEaXpoMm1HNzVJVVRzMGxXaGViRV9iREg0Q2hJeWVIVEhoM0M4d3drT2FjWHMtZUlOUFhw": 1794997835.9014316,
 "Reuters|CBMioAFBVV95cUxPLS1aa2RCdVBHNXQxZ29XN0RvNGVxa3AwNHpBODVJRXc0aThWX283QllXWmFfQzNxVUowS2xrUlR5M1BKMjV2LXowanYwVHZUVzZnaUVjMXVWRmdJSU4wR1ExOElxZktDbTNpZVlOeTlaYmUxSTNiNlJXZHJodUpMQTgwT095bnNHVWtfeVFSSnBlU3FxdEYtdGpNdG5tdExq": 1794964538.451117,
@@ -5631,7 +5649,6 @@
 "Reuters|CBMiqgFBVV95cUxPZ0RVRVVhd0g1djYyRGpzbTcyZXFtSXd3cTV1T0REekJaYm9FOTlzblJzU3hlMmsxSkF0UmtzZ1gwWVFiUzI3VXdGNzJLTndoZC1oVkpXSnRmZ0ZmNkEybVRFSnhIVzFCNnlTS2hQRGV2bnNGTHVsaUZ5RmllU0otWWcxV2wwejMwcXpTOWFxam1xb2dRMXMyQ1c0T0RkZy1SX09YR3lYdmxkQQ": 1795129248.0430298,
 "Reuters|CBMiqgFBVV95cUxPajdFUmpSOXN6d045Q1JacldoemRSTldiRTFnRWtITzRtdHZsZ0FROGM5V0RZLUVPS25MUUhFdU10WmdDLXNHeXZfRTJxNXRGNVdaQVVnT0Z2X1c4cy1KYVo2NURYZ0JLMmt2VW1iU0F5RlVWV0M0RTZISVlrRUVEY2s4LTNrUU80TnNVS1FCWWplWk1DRUJEUlNfWnpxOE5OelluZ2FZeVZwQQ": 1795197640.775553,
 "Reuters|CBMiqgFBVV95cUxQM0NfLTdnMktRek1KYml0RlYtSmhsVE1RRXRIaXBCZDQ0SXppVF9WcnZwak1qSFRIbDVRck5iZ2FEcVVNZU9tVVY0LUlLQnItelVvZE81YUZSNW03clhtazNMTEd2SnNHQzhWQWlDVDIwVFgtSkFYVkVNYnQ4alE5S1dUX0lKcG9RUDFBWDh3eThQRWhBV2NtN3NJQ0tlVE5MZXVZVmVuc1gtQQ": 1795024841.1498108,
-"Reuters|CBMiqgFBVV95cUxQMmtTMUtYTXIxeXB2T0RuYUpZMjBwTmpmWFVyY010TTVPbzE2akJxTEVYTjJzeTRoSlZpZDZSejM1MEhuWm0zSFQ5Mi1NX0tvVHRUX29VdHV0NkI3MUMwVUtxLTlKam1iQTZueGJ4eEZSY1c3S3diM3BSTGZoRjlGNm5kODVxS3BjcThWRjFIRzgtSzByTzFIVGV2V255RVpSZUlDbWZqZElPUQ": 1794906042.4751477,
 "Reuters|CBMiqgFBVV95cUxQQjZZbTFLSVpBWlRjSmszOUY5d1YwSFp1cnlEV2ppX2l2bFJ3eDk5b2RRQmtnR2EzcnVmQ01TN3JDQUJ1N0NhczBiNmtUMlNQcFdxdFJQV3JDc1J0NDRLQ2UwSTZHUmVvaXBib1B3QmNORjlMbmE2RkU3Z1UwUmg3Q1R0c3J2UUxuUkVBV3pKWWNvWWNfRUpUTmNLNHFwU2puejZaeDhZWnVtdw": 1794917728.114598,
 "Reuters|CBMiqgFBVV95cUxQT0VUY0prRXhtQVNrWEEyblJwRE5RdTk0ajdzSXBaNlJZcWF3YTNGbWFmMzdvSnJwWmc3ZS1ScHd4Q2tuVXA5SVJKbWFYNmxoSmdqT0VJM2FFS2Z1U3NYU0ZKbzRPSXhadEplSFQ1cDkyT1htZmdmRC1UTDgzQktfMXZqRDJiNnpTWnpHc1J2MThYazVyeTVpVFp5cW1PYTRzMjE5YnpkV0hlUQ": 1795076129.778336,
 "Reuters|CBMiqgFBVV95cUxQTVRhNlBHMXBVMHl2cjVaVTVYanJQZE1FaTY4Sk9oYzJlQURIYmN1Tlo3NXZvU3VvQUp0OGdtV25FLWRjeS16c0dHVVZPdW5GTFZZQVRqaDdLWlJURW9EMm5wcEgzbVI3ZzdxMWM0ZlV0eVJzU2FVeGFmcDFPX252N0NiX0Zpb3lLa1FtMURDRTZvSUFzcnpyMVZMcWEtb3lPOU11OUU2aDd5QQ": 1795203037.453369,
