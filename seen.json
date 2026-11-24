@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWtpb1o5RWFXT3RIVlg3Si1jbUJLNmZKVkNwbF9iSE9nX3I4QUc0OWFnZERkaUw2c0RDWDhiYnVvS0NXb2ZMN2tJSDIwZFhRWlRZeTB5cC1XZ0VHVU1yMVJDOC1CSzFIaVlnbE1mQ3NfSUJVUS00eFljbFR1Z3JoODBZT2cxMmw4eGhxWTRJdXlpdw?oc=5",
-"src": "CNN",
-"title": "Manchester Co-Op Live: Thousands evacuated as ‘unknown substance’ fills UK arena during US rapper’s show",
-"ts": 1795416235.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
@@ -230,20 +223,6 @@
 "src": "CNN",
 "title": "Have I Got News For Your Ears",
 "ts": 1795432123.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU25qTWZidFNXLXNpRGRNajlHQlAxS0pFYzdMb2FYUnBYdlpEU1k3dE9aZG0wa282a1hwTWt4eTI2azNjdlpKLTNuRm9pSVR0RTl4SmZTMXFLVEFfdVN1Y3lLRF9uR0ZUdHU0SXlEU3FQNG5BOV8zeUpmUHphcTZ2Tk5iRklKOHZjYzlDRHpJNHZMOTYtY0Ziakg1Z0xFaDNReWdueVVwcTZuNXNvSWkyeEx6QUhLby1CdUpUMQ?oc=5",
-"src": "Reuters",
-"title": "South Korea president nominates new foreign minister, spy chief amid US worries",
-"ts": 1795416120.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMTBOQlNMN0xxcS1ybi1KTFk2Q2tlOFpDZGR6X3M1MzRXYnd4anpJVTZ0NEdLenZrbEJkYTRkZm00R2I4SC1tSDdoZ3Z3MGpqWVZqWVF3cHZydmZNQ2lwYTVpV3RvSDJkWG51VUZ2dmZ2VWR2RmR3dnQ4d0VROUxwY1BneU44MTdqTzBQMDhoNG1nYkRWNVcyNEthSDF4ZDV4ZDdHTUZTTTdKQUxVaFB2TGpDTU5rV1Nvd3UxMzd3?oc=5",
-"src": "Reuters",
-"title": "Thai appeal court halves jail term of lawmaker convicted of royal insult",
-"ts": 1795416180.0
 },
 {
 "lang": "en",
@@ -4038,6 +4017,13 @@
 "src": "CNN",
 "title": "Bipartisan Backlash Grows Over Jensen Huang’s Return to Nvidia",
 "ts": 1795544464.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html",
+"src": "Le Monde Politique",
+"title": "Présidentielle 2027 : devant des maires, Marine Le Pen promet plus de « liberté » pour les communes et veut s’attaquer au « millefeuille territorial »",
+"ts": 1795545230.0
 }
 ],
 "seen": {
@@ -5922,6 +5908,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/jean-luc-melenchon-tiendra-un-meeting-le-samedi-9-janvier-a-montpellier_6814763_823448.html": 1795524334.2435384,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/le-congres-des-maires-de-france-s-ouvre-sur-fond-de-course-a-la-presidentielle-et-de-protestations-autour-de-la-double-candidature-de-david-lisnard_6814718_823448.html": 1795504528.8404267,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/pac-emmanuel-macron-recevra-les-syndicats-agricoles-mercredi-pour-faire-le-point-sur-le-prochain-budget-europeen_6814725_823448.html": 1795510856.2094223,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-devant-des-maires-marine-le-pen-promet-plus-de-liberte-pour-les-communes-et-veut-s-attaquer-au-millefeuille-territorial_6814839_823448.html": 1795545929.4416344,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-francois-bayrou-fustige-la-posture-de-david-lisnard-qui-souhaite-une-primaire-de-la-droite-et-du-centre_6814751_823448.html": 1795518927.732055,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/11/18/les-images-de-l-echange-tendu-entre-laurent-nunez-et-le-depute-lfi-pierre-yves-cadalen-a-l-assemblee-nationale_6813192_823448.html": 1795027530.373672,
 "Le Monde Politique|https://www.lemonde.fr/politique/video/2026/11/20/un-square-aux-noms-de-zyed-et-bouna-bientot-sur-la-place-de-la-nation_6813701_823448.html": 1795206635.330279,
