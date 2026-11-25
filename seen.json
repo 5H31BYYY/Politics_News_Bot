@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXotelZvNWhDeUhCMW1lWW9CV0FMLXNSM0w0cWRaNWM3dEEzNlhDTy1RUVI5aF9iS3EtMFlaTjhMdlRLeGxVazI5cmRxNUhtYlQ1OTlJNDM2OFFHSnI4aXZsWnBjMG5TTWpKcEFOOHpMcV9FMVAwRGExbW9iU1hja3IwenM5RDdvTDlDdA?oc=5",
-"src": "CNN",
-"title": "Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations",
-"ts": 1795476657.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTlpUb3RLWkhFM3N0LWR6S05aUUcycTZJUkVFeWI1QjRHWWo4czZTZWoxM3UyNnNGMldHaHpMOHRkRjlUSzdmTGt6R3Z1TnhKMTAtZG9iTVM3MTE1bHpLemdiM2EyeE1aNWh0STY1WTBsTU9SS3ZLRkpyYk9vaHg3eXBVN3lHN1NqZ3lEalhZOUJqQndZbzhaYWFWdFZNdTZ0anFveDlrRFNCQXFINU5wNllYOVVSTkdBaXM5TVh2UENiTzU4Uk9BNg?oc=5",
-"src": "CNN",
-"title": "Inside the operation to capture a cartel kingpin on the FBI’s most wanted list",
-"ts": 1795477026.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOF9nbUJya185NnpoX1Z0M3dFdUpmZ3ZmUGJCUUxPLWZucXAxT0JmZ0pkNHRwMktUalotcUw2MTRhblE0YkJ5eGtUVkc1TVl1d2t0TXhuQVJ2TjV0QjFQaS15Ty02VjhEc0o0dVhIc2FDakxZcXlkUmw0aVZaWVM1TThNVTAxdEJxY3J6Q19PdkU3WmwxeTgycTFTR0VuNlJleXlZU2FCX2UzS1dIbktSR2hGRE4zSG9vemxmMU9QdnY4LU0?oc=5",
 "src": "CNN",
 "title": "Inside the Trump pressure campaign to reinstall Jensen Huang at Nvidia",
@@ -76,20 +62,6 @@
 "src": "Reuters",
 "title": "Texas Democrats won big. Can Republicans stop their agenda?",
 "ts": 1795480396.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGJrTXFwTEdqUVVfM1FKQXJLejYyUnJqV2MwWFpoa1d4YmZzUUlwT1lHUDFickpfZ0tSanpwTnVXcGZVV0IxUUJCSHNFVFBPOENuejFZdGxhQ2tUSlBfb3NWczZoR0d5NW1YNzFheFJYNDdkMC1ic2lTVmxjVFRJRjEwMTFIUTAtM3hGejBfbzBrQQ?oc=5",
-"src": "CNN",
-"title": "Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations",
-"ts": 1795476657.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0M5anBKV25VUGxJYXZxRlU0VlYyQ1NmVFhzQjlFVXlpd0JaVlJmVVBxYThpTjBxLWJ3TXVvblpZNnJhTW1uS2xYLVhkMGxOTm01ODMwVnowblliQ243bVVpMUQ4SmRNQ1lWMTh1bC1LbF9RNXlMbG5WY3FhXzVyNXU3WjNnU0s2dmlfN19lLWRLUUsyclZaZnFiVlNTV1hPMDJ5V3lLbUtIdWJyMllYV1ZYbDl2Ym5jdUNnanZEQWltV0d1Wm5GdVZlMEl6UQ?oc=5",
-"src": "CNN",
-"title": "Inside the operation to capture a cartel kingpin on the FBI’s most wanted list",
-"ts": 1795477026.0
 },
 {
 "lang": "en",
@@ -3331,6 +3303,27 @@
 "src": "Le Monde Politique",
 "title": "L’indépendantiste catalan Carles Puigdemont rentrera en Espagne le 12 décembre",
 "ts": 1795605718.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1Z3RYNnpocThSS0NWOUJxM0dhZVRPTkFUZTVrMlpzSjJyaGlmY0FsRjBMNWpyem55VmpUWHN5T0pPN0VCVlhmc3Z0aTAwN241SmxOSjlPNVl2UjYxRkY4N0h4Y3o3Q3c0MUtUTDR1akp3SkNPZ2l1aVdn?oc=5",
+"src": "Reuters",
+"title": "フレンチ定番、卵の前菜「ウフマヨ」 今年もパリで世界選手権",
+"ts": 1795591252.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/25/budget-2027-au-senat-un-vote-inattendu-sur-la-mise-a-contribution-des-retraites_6815088_823448.html",
+"src": "Le Monde Politique",
+"title": "Budget 2027 : au Sénat, un vote inattendu sur la mise à contribution des retraités",
+"ts": 1795606091.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/25/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-ete-demis-de-ses-fonctions-en-conseil-des-ministres_6815089_823448.html",
+"src": "Le Monde Politique",
+"title": "Hugues Moutouh, le préfet soupçonné de fuites d’informations confidentielles vers le RN, a été démis de ses fonctions en conseil des ministres",
+"ts": 1795606360.0
 }
 ],
 "seen": {
@@ -5199,6 +5192,8 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-francois-bayrou-fustige-la-posture-de-david-lisnard-qui-souhaite-une-primaire-de-la-droite-et-du-centre_6814751_823448.html": 1795518927.732055,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-gabriel-attal-presse-edouard-philippe-de-proposer-une-autre-modalite-de-departage-face-a-son-refus-de-la-primaire_6814848_823448.html": 1795551326.2023027,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/24/presidentielle-2027-les-maires-s-inquietent-du-ras-le-bol-general-des-electeurs_6814869_823448.html": 1795560330.5688176,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/25/budget-2027-au-senat-un-vote-inattendu-sur-la-mise-a-contribution-des-retraites_6815088_823448.html": 1795606812.9435046,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/25/hugues-moutouh-le-prefet-soupconne-de-fuites-d-informations-confidentielles-vers-le-rn-a-ete-demis-de-ses-fonctions-en-conseil-des-ministres_6815089_823448.html": 1795606812.9435046,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/25/les-anciens-de-la-gauche-plurielle-en-colloque-a-paris-nostalgiques-de-la-methode-jospin_6815058_823448.html": 1795592727.9616518,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-au-rn-la-certitude-de-la-victoire-enivre-les-elus-et-inquiete-marine-le-pen_6815034_823448.html": 1795581035.494352,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/25/presidentielle-2027-lfi-force-d-attraction-a-gauche_6815035_823448.html": 1795581933.6679065,
@@ -5565,6 +5560,7 @@
 "Reuters|CBMiekFVX3lxTE9qZUxZa1ZnVEtfN3F3M0Fka2F2SzNlRml5TnFGaG4yS0czczhjcnl3RU9BVkVkc01mRWl2LTQxMTBuNG9Lc0htTk5NVkV3YnNWXzZ4R3pNOFpJemthcC1tQV9DaU5JZ0RHS1VFQlBNWXZlQ3hJLXBqTnRn": 1795424456.4429176,
 "Reuters|CBMiekFVX3lxTE9yUlZsVTF2OFBXRV9fYnRIRE5EQ2tkZDdOZGNNQWc3MnlvaFpOZXBUT3RwdWhWeHR0Yzh4ekFSMldldjViMGl0UHIyclpHeHBzcTZvYjBMSDdTT2xrX0Y4TFBzWVBJWkkzVXljR2dOQnBNek1NeDg3U3dB": 1795111240.8722312,
 "Reuters|CBMiekFVX3lxTE9zam4zYXBsVm9HbjFoaVRaUlZMNmNFeno0dzUzQVFNQk5Rak5iUU9iWTFQdkVYb2NMOER3MnJZckxpUjlKaHpUVzR1eWJKeEhsWWJPU3J2OElOMUs1eE1TWFF2WUQzS2M2Z3NDWlpOMVFZcl91clFpTFJn": 1795221035.2031157,
+"Reuters|CBMiekFVX3lxTFB1Z3RYNnpocThSS0NWOUJxM0dhZVRPTkFUZTVrMlpzSjJyaGlmY0FsRjBMNWpyem55VmpUWHN5T0pPN0VCVlhmc3Z0aTAwN241SmxOSjlPNVl2UjYxRkY4N0h4Y3o3Q3c0MUtUTDR1akp3SkNPZ2l1aVdn": 1795606812.9435046,
 "Reuters|CBMiekFVX3lxTFB1bjVvY2JjQkpkU2U0eDZCaS1YaWFEZ3dVWFN5eTdxeWk4QU41czdPWDgzclk3QkN5ZjcxSjJUUGhNcGFtektqZV9YNFVab1R1R0VPSUdCRnREc3dUaDRWV0FRWUM2TkI5VTlTSG5na3RTdllvcDNxVXFn": 1795580140.018554,
 "Reuters|CBMiekFVX3lxTFBqbEx6a3U2X2FlMEExNGZvb3ltalBEWVVOMENLQVdtazBTV2ZSaEZlay1MQTVCdFVBdkx0d2wzdzEzdm5fSHBjU0RXbDZBbWZnbURsNFpwUHpjZllKLUN0SU5fUlRhY3gxaTV4bkF1S2pZZUVpU3o1Tmxn": 1795440635.7586665,
 "Reuters|CBMiekFVX3lxTFBzS21tTmZCd3U0azJQSjdhLW9kWE05QmE4dDJtZ2xSRmU4R1pyaXNGaWxYcHFfcC1rYjBIVzhISWxWS0xMVDZYYmc3cXk4Y0YxSE5jQnY0Wmd0d0ZmR3F1NTRlOFpwaVhOaXJJTDJnUThDUlVmdlFQQmp3": 1795575642.8797467,
