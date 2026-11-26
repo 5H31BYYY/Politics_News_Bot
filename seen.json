@@ -16,13 +16,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWZRbmpScWp5SWNfM3NKcjNGaUtQRDZxQnFTenRVbmJ3MEl1d3JrUFFvMlAzVGFxQWtLY3RvTjdoQUJHdmZ3WVg4WThTWUNiMURTWmNLT2szRXVMc1JJd3F5Zm1ndE9wS295ZExKcnhFRENMSE5fN2NZVjBUYjhmc09DOFpnWlJJTFVFa0hBQWVCWDNFSFZGTHBjWFdVcmJIZWFnX0w5MnJkV09WbTZveGx0TGVnVXk3NEZ3N2swMkhtMnVM?oc=5",
-"src": "Reuters",
-"title": "Ex-DOJ official Ed Martin loses bid to challenge DC attorney misconduct case in federal court",
-"ts": 1795542944.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVNRVF9JTDlJT19Oa0RLZUVoWUxwUTBLRGY1cVZqYXFZU0sxRDJFRXN3SkY1WmltN0RXSHVqREtkVUFKOG03YWc3cVpEZTFfNmFoOVY5cE5HeWNoNzZGNS14X1M5Q0dSTFBGdEtoU195SmphZVkzMk5qQTRkc3BSTDhLd2hET2E3UU5YWVl3WktHeHVFZWJtcUdCUHpmUlFQRHJkMS1UeVRQUXRkSS10V1ZicjhJYUwtbTNnUjBrMEFPaWdDbHVqNm45U1UtQ0U?oc=5",
 "src": "CNN",
 "title": "The Situation Room with Wolf Blitzer and Pamela Brown",
@@ -3520,6 +3513,34 @@
 "src": "Reuters",
 "title": "習近平国家主席を風刺する台湾のお笑い芸人、襲撃を受けても舞台に立ち続ける理由",
 "ts": 1795671342.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4?oc=5",
+"src": "Reuters",
+"title": "Musk pledges two SpaceX shares for every American child",
+"ts": 1795666500.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html",
+"src": "Le Monde Politique",
+"title": "Messages antisémites de Jordan Bardella : les 19 preuves que le président du RN est bien l’auteur des propos incriminés sur Messenger",
+"ts": 1795672505.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/26/derriere-les-messages-antisemites-de-jordan-bardella-une-archive-certifiee-une-adresse-e-mail-et-un-profil-facebook-dormant_6815483_4355770.html",
+"src": "Le Monde Politique",
+"title": "Derrière les messages antisémites de Jordan Bardella, une archive certifiée, une adresse e-mail et un profil Facebook dormant",
+"ts": 1795672508.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/26/les-sionistes-sont-a-la-tete-des-banques-tout-est-lie-nouvelles-revelations-sur-les-propos-antisemites-de-jordan-bardella_6815484_823448.html",
+"src": "Le Monde Politique",
+"title": "« Les sionistes sont à la tête des banques, tout est lié » : nouvelles révélations sur les propos antisémites de Jordan Bardella",
+"ts": 1795672515.0
 }
 ],
 "seen": {
@@ -5293,6 +5314,7 @@
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/21/presidentielle-2027-qui-sont-les-candidats-declares-ou-probables_6680905_4355771.html": 1795285034.035354,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html": 1795353332.1042247,
 "Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/24/submersion-lexicale-comment-les-mots-de-l-extreme-droite-ont-peu-a-peu-contamine-le-debat-public_6814606_4355770.html": 1795493725.1337872,
+"Le Monde Politique|https://www.lemonde.fr/les-decodeurs/article/2026/11/26/derriere-les-messages-antisemites-de-jordan-bardella-une-archive-certifiee-une-adresse-e-mail-et-un-profil-facebook-dormant_6815483_4355770.html": 1795672844.0223508,
 "Le Monde Politique|https://www.lemonde.fr/outre-mer/article/2026/11/22/guadeloupe-le-chu-victime-d-une-cyberattaque-de-grande-ampleur-le-plan-blanc-declenche_6814248_1840826.html": 1795384747.298501,
 "Le Monde Politique|https://www.lemonde.fr/pixels/article/2026/11/24/guadeloupe-le-parquet-de-paris-ouvre-une-enquete-a-la-suite-de-la-cyberattaque-contre-le-chu_6814735_4408996.html": 1795514442.474455,
 "Le Monde Politique|https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html": 1795124726.76715,
@@ -5380,6 +5402,8 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-affirme-a-propos-de-la-guerre-en-ukraine-que-la-france-doit-arreter-de-donner-de-l-argent-que-nous-n-avons-pas_6815137_823449.html": 1795633246.0921698,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/25/teddy-riner-critique-le-deploiement-de-soldats-francais-en-ukraine-pour-des-missions-non-combattantes-ce-n-est-pas-notre-guerre_6815137_823448.html": 1795624235.2718632,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html": 1795651242.859697,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/26/les-sionistes-sont-a-la-tete-des-banques-tout-est-lie-nouvelles-revelations-sur-les-propos-antisemites-de-jordan-bardella_6815484_823448.html": 1795672844.0223508,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html": 1795672844.0223508,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-au-quotidien-on-constate-de-plus-en-plus-une-solitude-des-communes_6815062_823448.html": 1795624235.2718632,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-david-lisnard-va-t-il-etre-reelu-a-la-tete-des-maires-de-france-suivez-la-journee-et-posez-nous-vos-questions_6815062_823448.html": 1795606238.3842661,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-suivez-l-election-du-president-de-l-association-des-maires-de-france-a-cinq-mois-de-l-election-presidentielle_6815062_823448.html": 1795593653.9350958,
@@ -6126,6 +6150,7 @@
 "Reuters|CBMirwFBVV95cUxPMnFNZ215bUttRTh2UEY1bi1MRVBoLTFEelJfb1FsSHR3VDZkNXFyUGRsanFlUHpGckJDbktHM3BEekl6bVhoYXFrNF85ZmhaZU9mU0c3SEJNemtkbHRvNG9idzVyMDNZOGY1WG5ibVFtZl8tOGJfNTlub1ZWTzJVZVQ1ZGpod3VxV0Y3eHdfejdBYlpjeFJwX29WLVFQTGJTX2xxdWpVWm1xazdHWWhZ": 1795431643.082332,
 "Reuters|CBMirwFBVV95cUxPN1dzajc5TC1sVnNkQXJfS2hwXzNRdDJjN3d1WUVBamJNNmRQV3FQSXo2Y1BIMmhjYW1JYUg5UGJCVlA2dENsR1Y3SGY0TTQ1OHlFdXFrZnUxVDF3QjBLeDVmV1FQc1V5Y21HU0s0dGFxSUhkZWliQUZ5SGFRVW9aZDNiZXFqVjV0aWU5QWExc0lTTWJaanRYOFkyU0UxVWRTeU9UWW1DT1A0Wm5TU3I4": 1795434326.7611268,
 "Reuters|CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13": 1795631443.6334825,
+"Reuters|CBMirwFBVV95cUxPNklmekFZWmFURnFwVlBHa2FlTGZwYkxaSkNSRUxMV2lsanFDc2hkdGF1RGhHWlJoUTBicHFXY1B3dWxHa0xmdU5mYzFBbGpYN3Z5N2xTS2U1bVBJeVZQVHRucldkRVhsVlVfNldnTWpRclIzSjJQa0tMMnBFVGhDTS1HYzdwVlctaXowdDJtdVJaNkxLcXo2Tk9Odi1XZnI0c1JScHZycXhWRUNUZmQ4": 1795672844.0223508,
 "Reuters|CBMirwFBVV95cUxPR0p4VDRFZkMxR3ZYRDBRSWQwMlFVcWxjbnF5b3pnSGZSQWZjTGNtNDU1TUk0UVc4ekFrQkpnd2ZpbDZISE9NNnpLeE5aS3FGUEIteFZXX3cwaVloQ3RfWV9Eel9WT3VQVm42bk5sTWl0TG50RVNMQkhRb2gtWmw0TGU1anJTc3ZDN2VpMXkzbm1seVBrWWh6QWk1eDJHQVRyRGN1M1hGemlaM1ptRkEw": 1795596338.6705036,
 "Reuters|CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB": 1795592727.9616518,
 "Reuters|CBMirwFBVV95cUxPYlBDQmY1emlYMU9PT3FCMWlzWHd3U3ZyMUZwTF9DZkw4TVBnZXFXUDlTa28yZHlOSlh5YlhrR2lLdXdPREpKeXJLRUVyT0pYTHd6ZkVRQzQ0MEJ3QlhHS05NMGFxOXRzeVl4RHVlQXJOXzBpd2NOeFYxMjdlNTJaZWl2YkliSHlDSW1zSFJ3aXAtR3FSSDllVXp2V05ReE01TTEtN2l1TEpJenFLZ3d3": 1795151731.025774,
