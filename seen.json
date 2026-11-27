@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSXB4M0Z3YmVRY00wSW9jUGpyU0hzT2h0a0tFel9wcXFIZFVpYWphTTI5Qm1nSDYxOW5ueVU2OHdLUGx2OFlDOWV2YTg5Wjl4Z0I5VmtWWFZkS0lDdU9IUWZnTjlicHMwMkpURXZaVC1RYzJrRFg5TjJrM3VTdFJ6S29FcFhwSTNpOEluWWJTZlZsdi01amwyZWNja0ptZkJnMGRiWnFJNkE3T3FwOHZyWEhfRVpKTTkyd0pmdU4wM0hFZw?oc=5",
-"src": "Reuters",
-"title": "Senegal parliament adopts resolution opposing president's decision to implement budget",
-"ts": 1795641823.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/societe/article/2026/11/25/violences-du-17-octobre-a-marseille-des-ordres-ont-ete-donnes-pour-relacher-des-casseurs-selon-benoit-payan_6815175_3224.html",
-"src": "Le Monde Politique",
-"title": "Violences du 17 octobre à Marseille : des ordres ont été donnés pour relâcher des casseurs, selon Benoît Payan",
-"ts": 1795641849.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhrdXc0NFhybXpCcmF1VjM2RlFseVBqOW0xdXJBQlZWT0w5TmZRTjFTbEpjWTVlZHBmMHZMQ0tVcm5OMnk5RjhKWklxQlFfY1hDQTB4dmZNQWwwd2tLb0xLNGRNbUpNXzNCZGw0Sm1fNlhkSEUzNUZvQ2hkVHNOMGhOOFJlSnZJcXQ4UldFb01FY2J2YmpLUW1NTi1rWnRBb3c?oc=5",
-"src": "Reuters",
-"title": "Russian forces hit Kyiv with ballistic missiles, mayor says",
-"ts": 1795642153.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TT2NKa3JCZjdwX09ZNFFoOUhIblo1VF9SeVV0N2dDWk1IVHZyUXZCaXdDMkd4UnN0TEpUMDBWNC16bGZmUnAzNW1zMzlDcWJna0R1bFJsWnVfZFNYMVdYR254YUxPUDg?oc=5",
 "src": "Reuters",
 "title": "Low recession risk sets up strong market recovery, says expert",
@@ -128,13 +107,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZzdGOHdrdjlleDZ3bmNqTTVwTlhhYWg1VnVnV3I2bVI0eXIxalcwZnB3NW51T3pRRzlpdnh3c0NfMWVTem14azRtamNPYW1ibkU5dURUejN1dW1nbnE0R0g1bEVMQncweFIyQ2V3dnV6Q2FQeVBCdmhvbHJXQU5VT3pGSV8xZ0JiR1BOTXBXTVRHTURtYS1TTVJLQk1SS01VMjdN?oc=5",
-"src": "CNN",
-"title": "'I don't remember this ever happening before': John Miller reacts to the Macy's Thanksgiving Day Parade being postponed",
-"ts": 1795641612.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUJSZDlKMEI2OHVpZjlzVFhrbXlSVFpZRHFCMWFSSVVHRmZhcG9WVHlObTdFVGhUdjROUmRCYWYyRmFMQjNaMTlsOEktdVcyYlR6YjlMQUtiTXhPRm8wSTVRWGNLbllNVTVxR3VocFcxa1ZEQlZyeEpOTXk2ZUdENjczRl9zYnA4ODJQaEM4eHo4ZnNZdWZGOGdneVZ0ZjFDMGc?oc=5",
 "src": "Reuters",
 "title": "New Trump tariffs would likely increase sugar prices in the US",
@@ -153,13 +125,6 @@
 "src": "Reuters",
 "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
 "ts": 1795650823.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnpUZFJsSlJGVEhPTGl1bU4yZTY0VWpYUHdGcHJueUs5dFNBSXF6S3VZNGduN1d3dENEaTV1OXdfc2dBa2J0SmZwakREUU1tVnBZSmJpYUQ4UEc0dmJReUhrQW80dDBWbDdaWC1pM2UxdkF2eTZ4VENBQlFBdXFHNnhxc01QekRZWGpPVzN6YXpwTGx6NVJhTHJBSXpTSldTWkRISlhjNA?oc=5",
-"src": "CNN",
-"title": "Texas family disappointed about rescheduled Macy’s Thanksgiving Day Parade",
-"ts": 1795641395.0
 },
 {
 "lang": "en",
@@ -3362,7 +3327,6 @@
 "CNN|CBMiUEFVX3lxTE9vUlhTTlFKNkw3Z3BkNlpuZGYyX0MyRWM3YUF3VWRlbzB4NndHRTRRSFFwWWNtQTd2Z19EM1JUdnItQjhjS0tBWUVCcFBwdzFo": 1795663835.97096,
 "CNN|CBMiUEFVX3lxTE9zcXFDaFlTSmVNX0JYWFdTXzBvcFpyMFVwTkwwY05JUGRLLWZHcEdmQUt6WWRwQVpDMGhNcWdfUTFiblI3OGtUYUhpZ1NNbnJl": 1795261486.363686,
 "CNN|CBMiUEFVX3lxTFB3Q2h2TE9pRHIxVm12eW1WU1BmWDZfenZ1RnFWWThqdkZLeVJYS05WUGdxU0QzanhGUGRXelB3ckxpNVAwcXVYTVJCajQwTS1s": 1795667434.9392898,
-"CNN|CBMiUEFVX3lxTFBIaFRyRGVIRkdQWXlheVQ4YlJmYzB2dFhkQ2dfOWhkVGpLMVhLT0ZUVUZpSS1aN3pYT3JjcExRMGdVbk5GTzI2QUVjSThPaDhs": 1795167052.4858305,
 "CNN|CBMiUEFVX3lxTFBqMmlKYlpnVjNNMXc0VTA1WXZzS2dwODNxRGlZWUxUUENLZUgzbVFKLXZweUZ6eVh3aERJUFhyWkw1VkdHc2JjOXdQX2I0Z3F6": 1795671927.515814,
 "CNN|CBMiUEFVX3lxTFBqN0YtUGR0QklRS1hMMFJva2VZVDZVa2hWTUluVWhjMGZyNHdZdTJ2TEFsc0Y5bldwTFVJX09tR1hlYXJ4b3A3LVZRbXN4Q2dm": 1795687246.3650002,
 "CNN|CBMiUkFVX3lxTE1PUHNMZmhVZmhXbTdUeEFNM29PX1Q3d2xGejVMZ3QyYk84WG1KYkhVZDU1ZG5ydkktS2xDeUZocjhLQi1ZZDJaUXhHRW51TGJxc3c": 1795369525.9867144,
@@ -4479,7 +4443,6 @@
 "France 24|0d2730e8-e99e-11f1-a3b4-2f0f840bc9c7": 1795701644.144846,
 "France 24|0db8585e-e578-11f1-b9e0-f9bacfa757bc": 1795244439.0557535,
 "France 24|0dc5bf44-e50a-11f1-9923-5bc279a4f01b": 1795197640.775553,
-"France 24|0ddd9c2c-e4ba-11f1-bac6-695963b2b505": 1795167052.4858305,
 "France 24|0e400312-e4ce-11f1-81df-134a39c27a94": 1795172443.8356457,
 "France 24|0effecce-e9c2-11f1-b589-a5c871e9f513": 1795721436.0730712,
 "France 24|10565f16-e758-11f1-bac8-75c9eaf1ef66": 1795455034.2724738,
