@@ -23,13 +23,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Bek5zMkl3Y2UxLVlZMm5IWTJadzdIMWg2RnJKQ0JrRXNJRTIxYVZ1T3pGaENVeFAzZThYMVM4QXF3Nlp4OEM2c0RvdktKNjlWNERpcGM1NVNhU29ZYVJwdVdkQWJFVG8?oc=5",
-"src": "Reuters",
-"title": "Colombian security forces rescue hostages in supermarket siege",
-"ts": 1795640856.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhrdXc0NFhybXpCcmF1VjM2RlFseVBqOW0xdXJBQlZWT0w5TmZRTjFTbEpjWTVlZHBmMHZMQ0tVcm5OMnk5RjhKWklxQlFfY1hDQTB4dmZNQWwwd2tLb0xLNGRNbUpNXzNCZGw0Sm1fNlhkSEUzNUZvQ2hkVHNOMGhOOFJlSnZJcXQ4UldFb01FY2J2YmpLUW1NTi1rWnRBb3c?oc=5",
 "src": "Reuters",
 "title": "Russian forces hit Kyiv with ballistic missiles, mayor says",
@@ -48,13 +41,6 @@
 "src": "CNN",
 "title": "100th Macy’s Thanksgiving Day Parade Rescheduled",
 "ts": 1795644254.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jcGtDOG81WDYxMW5zZWFuLTZadm1UeWtjNE4xVkRJODN2QUg4OVJOMzJid2dWSlMyZ3ZlQUdKYjFTSWxxXzlOdjJxR0dUZWtpWWdLYVFFeXNRb19OaGFGcmQxRWUxWXE1VHFwMHpZcTdUOHhJRFB5MldUaUJXZw?oc=5",
-"src": "CNN",
-"title": "100th Macy’s Thanksgiving Day Parade moved to Saturday due to projected storm",
-"ts": 1795641209.0
 },
 {
 "lang": "en",
@@ -90,13 +76,6 @@
 "src": "CNN",
 "title": "Could Trump’s new tariffs impact the prices Americans pay?",
 "ts": 1795647003.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1UDAyTkd4V2luVXZJWjh6SlNrQlRFaWhsNXd5SDAwa2hQdTRuektPb0p6VEkxQ1lOWmF4OENQM25vdkZFc1hPY1ZKS29JRmlpbG1WaHB6blR4YmttODN4SmlfMG5qTDQ?oc=5",
-"src": "Reuters",
-"title": "US Army says detonation of Iowa explosives exceeded expectations",
-"ts": 1795641137.0
 },
 {
 "lang": "en",
@@ -3135,6 +3114,20 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : Gérald Darmanin appelle Edouard Philippe à présenter « un projet, une vision »",
 "ts": 1795769482.0
+},
+{
+"lang": "fr",
+"link": "https://www.france24.com/fr/vid%C3%A9o/20261127-l%C3%A9gislatives-en-espagne-dernier-jour-de-campagne",
+"src": "France 24",
+"title": "Législatives en Espagne : dernier jour de campagne",
+"ts": 1795770426.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/videos/video/2026/11/27/l-enquete-du-monde-en-video-sur-les-propos-antisemites-de-jordan-bardella_6815823_1669088.html",
+"src": "Le Monde Politique",
+"title": "L’enquête du « Monde » en vidéo sur les propos antisémites de Jordan Bardella",
+"ts": 1795770432.0
 }
 ],
 "seen": {
@@ -4497,6 +4490,7 @@
 "France 24|14552a7a-e807-11f1-bbb4-0faebd12bb18": 1795533329.0707104,
 "France 24|14646a14-e8ff-11f1-baf7-854c9aed6c5b": 1795640444.912453,
 "France 24|150b18a2-e66e-11f1-b545-89886f428fc6": 1795350633.8279238,
+"France 24|1528c7c2-ea41-11f1-92e1-835ba10510e5": 1795770932.1466296,
 "France 24|160a28f8-e4e1-11f1-866c-130278cdd5a3": 1795181434.9871294,
 "France 24|1639e256-ea21-11f1-a3e3-bf02892906c5": 1795757434.476728,
 "France 24|17b1c970-e808-11f1-8094-8b8f4c9c5ed7": 1795529726.3940816,
@@ -4525,6 +4519,7 @@
 "France 24|26f366b0-e834-11f1-a1c3-bdd526996338": 1795550443.0003998,
 "France 24|27cc6814-e6bf-11f1-9ce7-3f3625b48cf9": 1795394728.839214,
 "France 24|29445474-e81b-11f1-9455-17b51c667d39": 1795541436.5987756,
+"France 24|29b97ad4-ea40-11f1-afdb-49e074a8caef": 1795770932.1466296,
 "France 24|2c682786-e8cd-11f1-b044-1979b2a4b645": 1795616128.1371791,
 "France 24|2c79a5a2-e5b6-11f1-aa65-8dfd0eb5c29f": 1795285034.035354,
 "France 24|2cad5a56-e8df-11f1-879f-735f401f0757": 1795619734.8505733,
@@ -4648,6 +4643,7 @@
 "France 24|708e9ae0-e59d-11f1-890e-577b54b17e92": 1795285034.035354,
 "France 24|72454380-e8c1-11f1-ba6e-9f758aa6a8fa": 1795611641.2302907,
 "France 24|728b57ac-e74b-11f1-a2e8-af4f4ebc6c00": 1795449648.534274,
+"France 24|72caa8d0-e9bc-11f1-bdf1-d77e72ab08bf": 1795770932.1466296,
 "France 24|72db4e48-e8e4-11f1-971f-ef504d91f269": 1795626043.0235748,
 "France 24|746d98e8-e8b6-11f1-b88d-f9104e4a442d": 1795601726.1376607,
 "France 24|74aed1c2-e5c9-11f1-bd99-d9b31984b18c": 1795285034.035354,
@@ -4884,7 +4880,6 @@
 "Le Monde Politique|https://www.lemonde.fr/culture/article/2026/11/21/florian-sitbon-adjoint-a-la-culture-au-maire-de-paris-veut-mettre-l-artiste-au-c-ur-de-la-ville_6814019_3246.html": 1795285034.035354,
 "Le Monde Politique|https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html": 1795698928.7295563,
 "Le Monde Politique|https://www.lemonde.fr/culture/article/2026/11/26/pour-sauvegarder-le-patrimoine-le-rn-mise-sur-le-prive_6815530_3246.html": 1795697126.5455413,
-"Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/20/commerces-endommages-lors-des-manifestations-les-modalites-de-l-aide-pouvant-aller-jusqu-a-10-000-euros-publiees-au-journal-officiel_6813612_3234.html": 1795166127.9125838,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/23/pour-emmanuel-macron-un-choose-france-100-tricolore-sur-fond-de-morosite-des-entreprises-francaises_6814341_3234.html": 1795417243.4311755,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/24/la-commission-europeenne-se-montre-indulgente-sur-la-situation-budgetaire-francaise_6814840_3234.html": 1795546839.7323308,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/25/malgre-des-financements-tenus-le-programme-savoir-rouler-a-velo-veut-mettre-les-enfants-en-selle_6815084_3234.html": 1795604449.3831983,
@@ -5045,6 +5040,7 @@
 "Le Monde Politique|https://www.lemonde.fr/societe/article/2026/11/26/des-policiers-manifestent-leur-colere-devant-les-commissariats-en-france-on-veut-que-notre-travail-soit-reconnu_6815591_3224.html": 1795716924.4719307,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/11/25/ce-que-l-on-sait-des-fuites-d-informations-confidentielles-vers-le-rassemblement-national_6815155_1669088.html": 1795628729.3375735,
 "Le Monde Politique|https://www.lemonde.fr/videos/video/2026/11/26/propos-antisemites-de-jordan-bardella-le-monde-apporte-de-nouvelles-preuves-que-le-responsable-du-rn-est-bien-l-auteur-des-messages_6815502_1669088.html": 1795683644.534479,
+"Le Monde Politique|https://www.lemonde.fr/videos/video/2026/11/27/l-enquete-du-monde-en-video-sur-les-propos-antisemites-de-jordan-bardella_6815823_1669088.html": 1795770932.1466296,
 "Reuters|CBMi0AFBVV95cUxNZ1Y1UnF0RE5BeUZFTDY3UFV2YUdacFI2X3d1a3c3MkFEb2RWWGY3MVpUQU1DVmp1NXcyMDZJMkY4VWJPank0Zk1sWWM4bDludURCSEZraHFrbXJza3FWVnBlajRhbmZ2OGhyZHZmdVZTUjRKcUpmRlZhRUhtWnhaQTFFLUdHaGNXVjZyYUtpRDVXVm5RMjVGbkNDbGs2LTdTZ1hFcU01Qm15ZzN5R190Z21NTVNCU2ZqcHlwSTA0TENnOFVYZlN4MmUwejZKNWk5": 1795446926.9540098,
 "Reuters|CBMi0AFBVV95cUxNb1lZVWE5R0ZWWm8zemV1M1lTemZUTXhoVzFINzVZeGN2LVpCLWcxbWJ1YkNwMDVtQy1QcTdFRVp1RDA2SHhNc1FLZ0F0N0JuREl3ZnNya3Ric2VkMkVxU0c5YWxaZGI3ZE1zR2lWWEVpUDJHdmdyN1NfWWxFWnVuQXBNX0tKelF5NHJqU3V4WWhCUEYyVlVjQVhXMzFSaGtkM2RyRWQ1cjJrOW5ucHlZZ2NFem9OTkRUZUhST2VRcG1hMy1ETFBnb2VFeWtZcVgw": 1795356040.4708402,
 "Reuters|CBMi0AFBVV95cUxOLW1ZVElueVNoRkw0NVNoNUFNV0VsMHpqamI1Q2NjWEE2UHFLd1hMa09hNlhVTHA5d3UzNXhFVzBwMzhJY1I3VC00REw1R3AwckhtSmZLV2NYYXBHZWNLX2REQnFHdWZJS0s0a0Vtek9PeUtfVVNmN1VHNzVLTU1LbzBvcUhPNWVDVTV3UUVwbFZYQ1JIZU5XNFZhVVZhOHdVRjl5NWdfamhlSmp6NnRKV2ZxdHBZaEFyRUZSalNuNzBQbXpUeG5GVEJ2eGtRajhK": 1795699838.8755393,
@@ -5402,7 +5398,6 @@
 "Reuters|CBMihAFBVV95cUxPSjdnb3h3V1lFaVUwR1Q0QUV5N3ZnQWJtTnJJY0cxZEw4bVlZM3BqeHV5V2xWYjVqSkRjOEREM1h3bXlweVdJX2RPNkx4SERSeEhydWhiZFB4bUNXVnlkN3BVekpGWjF3UEhUYVdQSVhOSTBtNkRWZHlaUnNLVWJGNUhzSGo": 1795608938.9332528,
 "Reuters|CBMihAFBVV95cUxPdVYzd1Z2d09NekpkMG5seEpUNHhxeGZVMkUwdTRLcGttbWtjYTdjX2pBYWtlSHo2eldNU01naEhsRDFNRHNVVHY5ZG1Sc3dDODJyWUxVMGxlTEFndlNnR3gwbWdiZU9FZWxadlNqbGc0a1BLUnUwUUY5T2lVYmZtWFBsYkM": 1795679126.7393003,
 "Reuters|CBMihAFBVV95cUxQVXA5ZTEzNEZ5eFJRTnVSTnREWkVXYjdrYzY2ZjVkY3F1YUh1enN6MGtRUnpBd0phelVBRWU2MGp4RE9LXzJ4Sy11MXoxOUpIVDRWSW91OTZMN0dzSnJtTlBiMHd4U3RQaXdUa2FaM0RLRFZtdFYwdkVtVVZLQ25UQW4xdTU": 1795440635.7586665,
-"Reuters|CBMihgFBVV95cUxNRWN5TllrYmdueHRBVUJJWFFidVdUVnZOaUNIcHNseHBZREVKU2xRN3hST3VaazAyQWtVLVRlRHRCS1NpS01jay1QMXpKZy1MWUR3ZEdEbF9VN2JNWWJwakFZS1NRMklkNTZueWxhWEtrSEpXcFhVX2U4aVZkS0hlOVl4UUZSUQ": 1795166127.9125838,
 "Reuters|CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw": 1795681836.4892926,
 "Reuters|CBMihgFBVV95cUxObG8tNFNwdUhidVlhTVFUWHV2TWFqTlV2aWFsMzlpQVpsVm42R1M4UHFzX1pEQ2NxeG1FcXNod0xrdjh2RzhmTGFRVFM1RTZQM3B4M3pzejNfbWc1c0R2MGNMRnNWbE10bC1HOGdsX1FpMzE3QnJQaV9mRmRTcUk2a0xMWmd2dw": 1795560330.5688176,
 "Reuters|CBMihwFBVV95cUxNSUVLZWE4T0lxU2FYWHJwTzFnR2dhdldHVFhvMDFjVG5sUG1TdWpFM2F3ZkNxRzM4elNYUXhibjJVR25zTXIyc01uMXBKTWVvOGFzSlZQRUNKUS1WOTJnVEozcVNoay1MWDIwXzBWeVFFcmRqMXY1ejgxZ1d6Uzl0cjAwTzBBSjA": 1795741244.314884,
@@ -5778,7 +5773,6 @@
 "Reuters|CBMisgFBVV95cUxOTV9acWZoWWwxZ3JhWlJxWUpJYnNGclVKbFk0YjZ2cjhpLXdmYVJ0aTQ2Q09MQ0xyRXZzdWJHTldoOVBhVVdyUUJQVjJ3TjVkVTZoZ19tTE42aFhMUi03dm1Za2RCQ25QZm5NeXFzT0piU1FBVzhZSk9Hd0dHMWVmNkY1SzVfSTl3Y0h0Y1pVdWxGUnJqQzZZSmM1LVpBTDluQ0JRcFNPdXJOV3VySHdpTlR3": 1795436127.3722153,
 "Reuters|CBMisgFBVV95cUxPOXZ2N1RsWlJRRkM0MW1oVVRKaW4xeU9rLTNXSzlWWXhkcTFTcDJJVVgzaURPUG9tZ1lRZ3pzOFY5aWFlNThGaFJnRVFZTUlaaWZkLVdUbnZXcGRRaFEzR0wtY0FERE5WZWlGY2RXMHJWc29PMzVUSFRBV2RvcWpMU1RFZERSZXV3aEZmMk1wWUN0SUwzUlJULVdJLVN5ZS1hYTVtTFR1N2lVNFQtZk53MGVB": 1795456847.2823915,
 "Reuters|CBMisgFBVV95cUxPQjFtTWpYaGFYMFI4SUh4TFZCV25MTVlFYmNPRDhPeFYyamdCeTlPOWpsQVpPV3lrdkFOMmZhR1BxVmdnLUNldEpUWEctWmtlRjRpb3l0czFBUVgwSWxUYnZBc0lNUE9fVUNySkxEQzNrNVBVdlZRMnFzSVZEVDc3RFFzRERhZ3RhVTRYWGZnWmZNY2hoY0tUdC1MeUdrQ0M2bFVSLXJBdDBwMG9ZQ1lVanhR": 1795709728.7394333,
-"Reuters|CBMisgFBVV95cUxPTVpadzJPZDZJdktJUTN0WUlLOUZWYjF2NlltakFuV3VxYm1DNURMVkFWUE81UlBxdlpZdmNVZkwtdlVuV3FBWm9ua2pMNzBVcVhmYmxLV2RCSHEwR21jX2c0UU1mQllmRUgwVjR6OEJSOWx0MkUxa1ZYOVR2ZjF6R0pORFo4akhRTi1GTzU2aHBQUk9oRzhSanI1UzJYNGJpanZyY01pTUFEZGhtSVZ0RUtn": 1795166127.9125838,
 "Reuters|CBMisgFBVV95cUxPTXlORzRLcFRDS3BCajdibjhNRG15NkdjQmdrYjlZVUprZ1ZvRXlBVU5IUWxJR1RzanZOUDlhYVZYamFsdTZ5b3FkcjJnaDlMdGxxZm5qR0ZER0tiWEhRcXdBZkFPT3BxZ1dMVzdOR2xEVGl0QWhmZlJEc2xzNUxiQVhUS003aERHN3V2SURuaGlNWXV5dVhTem1Kc0JMNXRNQTIzRUF4a016M0NibXI1ZDd3": 1795611641.2302907,
 "Reuters|CBMisgFBVV95cUxPUWlVMW16QTlGTVpDNk44MzFpVjJDT3J6VW9JbU42QkZpTUtjVHF0NUJkUXhnVGhuY1BMamRzUHNfZkJaNmFad2M0bnpZVmIxVVRLbFpDb2FubW5idnRFaGhCa1BmQVFMdzFYYnZjLVpmTFZ6SE13N1VPTm9LdlJmX3FzTmxHWjNSTHBVUlJORXlQRHpNSks2c3VOTkpSdWNHMlBzdjhmOVM5S0tyQjJpNHVn": 1795570238.581091,
 "Reuters|CBMisgFBVV95cUxPWkY5M05NWmU5Q3RKUHdXcjEzM09wQktKV0dnM3o0Z3BWZjBoTWs1Rk5vMGZHNFFGSUxicUd0VmZhRkN5dXY3eXh1dW9JY1FYV25fVGZURlZmdlpuRTZMdnZxdXpVNlRvZDcyOW9pcDNVVjRmOVVHTnRHWkZOZ1cyNlk3bS1fTk9KNVhrTUZncEd3NENlRjFtZzlZNThTeDZ4LUNIRFYza0tYdUJLanBRZEhR": 1795725927.2347517,
