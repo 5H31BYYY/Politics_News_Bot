@@ -9,13 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VUGt3RGlMNUpiWW9UNUZpWl9OTzRzSUtsb0F4TzY4TkVQNU5qODQxdU1LMkpMVGhDVjVGX2stR0Uwam5WRmQ0WElnTVBVQVZUUVZ2NXVzMnBYNnZiSnB4YVlaQTZ0V3NBNlpZYUx0d040dkRV?oc=5",
-"src": "CNN",
-"title": "The measures the Trump admin. took to support Jensen Huang return to Nvidia draw scrutiny",
-"ts": 1795658350.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "UK government set to publish new treaties agreed with EU",
@@ -3401,6 +3394,27 @@
 "src": "CNN",
 "title": "Hundreds of flights delayed or cancelled as storms continue to batter US coasts",
 "ts": 1795782319.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFFfNVZISm51VVFiNDNPWG1hWU43anIwYWdlajRsa0dSM2szc25uSVIxMTFXcVhlZ0VLYzlFTmNfbHl3RkEzV1NwYWtvNUt1SXhJQ1owT1AzMnRWYnlVU2VxUkkyX2t1dGo2THRXWU1USzlQa0hKSkJRU1l1UW16LXhselYwU1RqSnE2dExDejFjM2FPSzFMTDYtblNzRURYdl9V?oc=5",
+"src": "CNN",
+"title": "Tyson Fury’s wife clarifies that he has not been diagnosed with schizophrenia",
+"ts": 1795783243.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmt3Q0NCM2NjRHdYdlBVSW1nWGRJYU93eURuU2JCaFFTLUZERjRwVUZtR29fMUU2YVloVURsTHBPa000VW5BT0RxdHZjeTI4aTl4aGtQWjF1Vjl0MXhtdi1ZN3Z4bmg4ODhsaW9uTG9xU1d1TmJhaW13MFBNemFWNG93LWZZeWVLOEZXTQ?oc=5",
+"src": "CNN",
+"title": "Stretch your dollar this Black Friday with great deals under $25",
+"ts": 1795784767.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/27/devant-la-commission-d-enquete-sur-le-17-octobre-le-prefet-de-police-decrit-une-situation-quasi-insurrectionnelle-a-paris_6815865_823448.html",
+"src": "Le Monde Politique",
+"title": "Devant la commission d’enquête sur le 17 octobre, le préfet de police décrit « une situation quasi insurrectionnelle » à Paris",
+"ts": 1795787574.0
 }
 ],
 "seen": {
@@ -3457,6 +3471,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/ck9874vydr83o#0": 1795204841.6950426,
 "BBC|https://www.bbc.co.uk/news/articles/ck9874vydr83o#1": 1795335972.510022,
 "BBC|https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo#0": 1795543871.287308,
+"BBC|https://www.bbc.co.uk/news/articles/ckvgdd9p7171o#2": 1795788045.424839,
 "BBC|https://www.bbc.co.uk/news/articles/cm1dvnp55xryo#1": 1795645836.1758747,
 "BBC|https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#2": 1795428928.943397,
 "BBC|https://www.bbc.co.uk/news/articles/cm1wr029evnqo#0": 1795194042.8617408,
@@ -4209,6 +4224,7 @@
 "CNN|CBMijAFBVV95cUxNQVpUYy0tN2FuYnJGVWh2VjY2amJXYXVrcXE3VzByRFQxdUVuY3JUOTVTZHhZSENMVWJVRURlTURzYWpCMGhVamZXaks0TmNOdW5sTVh6Y0dYLUxGRTRYbExuQnRKNTdQSGM3WkZwelRLSW5STFdBN2ItVzdJV0dKeE1MQUpSZ3A4cF9tQw": 1795363239.8836958,
 "CNN|CBMijAFBVV95cUxNS056RE9yS1AwXzFlNlpiRS1NZzR5dVJvbnJXRFVrb3VlYms4OVh3TF81bWRqZHYtSlVYalNRQVlGQ3JYeGNXNV9CX1V6TUp6QkdBb0J5eVZMNUlheTlOZXNvNzNUM1RnZDBDMXprMjBuenFDTWI2VHJ6eHFfekkySUdXeDBEQS1wU0ZlSQ": 1795539643.276993,
 "CNN|CBMijAFBVV95cUxNSFJvYmFza1JfRk9CbGpTSmc5cXg1VnNMeXBCb2JIeVhEc1Bvbkk5ZnV5RmhVMlgwbFd4R0g3YVRRZERfVzJ0Tjh1dDE5N28tVFd4V2tuWndjSVdJMEhKTlhIQkdwdFlKM3FnUGhsbk1oTnZkT3ViVUtBdlRzNXBJWVNvdUJDckx5XzFfVA": 1795705244.6012175,
+"CNN|CBMijAFBVV95cUxNUmt3Q0NCM2NjRHdYdlBVSW1nWGRJYU93eURuU2JCaFFTLUZERjRwVUZtR29fMUU2YVloVURsTHBPa000VW5BT0RxdHZjeTI4aTl4aGtQWjF1Vjl0MXhtdi1ZN3Z4bmg4ODhsaW9uTG9xU1d1TmJhaW13MFBNemFWNG93LWZZeWVLOEZXTQ": 1795788045.424839,
 "CNN|CBMijAFBVV95cUxNZHMtaUN4QUlMSG5tblAyM1RLbTJJaTRoWmJKTFJpSWtyYXlsTEx1NWRUSXhPd2tQWUFwM28wd01Qdy0wdWR1Q1JWWkN3SklLM3A5WFA1bzRfamV5Yk03N2xYSHpyYU80V0JKckd6OC1NeTFfNFF5R3VOQWNKYzY5SGJkeC10OGt6WDk4cw": 1795212039.1055026,
 "CNN|CBMijAFBVV95cUxNcG1HVEl5OFFJbUMtcllrTmlxUlRUdXFjTkNiOXBJVmc5TVJ0eDdiUFVJX3dMeGpOR0N2UGRKVGgtMXdqY2piOFE5WGpaTkR3YTJva3EyMWtxdzJ4QmZBRm05TGF0NVRoOWpJVHdwMlpta3FVZWU2aWU3MXZQckMyLXhXd01PZ0Nwam1CTw": 1795569330.1092637,
 "CNN|CBMijAFBVV95cUxNdW1naUtMWEc2ZUlfT18xTjhXeV9zWmpXd3JVZ21FRTNVNjVxS3NRV3VheFZBZUFLQ2dVYll4SG1fcnVVWlp2NVJKUWNQQ1VSbFAwLWYyZVEzOWpRWXJCdzRMR3QwR0dwNVRrVmh3UlFIc3FQX0tWeDRKd2VvbXZSamZJczlPeWo4OVV1RA": 1795463126.8918173,
@@ -4255,6 +4271,7 @@
 "CNN|CBMijgFBVV95cUxPblZ4aDV1RkhkdWd3cS1wc2RwZEZlNVBwdHMwNC1BRkZMQ1NQQVFqMlhBV05lZERMdjJPcFZKWWNpVnV6UkpkZHNPWlJSQ05aeGtTRldTLU9ZLXpZQmIzVlBKbm1sTk9pNmRBc0M3cmpySWszX1FEVUFpM3dMV0FHREkzU3JESHI2RERxWk9n": 1795410927.6148431,
 "CNN|CBMijgFBVV95cUxPcGloQzBwcUt6aFE4T3pYcXFqeVk5ZUMtMWFIR1hZcjBRS1lESmZZc0dWYUx3Q0x5LV9ya3VLaXdrZnhiZ1Robml6Mnotd0VHb2JNenAwWTBKLUFkcTFXNVktTFNaMEhZaHlidTRTdGpMOENibFZTTFY2NmF6Zkp5Z0ZqUlJraDVwbl91U2JR": 1795193130.8066945,
 "CNN|CBMijgFBVV95cUxQOVd6SmZMLUpRRjdUcmpPeWVwRGRIbV85M3lxREZ4cmtwMzFKSy12RWVHcWFHQ1Q0Y2Y5aG1fME9kbkZ6eFRMdE0yUm1QMWEwZEJ1VExhWS1kVlRPakU0Q1F4dlh6WE81MnUyQnpUd1pweGFOZ25RMDgzMkRFUC02Vkk3aVlKTV9jdXNBd3Rn": 1795659328.11382,
+"CNN|CBMijgFBVV95cUxQUEhvYW5VTXlpTERxZ3JEeGFSQ0MxY0Y1aXBVLUR6ZDFWNWdlZ3ljTVUxcW42cTUxbE9kMGdnN2c2WTJ1MlgxcVBtaUYzNmk2RXFscDZ2XzFlLTE1cHNtRDN3QkRYc2QwcEF1UGhsTHBxbnBYNC1hWU5LaG9ETXdZM3VUQWptclVCd1h5NjNB": 1795788045.424839,
 "CNN|CBMijwFBVV95cUxNNllScjVCbWpsN0hnNHhIRUxsN1NveDRSN3VNSVg1MGgxUjdUS3g3VGYyVTlydWRGai1TWnNLVjI3cEw0b09vWFg4TzBTc2JTdWhFcklBR0MtLTFOZGIzaFBucFZtcjdrbzNTcG13Y1E1Um90bWtRVUxHNDNSczh6YTJZMGIxYnJuQjBLbXRoWQ": 1795522531.28335,
 "CNN|CBMijwFBVV95cUxNWW1hWjBGZGVKTkNydG1XZWZtZGVYWTN3TEZYMzMzQm5hVTJ3bkZ5OUp3UldNUXh3QmhnRDdfNU54YURncVpBMlotTVM5RUhnQW5CM0E3dXRGb3dfUHZCcXVoaWtabEwwS0ZTbVNvU2JyeUFQdGNleGs5VUctY1l4OFU3N3owbXJnODFfTWF1bw": 1795436127.3722153,
 "CNN|CBMijwFBVV95cUxNWlptTkJUQUdJeG41TFdtU0J1emlYOUEyeWlvVUVqaEdiNGlUX3h1UFFrQloyT3UyOVpLUEotS3E0TEw4Szd2cV9IaXRNemFzR2FkemFPLXlmX1Z5Zm91dmdWMV80V1ZhbjFmcDdKRkhBa29URlBsbkZWY0FDaXl3cHktSWoya2g1NUExTFBaNA": 1795470326.7115912,
@@ -4514,6 +4531,7 @@
 "CNN|CBMiowFBVV95cUxNZi1fVlo5RW5jdjlpMWtUWGNaY3V4NzVuR2c0TmVQSTRsaXQ1bkQ4N3lZb09hQW93MTc0US1MMEVEMnlySnN6R19fT0pBWHRoREQ3WWxieTgyd0d6bHUwTUtSN0gwdWgxYkk2TFVuNzFSS0oxYUFRMzQxWnhHTFE5Z1k3NnpmU0hFNHV4dGtjR0dLMXVPUFJXejl0MEJqTFU1UzZV": 1795693527.4593747,
 "CNN|CBMiowFBVV95cUxNZjNLUU9yN2QyU29UOFo5WmxpbEZTdVVPM1BkNnZ4TUQxRmhXYmFsNDRWQlFVQ1dubzA0ZURTMFpzakMzLVk3eE4xeXVhRGxVa19GU3ZRTE5zUl9pXy1PNzIyZ01PdXBiZGZ4OUM0YjNSeVlXaHhXT2FONS1aRl8weTJ0VUw2c3ZJTkFHSlhlbExSdTlQTEhOcVB5b0dZbEZiUUww": 1795747536.8392637,
 "CNN|CBMiowFBVV95cUxNaExqRjlRTGRLTFMycHhpcnBpUWw5dzBVbE0xME9LSmQyUmowMVBNbmVlZm1tMEFrX2l1YU55cFpHb0hwVHJjeWpwelBIdnRuUUdRLXlBNXFMUVVWS3NoSlJuU21oMHRUdnlVWG13OWtPU1hkVzl2dTBOQ2RQTEdXYkZ0cS16UFlOaXFIYnBKamc0dXN5R2FYVmpuSDdNZThBQ0ZZ": 1795460441.581475,
+"CNN|CBMiowFBVV95cUxOSFFfNVZISm51VVFiNDNPWG1hWU43anIwYWdlajRsa0dSM2szc25uSVIxMTFXcVhlZ0VLYzlFTmNfbHl3RkEzV1NwYWtvNUt1SXhJQ1owT1AzMnRWYnlVU2VxUkkyX2t1dGo2THRXWU1USzlQa0hKSkJRU1l1UW16LXhselYwU1RqSnE2dExDejFjM2FPSzFMTDYtblNzRURYdl9V": 1795788045.424839,
 "CNN|CBMiowFBVV95cUxOWjNGLWVWVWdiVERsZ3dfMFlidF9mZ2MzWG9FRXlsdVhoLTJKQU9zWHJUeUt2RXJmdTBDQVNRN2hSWDJPNUZTNm1aYl85OE1rQUF4MXRGajFPRmNOY1JYbTJLS2tLb200aHNtMEtWbDN0YWxvalJpMXpMLXFrUUFSUTNQOHBONi1ib242MVFXUVpYQTg4RGI2TUZISVAxNWVJX19R": 1795785329.0675387,
 "CNN|CBMiowFBVV95cUxOZ0kxMXZYMVpjeFFkNFdEWWptMjI2bVFqTUt2S1g3SHZGaVhiNVBEeEo0Y1gxV20wODVNLWZ1MnV3ZTFJZ09DQ012RWtaUlhzZmJHdHBrakVmcGRKelNjRkx2UU5vVnhNQVRSSzZvSjRkZHlfdGx4SVdyX2VINkdhakhESUt6b0s0eU8tem9SWUVOS096MEFXTm9pZEhEdEltelFV": 1795658443.667165,
 "CNN|CBMiowFBVV95cUxOZzdGOHdrdjlleDZ3bmNqTTVwTlhhYWg1VnVnV3I2bVI0eXIxalcwZnB3NW51T3pRRzlpdnh3c0NfMWVTem14azRtamNPYW1ibkU5dURUejN1dW1nbnE0R0g1bEVMQncweFIyQ2V3dnV6Q2FQeVBCdmhvbHJXQU5VT3pGSV8xZ0JiR1BOTXBXTVRHTURtYS1TTVJLQk1SS01VMjdN": 1795651242.859697,
@@ -4588,7 +4606,6 @@
 "CNN|CBMirAFBVV95cUxQQUwzRC15bU94WmEyX05aU3RfZENNZDJxVVlzMnFGQVo5MVBTY1gtN21ZVVhGdERkQ28tMFAyUEtHQXVoczNIWXZ0LWF3TUNjclZkRUQwNEVWWDA0c2pjRlduX2gxM1Z1ZUczOTRFdWNrZHdzVGdVZG1uU2w3VDNPTzRIczVGNDdENUtNRWh4Z2dTX3hQUUF4RS1FekZzMGJraTB0UGV5SExPb29u": 1795610731.1903605,
 "CNN|CBMirAFBVV95cUxQT240MW9abTBCVkhubVV4eUlWdi1uczlPUGNfSnRMenVtMHpHV24tbTJieFlJN2QwUXVGYVYtb01WOC1jRkRCTlc2YWxzeHVYY2dNalBKc0ppMzNYeEplT0RLR3NlRnk4NHRmenBMUUpVcjJia2FVNi1kaG5GN05PalU0dEg2ak5pR2U1V3NZR1NxWWR0cUMyOE9XS3dBUE82cC1TVTVCUnZEQXJn": 1795685441.2285962,
 "CNN|CBMirAFBVV95cUxQZGoxNUZXS1NtelNOVUU5SU9KWHFLRnRWRWdEWFh5LUFZY2ZudmxJd2N6Y2Zqa1B0ejlwTUdrLWdqSVRzWUh6eUw2ZHZfUldkbVBLTlFQajk1NXpXZzFhVjhob1dDeHhJODJKcl84X1FCc1BCbkh5VGdnYVRBdThHQnk2SDJmbkdhWnVvcEtYMER1bEV2Tks0SnVYbFF2TFZXa0lNRXV0MGFlV2Ft": 1795480236.6303425,
-"CNN|CBMirgFBVV95cUxNNEppbkljOU0yb3Q5Y1JONEMwZGJXbVRBdU1UdFdYQzRNa2xiUnNTT1k4RE56cGtrbVFjY1NNeTlXbWphMGRSLUFTelduLUZGZjc5dnBnb2ZuSVZrUDlvUUlMTF9ZVVdTUVdPOFFBQUluR1FZUVRXdkxCYjdjLVZkRXJtdnBqVjRacHk3Q1haSGpmZDA4bG1kZGRoZUp4bG5Ya0dXWUR1QzdfbHFJLXc": 1795183242.750266,
 "CNN|CBMirgFBVV95cUxOWkZKSHpQMFBJRE81bjU4bHcyTnZRYnhMU0gyX0FNZVN2b25kZnZWSnhlNFBiT0loU3ZtcDM5bmhtUF9WWUdNalJfMm9kNWk1cEo5UUM0NDFtbFNocnlqRzE0WXZLWTlNbDAwcDFwWVlBYkNhVjlkOXAzUGl3OFFkalQ1ZGFyenFhQzlYZkhEcGVkcVdJeUYtS0k1bHEwV0pfOUpPMkhfZ3J2cmJYbXc": 1795449648.534274,
 "CNN|CBMirgFBVV95cUxOaDBIeXRXb05ENVdFbUVRZ0pIeEhGNzNHcFpKcVF0ZEVpa093aEhFNmluZkQ3TThOdGxjbEkxbC1rLWd0dE5JQk5ES2dfb0RQNFdCcmg2bG9xVFFqMzVfU3kwREZnV2dpUkJlQ3hIb1ZZUGNvR01XdkpDNVJhMC0xWWF0MVhhTkFpNHViQkRtNFFqRkRXMzloazlqd29NbjlWc0tfNUduUkx6eXdOVEE": 1795365035.797678,
 "CNN|CBMirgFBVV95cUxPRjZWRFFOcUtCNzhNeVZRMFVjOFkzNFh2U2xCMEF0TGkxdlN5Ry1mZkxuUUdBNVdteG9HVDVpUVRYN3FmTVg5dUtmTVFuaEgwMHFjSm5iYS1qVndjYll5cVYxbGdoWDhBWGtRMkhQNWRzNDcxQ1laMDEtdmV4ZElXeWhEdEFqSWRRaWpNT2lGbVpGUlNHQ1N0OEludGNKdWNaRUpnVXJIRGUyUnpiWWc": 1795410927.6148431,
@@ -5167,7 +5184,6 @@
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/26/les-millionnaires-patriotes-ces-riches-qui-veulent-payer-des-impots-se-lancent-en-france_6815481_3234.html": 1795684529.7164376,
 "Le Monde Politique|https://www.lemonde.fr/economie/article/2026/11/27/radio-france-demande-des-sanctions-alourdies-pour-les-auteurs-de-violences-contre-des-journalistes_6815853_3234.html": 1795779928.2414737,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-dominique-de-villepin-officialise-sa-candidature-entre-geste-gaullien-et-reference-revolutionnaire_6813715_6205049.html": 1795213840.1356838,
-"Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/20/presidentielle-2027-marine-tondelier-estime-que-la-balle-est-dans-le-camp-de-jean-luc-melenchon_6813644_6205049.html": 1795183242.750266,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/23/presidentielle-2027-le-mouvement-generation-s-s-engage-dans-la-campagne-de-jean-luc-melenchon_6814385_6205049.html": 1795437928.7610598,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html": 1795543239.6594121,
 "Le Monde Politique|https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/26/presidentielle-2027-edouard-philippe-presente-ses-propositions-en-matiere-de-sante-entre-nouveaux-vaccins-obligatoires-et-obligation-de-solidarite-pour-les-medecins_6815577_6205049.html": 1795714235.7133036,
@@ -5283,6 +5299,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-marine-le-pen-courtise-les-pme-avec-un-nouveau-projet-de-reforme-fiscale_6815572_823448.html": 1795713327.750744,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/26/propos-antisemites-de-jordan-bardella-le-president-du-rn-reitere-sa-contestation-formelle-apres-des-revelations-du-monde-et-de-mediapart_6815516_823448.html": 1795689042.2197294,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/christian-de-rocquigny-le-procureur-surpris-au-siege-du-rn-pendant-une-perquisition-a-admis-qu-il-avait-connaissance-de-l-affaire-des-fuites_6815857_823448.html": 1795782638.1432922,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/devant-la-commission-d-enquete-sur-le-17-octobre-le-prefet-de-police-decrit-une-situation-quasi-insurrectionnelle-a-paris_6815865_823448.html": 1795788045.424839,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html": 1795782638.1432922,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-jordan-bardella-s-enferre-dans-le-deni-et-les-mensonges_6815806_823448.html": 1795757434.476728,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/entre-emmanuel-macron-et-les-maires-une-decennie-de-defiance_6815818_823448.html": 1795769125.2778373,
