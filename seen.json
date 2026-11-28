@@ -2834,6 +2834,34 @@
 "src": "Reuters",
 "title": "'Housing is a right': key concern for Madrid renter ahead of election",
 "ts": 1795876912.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CNmRkWk5XYzk3cE03T3Z1MjdNbklhMzMxWm5WazhOWTZNS2JmRmlISjkzcTB2Rzk0QVhfZTIwYWV5OXVoMlFwQ3ZGSHlSd1BLREZSMVB5UDZSdER5dmh4cGYxZWhIcDQ?oc=5",
+"src": "Reuters",
+"title": "'Housing is a right': key concern for Madrid renter ahead of election",
+"ts": 1795876912.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUxHRWdGMnJBM0JfVUpzOUpLbXRySGR6TUN0LVpMLWRBOUpLZlhQZ09yNEVtNDJ5bWpoeG9fUTh6dVk5cjJNTjYtUm14eGpPNkRxeGtBZTZNTGo0WE5FZ0xzQ3JuSXVsb19fWkMwck5KQ3ZWeXVTSHhER2FDRzJ6S0gwSDctTzQ3X0UyWGQ1TXpib3c?oc=5",
+"src": "CNN",
+"title": "Argentina loses bid to halt UK-backed oil exploration near contested Falkland Islands",
+"ts": 1795877045.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdzAxWVBaWHJpS3pIVjZCMXh3d2ZCaEY2Sm4xLW9uckhzaExnS01NUmpCUTJoMnhJdmVUd3ByQkhBbk5McUtQTTMtbVh6WTR4TGVPYjRKNnFEMy1DajdpSFdzRnNlbG5GcFlpajhGSjAxUmNxRTdtdTllTk4xZTJlWTBHcnF6SlE?oc=5",
+"src": "CNN",
+"title": "Rising prices hit Iranians as US pressure tightens",
+"ts": 1795877317.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/28/fuites-de-beauvau-vers-le-rn-ambroise-de-rancourt-le-missi-dominici-de-marine-le-pen-aupres-des-grands-patrons-et-de-la-haute-fonction-publique_6816116_823448.html",
+"src": "Le Monde Politique",
+"title": "Fuites de Beauvau vers le RN : Ambroise de Rancourt, le missi dominici de Marine Le Pen auprès des grands patrons et de la haute fonction publique",
+"ts": 1795877542.0
 }
 ],
 "seen": {
@@ -3548,6 +3576,7 @@
 "CNN|CBMihwFBVV95cUxOc0Vlc1VjWnNJVE5UVVAzQ2N3WGVIcTlWUWw3VmlfU0JkSnFPbXhTbG5QelZiQVc3bzJvV01WX1YzOXVUcVQ3UVpLWE1xMWtobU1HNDg5MlI1dWN5ajlJWEdHblFqS1pBVnhQT2UzTEdldDM0SGhRWEFIc0lPV0dZOXlEam9yZ28": 1795769125.2778373,
 "CNN|CBMihwFBVV95cUxOcUYtV2VBSkVnR0M1S0dNZXJ4NTBpVmpQYkZ1UThfVWs3eVc4OHZhNTJpX2ZkNWFWMXZOUndFWEZleERBaHJpaTFfcEx4MDB1bEcxU1VMMmRPQjctdlRmYWVTbkktQ3F3bHJMaG9LbEdCWm96NnB2ZFRWQkJoV3FoclVpTGJnUDA": 1795434326.7611268,
 "CNN|CBMihwFBVV95cUxOdVFnZ2JrRWVDc2cxT1l3YjJSMjVGX3N3QTlvZlgwcDB4dFNnZzN1MmpYamhzRS1ES29TVGNRalVrbW9VcWVVMUN3Rjl6aWNJVlZ1LTRPWTN1aUtSZDkwWWRnY3AwVUl6d3cyVUxwREVvQlBLN0pxNHZCeWFmeGlHYzBJUDRCM2M": 1795446926.9540098,
+"CNN|CBMihwFBVV95cUxOdzAxWVBaWHJpS3pIVjZCMXh3d2ZCaEY2Sm4xLW9uckhzaExnS01NUmpCUTJoMnhJdmVUd3ByQkhBbk5McUtQTTMtbVh6WTR4TGVPYjRKNnFEMy1DajdpSFdzRnNlbG5GcFlpajhGSjAxUmNxRTdtdTllTk4xZTJlWTBHcnF6SlE": 1795878040.22619,
 "CNN|CBMihwFBVV95cUxPQTF0dUktOFBmT1JNdUVWWWtnNVFWQVNKZXFtcWg5Vm9HR2tidnNZTUlseWZSemp4cE1BVS1KX2RKcmRVVi05dUNFeEtEeU1aS2JyLVIxdmdHbk1uM0ZfQTVYeHBUNFVMbGFyTHluMGhyR2ZNdWJkRXU4SExNQXViaWp0SFdySXc": 1795529726.3940816,
 "CNN|CBMihwFBVV95cUxPSlpNNWRWRzVtdGU0UDUtMkppNXN1VmVURkVCRkVzOHBaNDNpTXB4YUpoLXpVdzYtcFJvMUI5WERBYlNfZFI5VU5yd3hkajVObElvbWxxdkNKdEZTSDVRQkdVVGtMcmc3ek9EaXNSQi1USlJ1X09pRzFsVFRSZ1VXaU1TWkFUN0k": 1795769125.2778373,
 "CNN|CBMihwFBVV95cUxPVVlyamsyZFBybEM5Z1VZLW5jWjFSeUxPOGx3TGRRak8wbnVHUXBWcHZZN2piaWxfV0FIX1IweE1XNTVUSU1pMzBVWUJTZ0hXa0R0eXV4QU5jdkRkbmZKdjRMdWZHLTdockVyaUZGOWt3ZWRuOFNMVEg2ZWtVaFVsLU55SFFOOW8": 1795795246.3437064,
@@ -3803,6 +3832,7 @@
 "CNN|CBMikwFBVV95cUxQZGJ0ZzJ3NnlhUzh6R3U1ci1QcENrR25BNXk0aEd0SEVROGRpNjloXzl2SVZyUVNsLTc4dXh2X2NhUnhvWDJ5SlBUMWNiOHRtYXF2Y3M4eUFnVlRCTnNRV1V3dUF2X3ljU2xSTnpUbGd3cHRqaFBkNVpSVEhMNXRWdC1sdFhmTC1ZUS12d0F5YXRoM00": 1795626043.0235748,
 "CNN|CBMikwFBVV95cUxQbThlbWF3bnhjdUI0M19uZFZFNEZITGptQjkybU1RbVhyWXJOajU0U0txeTlycEVlcGZIRmpvNVhiUWxLVVNHamkwcnRndXZFdUhBVmZLNjEzRGt5b2ZEMmZDVTVlb2pkdWw4cWxaa1BwSW1BemZRclkzRk9QUENvRGJjQ0JCYXFsZHI4ckNKaG9yWkU": 1795557639.5746932,
 "CNN|CBMikwFBVV95cUxQcEFNRkFCNmpReHR2NWFmZ0xHeVdMM2s1c29BdThQUzRHOWNrMUVXWGhlNkJLeXpSR3RHX2pickdOSm9oQ0dpQU5pNGpHajNXY0MwVzVoX1g3ZGtSQmxYbjhNbmQwMkRoX3pjNTV2dDlDQ1NFeGh1QWZlVGNoek5LcXU1cllEZG9rdGNUMjNSWEZYVHc": 1795521642.6792088,
+"CNN|CBMikwFBVV95cUxQeUxHRWdGMnJBM0JfVUpzOUpLbXRySGR6TUN0LVpMLWRBOUpLZlhQZ09yNEVtNDJ5bWpoeG9fUTh6dVk5cjJNTjYtUm14eGpPNkRxeGtBZTZNTGo0WE5FZ0xzQ3JuSXVsb19fWkMwck5KQ3ZWeXVTSHhER2FDRzJ6S0gwSDctTzQ3X0UyWGQ1TXpib3c": 1795878040.22619,
 "CNN|CBMilAFBVV95cUxNQ2ZEU0hNcHFzaGZsWHUtODlIcUQzMFdEdWEyRjRZUm1RaE5UckRpQVFwdTJ6MXFuLWs5dVctOHZydWg2eFpqejRnNlBGd2IxY2k4NTl5VEI5b2xnMHhDWVQwU0ROV1ZlbHVLNDVheG1qTjd0cW5VclozYXowa3dHZ0oyOUlXRUtVOEtpNVFnVTEycTM5": 1795799733.3093975,
 "CNN|CBMilAFBVV95cUxNS1RURjNCWjdvTnVLVm1GS3N5ZUk2TFpUc3JSdWxEd29wclprOV9mR1kwcHZIUDdjOWE5czlSRW9aTXBjSHdQeHYwdklScHNOd3dBVlRldXpHQzM3TWliSTVDZnBUcENwTk4zdWNPV2dMLXZVY0NaakVxY29IeWUxaEV0Y0Q5cnYtUTFHWUMyUW9QVUEw": 1795411834.818295,
 "CNN|CBMilAFBVV95cUxOVThqV3BJQkhiYzNqZVFZekQ1NGZDeVhGRndUdHpIM0UxejQxTWl4MlYzQ3ZaUWhWS09KYUppeVo4QUY1bzFVX2Rua1VXaWw4bEhhZE9jX0JoeUFNeHB2V2pSaWdNc2lhZjIwdS1ySTJ0ajY1eldTRUN3cmMtRmtyanRVNFU4T0h4di1qSEpwRXRjS3NW": 1795466727.3169699,
@@ -4729,6 +4759,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/un-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides-a-paris_6815903_823448.html": 1795797929.0462213,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/cinq-euros-par-jour-de-prison-le-senat-vote-en-faveur-d-une-contribution-pour-les-detenus_6816114_823448.html": 1795876233.8600192,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html": 1795854634.5359015,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/fuites-de-beauvau-vers-le-rn-ambroise-de-rancourt-le-missi-dominici-de-marine-le-pen-aupres-des-grands-patrons-et-de-la-haute-fonction-publique_6816116_823448.html": 1795878040.22619,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html": 1795856444.275087,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/partir-ou-rester-en-cas-de-victoire-du-rn-a-la-presidentielle-2027-le-dilemme-des-hauts-fonctionnaires_6816058_823448.html": 1795839006.0034773,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/presidentielle-2027-teddy-riner-un-candidat-hors-systeme-en-quete-de-credibilite_6816104_823448.html": 1795869928.2542174,
@@ -4944,6 +4975,7 @@
 "Reuters|CBMiZ0FVX3lxTE95aS1DSVdGbDNvaEhjVkp3dU1Fdk15QjJpbnBfQ3ktYjVBR3FHZVh1d2JlaEEyOXF3RFNYX2VFWXFwY3dDMFlGSUVLRV9BdDJpQlZaTGhQZnV4cl9YNFpISjZaWk5kcnc": 1795426237.5279233,
 "Reuters|CBMiZ0FVX3lxTE96QWREUGZPbGx2b3dlZ2hWOGE3c2gtQXpETnhFX1Y2RGkxYnRYNHo0RXNid01KOEwtQjZUMHN0eVo5UkxuOTZ0bi1uc2w5XzVuM0xySGprLVJ0Ym5kSGtvOEZGLUpKSDQ": 1795303727.0445561,
 "Reuters|CBMiZ0FVX3lxTE9CLV9YVU9ualY0QlI0Y2FSdW41Q0hIb0pOLUVJT3ZhQVd3ajN3cF9mbE4zNDFtUmw2eEJhSVRYdUN0bVhsVkhwVEV2dzgzXzRQQkw3U3RoYTNpX3A1MkJpSjFjdDJfRzA": 1795476636.9306297,
+"Reuters|CBMiZ0FVX3lxTE9CNmRkWk5XYzk3cE03T3Z1MjdNbklhMzMxWm5WazhOWTZNS2JmRmlISjkzcTB2Rzk0QVhfZTIwYWV5OXVoMlFwQ3ZGSHlSd1BLREZSMVB5UDZSdER5dmh4cGYxZWhIcDQ": 1795878040.22619,
 "Reuters|CBMiZ0FVX3lxTE9CZ1JBendvWmFrZV9wVFB3UmlkUW9OM25UZjRsQkR5aEo4cFMwZkoybTB2TGY4LU11MVlEUzZkSi1PTXM1YmZxSVJ4cFdUYUpZYzJaT0l5UnptSU02Z2cyakVZRl9PZ1E": 1795833034.6305633,
 "Reuters|CBMiZ0FVX3lxTE9DLUlKbENPSjJLOGREUTh6a1B0cW8tMVR0LUVSaDF5RnZHU0hzYzJ0MjNVZ19QS3RGNzRPay1jSktRZTlPZ2ZVOExVMlpmY0hxd3pkMWhnbjVuRE0wVTJfeTl4YzVGYVE": 1795840236.4812148,
 "Reuters|CBMiZ0FVX3lxTE9FOHNudm5pOGNrR3ltQ2RWaVpDanE1SDBFb1l6Rm42dnV2LTNzR21Tc181ZGU3WG1uX2VwN25GalBVUXFXUUpFWkNKdTBqMDdObVJjZVRKUmN3b1JvRVhsaFRteTJGdWc": 1795462234.524041,
