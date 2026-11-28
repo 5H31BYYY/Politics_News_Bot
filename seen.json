@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUliTUI3S09BY2dpd0tnNnR5MGtJNkxrM0Y5a205NGVIOHR0bnNHV0NtaVNBRG5BU2NqcmdEN0xybGtqRi14WC0zaWR4Qk44Ul91VEh4dW01M0VCanBLblJXdU5Na2pVaS1wZTNaTTNBenM2c215MmozMHg0SWtybEx0VV9aNFU1a25BVHllSE53TDRscEcwRWpQblNYWVdzYlFhYTJvM3prQXB0MHkyREJR?oc=5",
-"src": "Reuters",
-"title": "Indonesia bourse sanctions five companies over shareholder data",
-"ts": 1795745940.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUm1LcXZYU3FPbVZuWlpvYjdyYWpTNVBxVi1NaEZSU1M2YnNQTk9IMGVfOGpCazRuNmF6dHBIOXIxR0dOOWRTaHA2aVhFYW5Yd3VHRE5mZEZEcEVodEg3T3pPa2R5QWlwdjdPNDhpakh5Q2QxTVBCTWw3ZzhEZVUzRjJYZm1tZW81aFA1TkpaMEtOcFZTcFRNS2I4WklhN096TWEyZFIwYjNNVDQ?oc=5",
-"src": "Reuters",
-"title": "Philippines' trade deficit widens to a record $6.9 billion in October",
-"ts": 1795746420.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYlc5V19Pb1JIX2x1STg0ajN2OUtSejAxN0xpaXRyUjYyQlFydXJzTUt1ME13NkVsN19VMjNiNEdDdnFQTTBMV09mc0xieEw3eW5uVE5VSkR3YTdpZllTY3NwbkpXRk9mZTREM28yOTFBUWVtcDVZMUtXZnBJMzh3TDFBQ2ctdnh0c2xOa0VVNE5OcjRSZlBpZm8tOHlNQWg0cXN0V0VveFJ2Ulk?oc=5",
 "src": "CNN",
 "title": "Widespread power outages upend Thanksgiving preparations",
@@ -2834,6 +2820,13 @@
 "src": "Reuters",
 "title": "Black Friday online shopping rises to $13.1 billion in the US, Adobe Analytics data shows",
 "ts": 1795874957.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/28/cinq-euros-par-jour-de-prison-le-senat-vote-en-faveur-d-une-contribution-pour-les-detenus_6816114_823448.html",
+"src": "Le Monde Politique",
+"title": "Cinq euros par jour de prison : le Sénat vote en faveur d’une contribution pour les détenus",
+"ts": 1795875543.0
 }
 ],
 "seen": {
@@ -4726,6 +4719,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-raphael-glucksmann-cherche-a-tisser-un-reseau-d-elus-locaux_6815814_823448.html": 1795765525.2492561,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html": 1795820442.3943264,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/un-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides-a-paris_6815903_823448.html": 1795797929.0462213,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/cinq-euros-par-jour-de-prison-le-senat-vote-en-faveur-d-une-contribution-pour-les-detenus_6816114_823448.html": 1795876233.8600192,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html": 1795854634.5359015,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html": 1795856444.275087,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/partir-ou-rester-en-cas-de-victoire-du-rn-a-la-presidentielle-2027-le-dilemme-des-hauts-fonctionnaires_6816058_823448.html": 1795839006.0034773,
