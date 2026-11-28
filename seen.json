@@ -30,13 +30,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3A1SjlQMEQzRkZTZ2NJdk9pLXdjbHljWW8xQXJPdUZnWG1iRk9FWmo3dGFMQnNsUjR4TmhnM3Zka1V0MnBBN01HcUx0V25LLU5hQ3pOQXRLWFFKSjByWmhhQ3lESjJUd1NFX0I5X0ZyVExzSDBFVXAwUUNJZDdHU0l4VmFxcUpnT2EtT3Zn?oc=5",
-"src": "CNN",
-"title": "The week in 32 photos",
-"ts": 1795727580.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlISjVuc0VWRk9XLWpHbFBVNUxKNWk4NzVSX3ZFVDZLbG12em9VX2RVLThzaHI0SXJ5M0dKOG9pR2VnZWhFelVYZXNnbjBvOUVDQW1xaHNYUl9wSmRRNl80a19GcDRwdnRva0NsMlI4Y3hPamhGUnlSbkpqWmRSRkJxVUNsdGNUUzJCcERsN3kzVFJmY1psTTh5ekhyX2x2N2JWNXl5Z3BIZ2hvYi0wNDBIRGJtTzQ?oc=5",
 "src": "Reuters",
 "title": "France's Macron says Le Pen should be less arrogant after she criticises EU budget talks",
@@ -97,13 +90,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
 "ts": 1795737298.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0hDNk9aeEZpYl9TeEw2MVh0dkhXUTRhaXcycmp0VFF4em9qMDlqQzRyUnIxSTNwYTR0UjJkNk1pVTlJUVg5RXgyR0JPUnkydXA5amVkbEZjalB3T1lmM1NXdHBRNDY2Yjd5V2VyX3FVdEpSQjhwWXRzQ2lCX2N4eGJONTBGM3JLSG1N?oc=5",
-"src": "CNN",
-"title": "The best jewelry deals for savings on Mejuri, Catbird and more",
-"ts": 1795727192.0
 },
 {
 "lang": "en",
@@ -2813,6 +2799,13 @@
 "src": "Le Monde Politique",
 "title": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
 "ts": 1795856405.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeHg1eEoxbTJrWU5yUE5TTEo5SVZKSEpZcjBIRWVZckFJbVJDdnNlNHpndlVUTG1zdXFFWlFxVFAzZWh6MzVfQzh5Tm1ZZ1daSk9CQ3FubG1aQU5hUVd5TFQ1emZQQ2xUeERIc2tyeW1GUDEzbHA1eXh3c2FhT0w3dA?oc=5",
+"src": "CNN",
+"title": "Preliminary tests show no lead in water bodies near Iowa detonation, EPA says",
+"ts": 1795848969.0
 }
 ],
 "seen": {
@@ -3402,6 +3395,7 @@
 "CNN|CBMigAFBVV95cUxQZ2t1OHRHVmJVUV9uYWFxYlBjdXU2R3BzeVJiNHJVYndldm9QenZFYzhIal81bmtVT21SZ2xsdWZVUF8xdG02cTd0Ukp6aGFWVEhIaVU3dHlVVzU4eXBlRHBhdW51TVVHOTJYVzlfRTc4Y0RFeFkxTDlXa25QRGNjag": 1795447834.7871604,
 "CNN|CBMigAFBVV95cUxQbzVIbER3TlFGeEZfUEVYZVVkamFyQTJwVXQxVFJhR1VuMEw4WmxseU5iZTdhOXVvUTVSSld4bE4wZVN6akJYbVNBVkt2WFRxSTI5blJZdk9Vbkt4M1NyTkhyQ2ItcUlXZXZXelBmS2I5emZOa2lac0VvM29MNXVfdA": 1795842039.8958817,
 "CNN|CBMigAFBVV95cUxQdGtRZEd4TDVGWXNnd1ZFOHZOaHF4SjE3ZG9TTjd2d2JlS0VEOTZUaU1CZTA0VFVYT1ZCSVJwYkhqTWVkcGp5UzlNNFpLQWV5MS1mUVdRR2lsRHlpZ0xudEFqTVJRbDI4cENNQlF6dDBRekRuQmVfSkpyY05jc2RhMA": 1795746636.281248,
+"CNN|CBMigAFBVV95cUxQeHg1eEoxbTJrWU5yUE5TTEo5SVZKSEpZcjBIRWVZckFJbVJDdnNlNHpndlVUTG1zdXFFWlFxVFAzZWh6MzVfQzh5Tm1ZZ1daSk9CQ3FubG1aQU5hUVd5TFQ1emZQQ2xUeERIc2tyeW1GUDEzbHA1eXh3c2FhT0w3dA": 1795857327.1651466,
 "CNN|CBMigAJBVV95cUxQcjhCSGIwLV9SOTZId2gybUI2czl3TTViV1ppY2NxSHN6a1FoQmE3akZ2S19FNURVWXN0UWxqdzNLX0EzdUdlWmxPdE5XcXd4QkNpU3JkazJkcmZ5YzFGVlFlS2REdW4yWHoyWG9MblhVcmR1V2NwY3lYVzFpVFUxYmpfRndjSjl3N1plaWNUVmxlMG9ob3ZISVl6ZUhMN0RmRUVYNUlxcUZTWG5PRm83MmdvdnB4S25HdzUtdGozdy1RYV9zVXZUVzBkNG9wR0ZmeVVNeHBWX1FyXy15MFFmVUVMTXgwM3ZpQW1mUEpITGJucEtPQUNpN29PLU93WTFV": 1795446042.56737,
 "CNN|CBMiggFBVV95cUxNRjJOeFlvNXJNbThmNG95MURMUDU2eU44bmp0WDh5U0J0NUJMZ1E4RFlqTDlMbTk0OVF5QUJIam5TUHR1RTFqWkhxZlE3dkc5TVB1dDQ5aFlJS25KTFlSMkQyYi1EclZ4WDhUNURnWDJrT0pjZktwc3djZjVCdHRvclhB": 1795813243.5077057,
 "CNN|CBMiggFBVV95cUxNUDlEM0JlajRkUHhvbkZNZ3NpYVpjWEtxMHlpc2trdEVnZkRHaXZ0YjhGbG5nWUJCUXZUZ2VTbEgyUF95YllUSXVxOXdIdjlvZXlMdjNIYXpFUWlFNVo2VEtydXFWaTZGMHljZnQyemFpX3IxRHVPM0c1b0duOEhXR2RB": 1795761037.092207,
