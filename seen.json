@@ -8,13 +8,6 @@
 ],
 "recent": [
 {
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-eric-zemmour-annonce-sa-derniere-campagne_6815659_823448.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
-"ts": 1795737298.0
-},
-{
 "lang": "en",
 "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV005aVhwcTFKTk5oc1pzc3lKMnVrWXUxekU2N1htY3VBemRiOEM2UGhzd2J1dU9mSE1TUU44U0lCLUlMSk41ZW1hZFFJNWxaU3RCZUJMd2s1WVVPS3AtR2FkUFZJWFhqX0lWeUpHMTZsQkdneUhTVWdoSGJ1RWVTQlRlbHM5elYyeDA1RlA5amlRV0E?oc=5",
 "src": "Reuters",
@@ -2792,6 +2785,13 @@
 "src": "CNN",
 "title": "How I left my mother’s paralyzing fears on a mountain",
 "ts": 1795863615.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84Q09YU09wUmI3a0FwdnNqSUVhRjJxdzkzcjhjVFBMeFJLQTZDTHRiTTJOVVU3ckNhYkNMc1ZFeW1nYnY2aTk5VFlUOFhxWGYza1IzdU81dkNMdjBwc3ZibGNFNC15bEMySHhWM2VhLTNFdmY5czRfc1haS1Y?oc=5",
+"src": "CNN",
+"title": "The number of US airlines continues to shrink. That’s bad news for passengers",
+"ts": 1795860015.0
 }
 ],
 "seen": {
@@ -3326,6 +3326,7 @@
 "CNN|CBMifEFVX3lxTE5GMmc2WnZwX3RoNkJWVGh5RDFUQkhqb2VNaVlPakdHSk5WZTR2a0ZtMnNmcEs5cGJTX2NQYXFiZ1VHazdQbHUzcWpuVUc4N3pLRkJxWXozSG56bjhEQXVTcmktazR5UGhYM2tXMktXVl90bVFwVzZ1RFlHWlo": 1795285034.035354,
 "CNN|CBMifEFVX3lxTE5HSllCdUhrZy02eGNUaUFJb1pSWmhLNG5wdHAzSUhyOEdleno5OTNGNVNoUXhBLUFlRXAzUHVycXBwajViMEt2Qk5XbHdFM3BQT3ZuRWdNOWZXaHhGMTd1UzZBMEpvQWZwcHMydUNKNXdrX21rTE9vNkt0Tzg": 1795385724.7054732,
 "CNN|CBMifEFVX3lxTE5SYmJJSG5NNnFDeUt6TWtvdFBBeW12UFVVVmQxVzFOdTJfam1RZ3ZJeGRDTGE4TGVQU2pJXzViQmpiMG50ZURoR1p6SEZEZUVVbEJCOWFfRkwwM2c0al9hNnlQNFVDMXlLTVVsNGhSa2ppVGlEV1Via0x2Z1U": 1795436127.3722153,
+"CNN|CBMifEFVX3lxTE84Q09YU09wUmI3a0FwdnNqSUVhRjJxdzkzcjhjVFBMeFJLQTZDTHRiTTJOVVU3ckNhYkNMc1ZFeW1nYnY2aTk5VFlUOFhxWGYza1IzdU81dkNMdjBwc3ZibGNFNC15bEMySHhWM2VhLTNFdmY5czRfc1haS1Y": 1795867244.876569,
 "CNN|CBMifEFVX3lxTE85b3kxbDdvRmt2WWNNVGM5SlVUZXJxc1RmRGQwTVAzQllvRWltc1BJd1NTZ2ZINWgwX0QtT0FWVG5FdGhFMDJwTUowYzU0anVsaW9sTXNJUU9fN21uY2dVMFFCQXhrWExWWndpdXo1SjhKdmt0UHRrOEdKT1c": 1795751127.1199677,
 "CNN|CBMifEFVX3lxTE96YmxIUWRVU0FoVHIwRFFFUDBMdTdqZk1jWnkwMHJwbHBFNk1NbUd4WHV0UVlHUmkwaDhjUVFOWDJseGFINFRDTmN5d3JubnIwSDFJdEZMaUoybWppWGdyY1czSi00RWZRclNWV1lMa0hXYVRzX3NDQmpFckk": 1795756528.2595623,
 "CNN|CBMifEFVX3lxTE9FeVlTMDlBeEdwLU8xWlN3Nm44WC00eDhDOS00djVkOUppMUFjLW8yN3F2a1dfdEtTb1lQOEMyX0tpdVhQdVBKNF9tOTVaeXZIZ3dUbUJZM3BYWjNlMmdoXzRlcTU4T0JraWg5X0hFNmxkb2dfZV9HWnJzbDc": 1795635038.0847259,
