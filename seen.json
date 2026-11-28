@@ -37,13 +37,6 @@
 },
 {
 "lang": "fr",
-"link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261126-david-lisnard-et-sa-position-face-au-rn-propos-de-teddy-riner-sur-l-ukraine",
-"src": "France 24",
-"title": "David Lisnard et sa position face au RN, propos de Teddy Riner sur l'Ukraine",
-"ts": 1795718191.0
-},
-{
-"lang": "fr",
 "link": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne",
 "src": "France 24",
 "title": "Navires russes ciblés en Libye : que sait-on des drones navals utilisés par l'armée ukrainienne ?",
@@ -2981,6 +2974,13 @@
 "src": "Reuters",
 "title": "Sanchez's gamble: Can Spain's left hold on to power?",
 "ts": 1795844760.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/28/regle-d-or-budgetaire-ce-qui-discipline-la-depense-ce-ne-sont-pas-les-regles-mais-la-croissance-economique_6816079_3232.html",
+"src": "Le Monde Politique",
+"title": "Règle d’or budgétaire : « Ce qui discipline la dépense, ce ne sont pas les règles, mais la croissance économique »",
+"ts": 1795847411.0
 }
 ],
 "seen": {
@@ -3811,6 +3811,7 @@
 "CNN|CBMijAFBVV95cUxQclN1bFN6SGcwYUZYc2hsUlJsRjZaT19SVE9QQlBSVXl2R1FIeVYwajJFMllBMTE1MmE1SWw5N3VnNm1iRXBoVGgzVmUwUEdkQ2FfM21STjFqc1ppeXRzMGRXN2Rob083d2cwWk5pczRtdDl1Wmd4OUVGYm0xbHphMlZxUmJ0LThoNnZXXw": 1795419927.342833,
 "CNN|CBMijAFBVV95cUxQd190VnhCTFA1Yl9VVFI1MUpzNG5GcHFLUHQtcjNwNEpXNGdfbHVRc2lqZlprNUU5R1E2YTdELTdOV0hjTlBoVEJyX1k0dHJLZWROVjhLUVgxSzNCa2NMNTVwX0Jac0Fhd2oyMmlvTGZyS1AxaDE3ZFpYUDRKLV92N19pSG9hWXR4T0swUw": 1795788935.9111023,
 "CNN|CBMijAFBVV95cUxQdjRvclgwWjh0a1BEVTBRdkdJdnh4OGdTLXk4QzdKa3ZHQkt6dVdETUV5LXI3U1VUOG5KQVprZGJYM0NxRE81VldVMEVMNDJtTldJVk5wTENEVXNqOXZFdEJuR2F2MUlNaVBlVDRBZ01saGlfb1lFeERNUDA4Uno4MkZDempSc1BFRnBNeg": 1795767331.6986806,
+"CNN|CBMijAJBVV95cUxQdENDUWdkOUtkWEhYMjctX3dPM2p2OXRrejhIQ2pIZ2lheEZVVmJodWJfT3FoVlp1Vmh5SHo4RzdYMWk1YUVjNFNHRlA3SWxuUFltX2JjVzBmWHhabEk3Sm1uYVFhQV82dkt0N0U2LTFBYU0zSFZTcEZaQ2Y2eVdIcWU4dmdFUnR4NjdwSmZlWU52eDBWQUU0cFNxX0lmS1Ata21lMk50NU5YaEdYRkF0TER6NVlsZzRfTURlbzE5TVUzci1QVUlPMW5aSGxYLTZacmRwcWw4UDYtcjFxV2t3ektpTXV3UFQ2eGtna0hyLVhlanpMY2NucVdhMVljVXQ2UUtUZGZqclpqNTVT": 1795848332.2201016,
 "CNN|CBMijgFBVV95cUxNMHJGeTlvLS11Tjk5OFlJWnhCQ19WdU1qTXBjdzFjTWZYaUF0eXVOVER1SEJqOGhqd2xWOE1VdU1kall1QWxoTkJYSjFfaXBmRXNTTVNXOHVQQnBiOENNRXlucS1iRzlRb0VwYnN1b1RsVXdTWlBOa2NhaE9iQWNZVUM1YlUwWlNDZGtEamF3": 1795635927.5589433,
 "CNN|CBMijgFBVV95cUxNRERFWHVPc1NnSUltVUZoZERjNzlwdEMxOC1ZVmlpLUN4dGFRUW9jcVg2SzFfbzZRNUV2NWUyRU5YME9YbnhpLVRkT05BTHE5UXNORnVJUFJLQ2IzM3RCT2J4dmZlenRqRGo1QUc3S3hCQWdHUE9BdFgxenNiYUNJNXh6cS0xWWxRR1c4dFV3": 1795780843.9358203,
 "CNN|CBMijgFBVV95cUxNSmdkNGZuS21nQTd3ZG9FVmFhTlc2UDB3ZzQ3aGpkTHFMalRaRTJTajBJQnZDLVR3UVNBbFBUR0thb2VPalVMMUNGYWEwV3dpTUdMTl82Qy1wQ3AyTWxoYzlLcjVhd01BZHFMemEwVGl4MDE4Y0JpVTdHOGpPVjcxbmw1R3pKMC1jdF9ZTFFn": 1795746636.281248,
@@ -4763,6 +4764,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html": 1795784447.8606412,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/il-fait-sombre-au-pays-des-lumieres-on-est-tres-serieux-quand-on-a-17-ans-ce-que-les-slogans-des-lyceens-disent-de-notre-epoque-et-d-une-generation_6816066_3232.html": 1795842928.2142801,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/pourquoi-la-mobilisation-lyceenne-est-une-reponse-a-la-rhetorique-du-declin-de-l-occident_6816065_3232.html": 1795842928.2142801,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/regle-d-or-budgetaire-ce-qui-discipline-la-depense-ce-ne-sont-pas-les-regles-mais-la-croissance-economique_6816079_3232.html": 1795848332.2201016,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html": 1795303727.0445561,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html": 1795371333.4419487,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/24/slovaquie-le-gouvernement-supprime-le-vote-par-correspondance-l-opposition-affirme-que-la-coalition-a-peur-de-perdre-les-prochaines-elections_6814773_3210.html": 1795528844.2123516,
@@ -5039,6 +5041,7 @@
 "Reuters|CBMiZ0FVX3lxTE51blBSY0VsOHlZOWlienNBYUpCRzNPMU9SaGxpZzlqX0ozT0pWSnNmeTY5RW95RDlrY3NZOFFtS05iN21QN2FPbzlNaE5YWmlLdnBzN2ZVckFzaEJpNWFmUEdLcG1oR2M": 1795516238.4297867,
 "Reuters|CBMiZ0FVX3lxTE53dkZBLWVwOENoYTRSR2xtbnRlSkdMYTdJUHZOWERMU0E0MXV1X3RhZVZsbVBTTFFlQlV6UjBiY3R1TU5JY1BVQnR6emxpbndaSXhMMV9pWjU1V0dUSlJicUxTM19OYlE": 1795525244.6070478,
 "Reuters|CBMiZ0FVX3lxTE55Rkhva3FQMTVjNkJ1dFRKVTRoQk8tWnhHMjUySkNscWQ0a25uVXUwUjBFbUxSRVU4TUNRaHZ6VEZiRUx4WnV5ZVBrdldtdlpkaXZZOEYzQVpweHgzVzhvby0xc0ZTQ0E": 1795479338.492873,
+"Reuters|CBMiZ0FVX3lxTE5BQVhIM2drbG4wWTYzWEswbmpldmRsUGlEa0Izak9kUWg5am5ObWRLaURkMFJNc2ExSThIUGMzYkw4SVBHcUZvRlN6SUJJTHlfUVhCWTE2ZmpJVHF5eUUtaGpweVM4TW8": 1795848332.2201016,
 "Reuters|CBMiZ0FVX3lxTE5CcHdUNi1ybkRJUFNWNkpJc3dKa3AxM243aGs4OWVGRXR5QllfWXo3ckdSTEZ1UjMzdTJMUG5Ld3FDZWFHSTk1UUxlZHFwVWRmNWZzQUNYMFVraUVMa0tnTEsxclJ3VmM": 1795303727.0445561,
 "Reuters|CBMiZ0FVX3lxTE5EN2FfTDYyU3ljdHpQM014WUhTbWhqWEZRTFNVM24zSW9xMVhkRDV2dUR0SkVrN25tclByOWRNV0gwTzRhNEwtNG95dUxxb2FwM0xuSVptUmRHRXhWU0wzcnFhMS1CNG8": 1795818637.5299618,
 "Reuters|CBMiZ0FVX3lxTE5FeWIyZEJqRWtSV1JDQ3paMjc4VC1VSGpCTFBTMF9YdUkzbmtCUFdDRFVJNV83eEhFYU5lN2M2aTdGLW9oSUpuZHFISGlYQUhiNDZ2VlBodnFGZl9POGFmd0R4Qm0tTjA": 1795446926.9540098,
@@ -5403,6 +5406,7 @@
 "Reuters|CBMioAFBVV95cUxNajRPZ3A2N2ZWTGl1dVlMQTk4OGpNTHh6dG1YbjRpMktzbUhBYUdFaEpJbnhOSnVSZlJUYUpQNDcyRHJQY0NJQW0tSkdtLWtwTWR6SU15TmNyWlp5Y3FNUENDYTRpa3VYNFhvSG03ZEtYU2lQZkRTazhpdXRrS3VZNzBTZnJoWlJKZHJVQkVKc3hnRDZHbmtIY0lwRnlkc0It": 1795510856.2094223,
 "Reuters|CBMioAFBVV95cUxNbUU2UTdMSzhabVJEYUYzN1Y1SGk3MWdLeVo4cV9iWDVCd3RZWDVDR2lFZ0dtUTRlUUxxbExIRlJDeGx3dEVVLVBuRU1qaDlrXzd6aHpwUHVWTEhMemE2ZzdaSjROTy1HQUF2dkdDcFhNYWtnMU51a2dsSURKSmlfdjlkTnMzeDdySmZLbWotTnR2clUxR0hrQ255ekNnM3dR": 1795737642.5525625,
 "Reuters|CBMioAFBVV95cUxNdnBHeTlqOTJwS0h1MHlITFZmdkc2aFo0YnVDVXB6OWV0VU91X09qSXdlZ0NOX3p3azBUWmpfZUh1MlFzS2ZPNF93cVFDellxSERHckxnT0stRGppSl92cDFDV1k0OWx3TFA5NjZuZWd2a2tkdjl6c2Vlc2tfMkNvc0FPNWZuTlprUWc5QUFGXzI3TTlaUmZONG1iTVNGOU1m": 1795679126.7393003,
+"Reuters|CBMioAFBVV95cUxOVmZoY25PM1J4RUpwVmJhSV9OT2VxbTBiODNrTkpvVUlTTm9mcVJGYWlfVFFNQjBJdFVGY0NVdTRHUVYxWUVjR3ppdTVZbEdkQXJOSm9kcGZhaTdUcjNWcFMxMjZLVG5ETUtEd2xWUlVlTy1nQmdyZ3RtSHk3QUJSdjhYbnZpbnRqdWh5RVFVMDhoV2VRdVJGLVlqYUg1Y216": 1795848332.2201016,
 "Reuters|CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp": 1795761037.092207,
 "Reuters|CBMioAFBVV95cUxQSm1oeUhYUWItMFM0aFNieVpQSFV6Q29IX0tvWFJyOVk0c1FPNTdvLUZueEtBRGozWThaMHdqbWxlVjNQNHNzMk1NcFZqSDZjcDFueGlybVA3RkJTQWxLVERHalU3Nzl4ZnF0cm8tQk9FeDV6N3pfd3hjeWliZkNJZmNMZGNaVTF3MFNUdjQxeXFZOFQ3TGdRX1k3WTlBTkVa": 1795743925.9701626,
 "Reuters|CBMioAFBVV95cUxQV1NyUFRvTnBHY2JzREkzcy1wLUJkMV9odmFEQUd2Mm9ONUpOWERzeHdfY01iM09DWkdmc09wZWE2UjZGLWJxNWxZZWRxakZiYnQwT2F4QjJXWF9CcnI4am5SZjkxbVhPU3ZKZEU2X3EyZWdabWl6SEpPc2toTVVOX29ZYzVOc1BMYVJXcDAxSkxSYXN3cHp2aG5oSDc5Q01V": 1795707036.9521158,
