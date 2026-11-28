@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/videos/cqglrn0kjjl4o?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Watch: Sadiq Khan proud of 'various identities' in Lords maiden speech",
-"ts": 1795711754.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-je-ne-veux-pas-que-le-gouvernement-se-mele-de-la-campagne-presidentielle-affirme-sebastien-lecornu_6815062_823448.html",
-"src": "Le Monde Politique",
-"title": "EN DIRECT, congrès des maires de France : « Je ne veux pas que le gouvernement se mêle de la campagne présidentielle », affirme Sébastien Lecornu",
-"ts": 1795712133.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-marine-le-pen-courtise-les-pme-avec-un-nouveau-projet-de-reforme-fiscale_6815572_823448.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale",
-"ts": 1795712417.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/articles/ck792l8ndqyqo?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "Burnham says UK net migration now under 'sufficient' control",
@@ -41,13 +20,6 @@
 "src": "Reuters",
 "title": "Sweden's Centre leader backs right-wing prime minister, in major shift",
 "ts": 1795713163.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc05pek50blVNSFU3cWlsM2k1aGt2OU5sVklCNGlIZUt0NE1kUTNNU2lrZHZ2eFhfYnhUMlhscUQ4RUp6dmlBbHE1bHkyRmQ5LVgwUEZpa1l4LTlQODR5bUFYZFRGTlYyTXhlMkNDQ3dNX0c5Yk9FWVAxYWxQZzFubHltTWRwOGs?oc=5",
-"src": "CNN",
-"title": "Mattresses are on major sale for Black Friday right now. Here are the 26 best deals to shop",
-"ts": 1795712400.0
 },
 {
 "lang": "fr",
@@ -314,13 +286,6 @@
 "src": "Reuters",
 "title": "Mexico urges Asian trade partners to crack down on tariff dodging",
 "ts": 1795712983.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGRNM3AtU0pKcjVPb2dnemZQaE4xblp6UGpUNmprQzZkX0RVaGlvTzFOcnJWXzlUQTVlSllxZUFWQUpvRWd2d3pxWTUzWHgzNGVmbjRHZ1BGYTFsQUUyNlFWT19nUVhFSm5tWUROa2phdXNpTl9QZ0lQZl85aDR5NDdxMWl1cldGVTZFdDl3?oc=5",
-"src": "CNN",
-"title": "I test headphones for a living. These are the 12 best Black Friday AirPods deals",
-"ts": 1795712340.0
 },
 {
 "lang": "en",
@@ -3107,6 +3072,13 @@
 "src": "Le Monde Politique",
 "title": "A Berlin, Jean-Luc Mélenchon se défend de germanophobie : « Souvent nous sommes jaloux, mais nous ne le disons pas »",
 "ts": 1795840211.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbzVIbER3TlFGeEZfUEVYZVVkamFyQTJwVXQxVFJhR1VuMEw4WmxseU5iZTdhOXVvUTVSSld4bE4wZVN6akJYbVNBVkt2WFRxSTI5blJZdk9Vbkt4M1NyTkhyQ2ItcUlXZXZXelBmS2I5emZOa2lac0VvM29MNXVfdA?oc=5",
+"src": "CNN",
+"title": "Meet Rocker, the history-making winner of the National Dog Show",
+"ts": 1795825935.0
 }
 ],
 "seen": {
@@ -3702,6 +3674,7 @@
 "CNN|CBMigAFBVV95cUxQLWdQQ2VlOGQ0azZKTk9pLXB4YnBIMmdvWjVZS1owaE9fYVcyNFJuckdKbUh6eXhKUW54SU4tbU4yeDBUbllqV3pSYkszS0RucEtadDhoai1sX1FBQnk2ZzJBOFBUZFVxbkQyOFIwc3VvN2hfM2FvRFplOTdBc2dZZg": 1795792527.6804626,
 "CNN|CBMigAFBVV95cUxQWjlSVUIxLWFwS0lSTzgyRUo3SHF2ZGwxdWZYSE1ZdFBTYVZQLVJoQldLcVJkcC1TMnlVZldCdExNeVVmdkJOYVp2ZWxUcHNBalRpeDRkVU9OVU85ZGlXUmd1QzhnNFhlTWZZMmp2ZnE2RDZxeHFlUmZTbnlxNXNreQ": 1795704327.8080602,
 "CNN|CBMigAFBVV95cUxQZ2t1OHRHVmJVUV9uYWFxYlBjdXU2R3BzeVJiNHJVYndldm9QenZFYzhIal81bmtVT21SZ2xsdWZVUF8xdG02cTd0Ukp6aGFWVEhIaVU3dHlVVzU4eXBlRHBhdW51TVVHOTJYVzlfRTc4Y0RFeFkxTDlXa25QRGNjag": 1795447834.7871604,
+"CNN|CBMigAFBVV95cUxQbzVIbER3TlFGeEZfUEVYZVVkamFyQTJwVXQxVFJhR1VuMEw4WmxseU5iZTdhOXVvUTVSSld4bE4wZVN6akJYbVNBVkt2WFRxSTI5blJZdk9Vbkt4M1NyTkhyQ2ItcUlXZXZXelBmS2I5emZOa2lac0VvM29MNXVfdA": 1795842039.8958817,
 "CNN|CBMigAFBVV95cUxQdGtRZEd4TDVGWXNnd1ZFOHZOaHF4SjE3ZG9TTjd2d2JlS0VEOTZUaU1CZTA0VFVYT1ZCSVJwYkhqTWVkcGp5UzlNNFpLQWV5MS1mUVdRR2lsRHlpZ0xudEFqTVJRbDI4cENNQlF6dDBRekRuQmVfSkpyY05jc2RhMA": 1795746636.281248,
 "CNN|CBMigAJBVV95cUxQcjhCSGIwLV9SOTZId2gybUI2czl3TTViV1ppY2NxSHN6a1FoQmE3akZ2S19FNURVWXN0UWxqdzNLX0EzdUdlWmxPdE5XcXd4QkNpU3JkazJkcmZ5YzFGVlFlS2REdW4yWHoyWG9MblhVcmR1V2NwY3lYVzFpVFUxYmpfRndjSjl3N1plaWNUVmxlMG9ob3ZISVl6ZUhMN0RmRUVYNUlxcUZTWG5PRm83MmdvdnB4S25HdzUtdGozdy1RYV9zVXZUVzBkNG9wR0ZmeVVNeHBWX1FyXy15MFFmVUVMTXgwM3ZpQW1mUEpITGJucEtPQUNpN29PLU93WTFV": 1795446042.56737,
 "CNN|CBMiggFBVV95cUxNRjJOeFlvNXJNbThmNG95MURMUDU2eU44bmp0WDh5U0J0NUJMZ1E4RFlqTDlMbTk0OVF5QUJIam5TUHR1RTFqWkhxZlE3dkc5TVB1dDQ5aFlJS25KTFlSMkQyYi1EclZ4WDhUNURnWDJrT0pjZktwc3djZjVCdHRvclhB": 1795813243.5077057,
@@ -4096,6 +4069,7 @@
 "CNN|CBMilgFBVV95cUxNb0J6RVdJTk90U0tUMDBDaVR3enhKaUE5RkduWXRVM05SWHNPRERpWnVZUGpIZVVqcUZVdDBzVzhiZVo5dUw5MzBrdHo2VEFJTi1fY0tvQlM0LXJJeDgweEdyNklFVWNMZVdiMFdQZGl5Q0hCbldHOHFyZ3hwTHR6YjJXZGlZUi1ZeXdnSnNvc0N6Q1JLZXc": 1795628729.3375735,
 "CNN|CBMilgFBVV95cUxORlZIZW1YYk41djBuQWd1M2ZBbVhpXzJzS0NvRWFXNkVnM3RQb0Njd1FaakQzNXVJTW01UEN0NUp2NHBHSUpVSFpmZVd6bkZ1bHR6cXU4RjZpdERfdWJhOGRKbDNMaVlqdjIzR01uQzVieXRHb0xDT2N6MzVyMmFLQU5IZGdMUVFyTXNpMWFMNjYyNTVJa0E": 1795531536.6873562,
 "CNN|CBMilgFBVV95cUxOTTBDR2U4dnhLcktRa2RQSER1NUtlOUxTNkdfX2s2N0ZGVFFyMzU3bGpENDQtMkx6SDVmYTJRbncxS1Iyd1NMWDJ6cktGdmUtelhrS25hb21lQV9BWUo1U09RVlEzbjVoVFBmOUJkcUR4X1h6UTNweDMyRXZqMXJvVDk0c3UtejJibkZaWF9STndtbkhxMUE": 1795719653.8341727,
+"CNN|CBMilgFBVV95cUxPMzdEMGJ4WWJ3WTVBTVY1aXU0di1CZWZZd01sWS1fdHZPNUZTM3BwOW9wdmZNUVo0STU5R2N6OFU5S2tnUE9UX3ZaNG9JdG9OMk5FazBXdUUxWXFNXzQ0VEZmb2YtVkVuOTJRdW1BSDZYZEw4bm9wazJySFV6NHcteXBUZ0xXLTc1U2h2TWdRU3NLTEVMdFE": 1795842039.8958817,
 "CNN|CBMilgFBVV95cUxPQW5LajF2Xzl5Z1FSMW5vZGd3ZWJKb0VnZzNWSi1pMXltcVVVZXVTZDB2bnc4dG9iVWNZU0lvNTZfUXI0RDViZUdKMVlBc3QwYUh0ZXRWZXkyRDl3YzRDSkZUUnNNbHo4bnBqNG55Rko5SU9GbVk0RUlkVHN2TG1TRWt3LURJUEc1OXBnanlRSDNNM2M4TlE": 1795464041.1790502,
 "CNN|CBMilgFBVV95cUxPWkxmeUFNaURxampNcHl2ejhpQkhzaTc1VnV5QUQ4SExhMVVTWjloQ2VxQmRhNHhvcnQ3VWdDemlzX0hCZHRab1I3QVRjSWtvdVhtX0ItM095WU9aejV1dWdlOGVDdUMwZzNQS0xYUU1GV1p0b0UycGdpR0R5c1NxdW1hZWE1TEI1VzNPMlJaM1FFUmk1MGc": 1795839326.2914703,
 "CNN|CBMilgFBVV95cUxQLUptY2NKVUhET1MxbXgzY2VCRmJQdHloc3dqMS1BRG1uZXF5bXhQMGZqdzBlTnRFRk40T2ljUFpzNENsZVBkNFJsU0FkVFNjbUlMTWs1cDIwVWNWbjFyeUt3MkZ0OXNhR0ZyNkIyNHpUQUZYWEtHcEY3QmNVYXpETUx0SVk4TEdwbnZWbmlRbkplemVmLUE": 1795739438.206184,
