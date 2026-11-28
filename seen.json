@@ -9,20 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONzRpOThNd3NrZF9LMGRZZ3ktelNnQXJBSERjWkZHSW1XaGZhSFRmOWdGQzFFWXJSZkNjTTA5NVFuVEk5R3pMbm4yd3FwbFpxZGFjT2Q0OGh1b1Z1cVprNUxGeTMzMWlqTmhTbkxkSk9kS01EaFVBMVE0TUJWdThfa0RjWjM?oc=5",
-"src": "CNN",
-"title": "Many vacuums are up to 60% off ahead of Black Friday. I found the best deals",
-"ts": 1795723260.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-presidentielle-2027-emmanuel-macron-a-propos-de-marine-le-pen-c-est-une-drole-d-arrogance-de-penser-qu-elle-serait-deja-en-charge-du-destin-de-la-france_6815062_823448.html",
-"src": "Le Monde Politique",
-"title": "EN DIRECT, présidentielle 2027 | Emmanuel Macron à propos de Marine Le Pen : « C’est une drôle d’arrogance de penser qu’elle serait déjà en charge du destin de la France »",
-"ts": 1795723706.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkkteXh4WXIwLU15Tkd5SDMxa1M1bjg2SlJFVjZfdDI3ZG9JT05HbW14ZzVqeDQ5NXIycUtnZlNWSWo5YjFnTDhpRS15YWctMVVHeGU2LVcybndBZzF2MXdnSEwyWTBjY0lRZW00aENseG91dXpQQ0VhaThiRDY0SlBRYlRHTlA4UGJEVUZCLXQxaVBlYm5PZERB?oc=5",
 "src": "CNN",
 "title": "Director of Band that was set to perform in Macy's Parade says slew of donations will allow them to perform Saturday",
@@ -2890,6 +2876,13 @@
 "src": "Reuters",
 "title": "Iran's flogging of singer was warning from anxious hardliners, insiders say",
 "ts": 1795850040.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/28/apres-avoir-appris-a-mieux-gerer-nos-dechets-veillons-a-rallonger-la-duree-de-vie-de-nos-biens_6816086_3232.html",
+"src": "Le Monde Politique",
+"title": "« Après avoir appris à mieux gérer nos déchets, veillons à rallonger la durée de vie de nos biens »",
+"ts": 1795852811.0
 }
 ],
 "seen": {
@@ -2911,6 +2904,7 @@
 "BBC|https://www.bbc.co.uk/news/articles/c699zde85xn7o#2": 1795448729.0074062,
 "BBC|https://www.bbc.co.uk/news/articles/c69w9gw9wx9no#0": 1795528844.2123516,
 "BBC|https://www.bbc.co.uk/news/articles/c69w9gw9wx9no#2": 1795610731.1903605,
+"BBC|https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo#2": 1795853726.9707193,
 "BBC|https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o#1": 1795335972.510022,
 "BBC|https://www.bbc.co.uk/news/articles/c6ly052pdx4no#2": 1795485642.5583386,
 "BBC|https://www.bbc.co.uk/news/articles/c6pw47jyyz5no#0": 1795482038.831199,
@@ -3208,6 +3202,7 @@
 "CNN|CBMiakFVX3lxTFBWTDRYY0wwSmlQazRXUzN1TlFVQnY1NThJSzloU25abVhBMllIWEVxdDlxcWVVT2htMFpTOTE5M3FVQnNkYzVUNEc4ZkhuR2VYSkhKWFN5eUItNjctU2g2VWRxYWlwMWNQVlE": 1795472129.1055348,
 "CNN|CBMiakFVX3lxTFBXU0lfVXdfZDhBTmo2Zl85Rm5QT3hocnNBTHAtREZiRlBTRnRMUXVUUDA2Ny14ZXFQcmQtcXpNaUphN2ZWQmhQNENlRFlYTmRsWnUySFJDUTFFbVFhU3JHRHkwVWUtbXZzNHc": 1795431643.082332,
 "CNN|CBMiakFVX3lxTFBvRDUzQnpGNklGYkVEZWNDMmFzQ1VnTTQtUVJVSHhsMWxiUjMybTkwZHQxQmNad094X252MEZtVXpobEE0b243M3Z5LThtU0hsRWQ1eWVKYVlkaG9VM3dEdld0aTBTWjltWGc": 1795774526.4370687,
+"CNN|CBMib0FVX3lxTE03RkpBaGZSMEV6RkpyaXNSbjRpY2dpMDVkX1dHU2JZblJSLVFqM181MjFmdGppaFhxVEhFVXBxSHBSTzd0S2FSWFVCaFRMdnhaYzNIeS05WkIxUXFhSHR3UHpRMVgyUmxpUWxidHMxSQ": 1795853726.9707193,
 "CNN|CBMib0FVX3lxTE10OUo0eVlhbURScjRUZzFPZ28xb0JCcFJRaE5WaUwwZnd3enhMa0FqRFdoLVZuNnEtaURFcTlxa3pTWk9rOTE5bzVBdlhkRDlnTWhLSll2Q1JkVWNzQ1pIV2hjUXJHeFJiS0E5aVVSOA": 1795695327.386578,
 "CNN|CBMib0FVX3lxTE1rT1FoZ2Z6SGxmbW1Fel94Uk1pdERubmNqTmUwbThrVWxQc2M2c1N6NEtZeUt4aVhKRjY4UXBhX3ZaSGlWOWFPZldzRnZUX09MeFl6ZXVGbmFLdHcyb3JfdjhwVDRublJsbnpnbnJrVQ": 1795466727.3169699,
 "CNN|CBMib0FVX3lxTE1tRk1RSER5MDI1Q3dURHVIZ0hWTG02SzYxeEdRa3ZTRUEwenhSbkhxX1kwSmRjcDlkazZVNVktTE5WcVRBanR1QVZzb1BUMzU0dkhWVEZyeWFYRkxidDhPWDhuXzdBa29BQlpPemcxbw": 1795735840.2965732,
@@ -4177,7 +4172,6 @@
 "CNN|CBMivAFBVV95cUxPQTktRXFPbnBuekpKN00wZS15Sk40RVZPcnpydlBVWTdmZnliVDZiUGdvNEl2SjJ5cjJHYTlmODFMRGJlZ2tOOVZ0dGgzMXh6UVFwRWxqdjZyUk9MVzNhSGpTWVozbDNFQzBCZUE5NTR3WXM2TUFxc3h0M3lIN05VellVMms0X1E1NEFwYlRmbHYyUk5EdzBZN1g1ei1ZQTY2Wi1CaDNKT0Q5b0g5ckZhZGIzVEdCOGJkRmFLWg": 1795338926.864661,
 "CNN|CBMivAFBVV95cUxPQlhaRWFwa0wwTjdpai1lOVMxR2ZUaHhVNjU1NkYyNzV6dUJQaGlDVl92WEE1N3RUMV9oeDRWM2xxeXZMUzNycWNIN0x3MVhNLXMzSmczVzdiZFhkSW1fV3VOVzZVVjNIS3F5QjRmMG56VkNfS2R3TUxMOXNxRFVfQWM4NjdxV1A4YlJxcUUtZWpYMFpHTVFpUGtucF82SFJhZ0x0WFZXckpucVdkTG1aYnZWdnRROVZUNmsySA": 1795373126.5827453,
 "CNN|CBMivAFBVV95cUxPTHR0aDZZX1djSUdCWXdjWVJEZnRRcjhwSWtjQ2xjelZocGIxOXdmb0dKUWhmWUtpSzk0Yy1IaDhKT1Ztb1ZQUXcxcWJuMTdRSTBnQlk5SUU3cGgxUGw1WGp2OGlUUXJvYVAteklDUWo3akRKM0FEcFo2YklLbW8wQkhTMV94aXdndjAyME91VlI3VTE3RFhxelBGVjR1LWZQU1hmX3pJZEFYMm9rTFhqaHIyWVp2U3NUSXNYRA": 1795504528.8404267,
-"CNN|CBMivAFBVV95cUxQcGNkYWJwWUlyX2QwUjdNYTQ3RU81a0E2SU93ekRfUWpIbnBBOXVMNXNpMWtHbUF5c0xrbjAxXy03UEdza25UdUM3VzE3cmp0YTZ0YktnaGxtYzZoVERMeDMxU2V1bUhPVmVRNzhvRWxMSGJGZURDak90VWJZLXpibW1hVkJka1czeklxYXowaHpCalRNRGNPbmNmczZKTVNLa0tPT3pPS201LUNnN0lHdU5ubk5nc1JIWV9sWA": 1795248927.7220902,
 "CNN|CBMivgFBVV95cUxNY2N5aHRPWFVTMVlmd21XVndOLUMyRGxFbFFwdXZaNUxoMkhKX2pHTHBJLWtBV3cwRUZKUUQwZlpNdFRtdk1ILUFFTVlfVy1QT3FzakZsUVQ3Z3BfMWNWZVd6MmxvYWRhalFTLWtKb1JldUNDMUVCU3dYdXhMaUEtQWdfYWhkM213Tnk5NVlvaXhNd1NBeUxVYUZCWk41VDhHRHM1ZF9MQUZjMC1rMnV0aHQtcnNGTHpKN0RaZzFR": 1795541436.5987756,
 "CNN|CBMivgFBVV95cUxNcnJ0NnFfbUpXc0NubjBTeFY0dXg5bEhMb3FNVTU4OThEa3lvdzltTHk3Y2RWT0E5ZlYxbnNfY3pCX0hfbWZxVjZQeXpkUW5ZcUpkRHJ2VjVTNmNUMmgtMkRfWjgxUmFJdER4T0VOT3BvZnZPUkw2Y0U1bU5kVExCVGNXdkQ3UllBYlhIeFI1V0VVODU5T3paUXUxTExJODVnTEdQR1hvNlk5cWJDaENWRjdjYjJoOUVIRnVjQ2dR": 1795831238.6561055,
 "CNN|CBMivgFBVV95cUxPOTBkMmhqRUx3X2xqWXBJbHlIUjJsdjB0Zk1zLUlKTkczYmh5bWlncHdiZkozVGFsVnBuNExxQ2R4dEV1eEEtdVVRQzhtU2tHTU5fT0QtZ1JXX2tMaTV0Y3ByaTloek1qWWF4Y0FSblJhaG9Id1RCbHVOVTdGWTVSUmpiMXRENDFEUGlYM1FSSWpWZVg1ajNnaDhPTGJvRmdCTzdrMTA3amQwU1ZRTVlUdFZfaUcxc1VWTG00cXdB": 1795726841.5138733,
@@ -4631,6 +4625,7 @@
 "France 24|fd97f802-e8f2-11f1-99d4-2903cce62456": 1795631443.6334825,
 "France 24|fdfbc7e8-e590-11f1-88b2-ddf62ec9608b": 1795261486.363686,
 "France 24|fe26f4a8-e816-11f1-a4f2-fd2da5b51b08": 1795533329.0707104,
+"France 24|fe5ca058-ea7d-11f1-8729-c7f11e4c5fd3": 1795853726.9707193,
 "France 24|fe7689c2-e592-11f1-99ca-5fd6da15794a": 1795261486.363686,
 "France 24|fea875f4-e68c-11f1-a08c-6963c92ef58d": 1795418129.0735571,
 "France 24|ff79ca94-e756-11f1-97b7-573bac8d4702": 1795450539.6604943,
@@ -4669,6 +4664,7 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/26/un-mouvement-social-ne-se-reduit-pas-a-ses-debouches_6815562_3232.html": 1795709728.7394333,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/26/zoe-carle-specialiste-de-l-analyse-du-discours-les-slogans-politiques-ont-parfaitement-le-droit-d-etre-outranciers_6815593_3232.html": 1795720533.712372,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html": 1795784447.8606412,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/apres-avoir-appris-a-mieux-gerer-nos-dechets-veillons-a-rallonger-la-duree-de-vie-de-nos-biens_6816086_3232.html": 1795853726.9707193,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/il-fait-sombre-au-pays-des-lumieres-on-est-tres-serieux-quand-on-a-17-ans-ce-que-les-slogans-des-lyceens-disent-de-notre-epoque-et-d-une-generation_6816066_3232.html": 1795842928.2142801,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/pourquoi-la-mobilisation-lyceenne-est-une-reponse-a-la-rhetorique-du-declin-de-l-occident_6816065_3232.html": 1795842928.2142801,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/regle-d-or-budgetaire-ce-qui-discipline-la-depense-ce-ne-sont-pas-les-regles-mais-la-croissance-economique_6816079_3232.html": 1795848332.2201016,
