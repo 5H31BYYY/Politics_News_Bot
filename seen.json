@@ -9,27 +9,6 @@
 "recent": [
 {
 "lang": "en",
-"link": "https://www.bbc.co.uk/news/articles/ck792l8ndqyqo?at_medium=RSS&at_campaign=rss",
-"src": "BBC",
-"title": "Burnham says UK net migration now under 'sufficient' control",
-"ts": 1795712811.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUXEtSjBHZG81cFZZRXQ1R1hpUl9OdFM3dHhxVGhoWjA1NkQ2eDJjV2NmY1p0bmZHaEJzbVFBdmpiZ2lLNzZLYUN1S3JFS2RkTGNvc1B4cGg4RWdsYVJnLVJIcUlJQ01BRXd0TGFxUWNnM2ltY1drS1ZqSV83ZEN2Q3NmcVE0Q3B2VGUtOVBUajR4T1FVZEZWWGt3V3QwTVlKN2hjOWNvWGpJdXBKVm15YXpGUHZuck53Znc?oc=5",
-"src": "Reuters",
-"title": "Sweden's Centre leader backs right-wing prime minister, in major shift",
-"ts": 1795713163.0
-},
-{
-"lang": "fr",
-"link": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/26/presidentielle-2027-edouard-philippe-presente-ses-propositions-en-matiere-de-sante-entre-nouveaux-vaccins-obligatoires-et-obligation-de-solidarite-pour-les-medecins_6815577_6205049.html",
-"src": "Le Monde Politique",
-"title": "Présidentielle 2027 : Edouard Philippe présente ses propositions en matière de santé, entre nouveaux vaccins obligatoires et « obligation de solidarité » pour les médecins",
-"ts": 1795713319.0
-},
-{
-"lang": "en",
 "link": "https://www.bbc.co.uk/news/videos/c9p83zv55xx5o?at_medium=RSS&at_campaign=rss",
 "src": "BBC",
 "title": "The government unit with millions to spend on socials",
@@ -282,13 +261,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHhmUFduZ0tRbWFBQ2xIRmtIZDU0S012anU5bEx3SGVzOXVmV1JkNGxIZkNXV0RYTWJlNEVqUTFoS0tnQ1QtcXI0bVlJT25XQ1Y4TFZvczVTbTFPWTc3eUF6MzF6M0swR3JYTGR0ZjNwZVhhb2dWUjNBSjBod1ZfWU4zajFXMnBYUU1YY3pNQXNDWlRQa2VILWVJc25tcnJpV3ljRW95RjViUXM?oc=5",
-"src": "Reuters",
-"title": "Mexico urges Asian trade partners to crack down on tariff dodging",
-"ts": 1795712983.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV1VWVTJuY0s5bTZ0aWtBYUJzZWVoNmJIckZVaEphc1lwT0l6WTl6UXRXcXNhejJncWNRZEl1TTVuOHBKeTU2TkZUMmJVQjRZX0tUcTdJRjRweVhhVFJTRkN1aTdwYXNjZzRlT3BKendQaGJKR0xYdTNONldhOXFpbTA0dlF2bWlYa1pubFNvTS1oOWJKRnZZRTFrb2xSdw?oc=5",
 "src": "CNN",
 "title": "Melania Trump’s involvement in rescuing families in Ukraine",
@@ -321,13 +293,6 @@
 "src": "CNN",
 "title": "The week in 32 photos",
 "ts": 1795727580.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuNnNMMlVWVmt0TDVRckl3S3VZay1ncXlIU216cWE1c2YzWklMSnJPcVVJYkZ1YlBGcVNaS01EUEtLSG5rZkJ4aVlndUJ3WjVxM0ppSUE1cUlLZjNKdGR0V0FLaGNNd2w0RDRSWE1UVHNkbHh2Z3VhdnRHdy0wWnM?oc=5",
-"src": "CNN",
-"title": "I test TVs for a living. These are my 14 favorite Black Friday TV deals | CNN Underscored",
-"ts": 1795713000.0
 },
 {
 "lang": "en",
@@ -3079,6 +3044,27 @@
 "src": "CNN",
 "title": "Meet Rocker, the history-making winner of the National Dog Show",
 "ts": 1795825935.0
+},
+{
+"lang": "en",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1hOLWdyTnFoQWZpMU5aUUZtZ3dXbFM4M2UycnlRdVNUN1p4VGhUa0Q4WGU0X3g2a2ZULUFyMUQ2d240LVptMGtJdVdVbEpZVG0wZEU2RGFacldGU1VvSXpqNk1QM1EtWnFablJ6RUo3bjAybWhJNlotTS1ZZDNEZzZsVDhnbDdURFE?oc=5",
+"src": "CNN",
+"title": "After the flood, Nepal feared a visitor drought. The pull of the mountains is stronger than the fear of their fury",
+"ts": 1795842015.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/28/pourquoi-la-mobilisation-lyceenne-est-une-reponse-a-la-rhetorique-du-declin-de-l-occident_6816065_3232.html",
+"src": "Le Monde Politique",
+"title": "Pourquoi la mobilisation lycéenne est une réponse à la rhétorique du « déclin de l’Occident »",
+"ts": 1795842016.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/idees/article/2026/11/28/il-fait-sombre-au-pays-des-lumieres-on-est-tres-serieux-quand-on-a-17-ans-ce-que-les-slogans-des-lyceens-disent-de-notre-epoque-et-d-une-generation_6816066_3232.html",
+"src": "Le Monde Politique",
+"title": "« Il fait sombre au pays des Lumières », « On est très sérieux quand on a 17 ans » : ce que les slogans des lycéens disent de notre époque et d’une génération",
+"ts": 1795842031.0
 }
 ],
 "seen": {
@@ -3858,6 +3844,7 @@
 "CNN|CBMiigFBVV95cUxQSGZmTXhsMjFadnhBTHRxSzl2NGFCbXZDSXJ6aXc5cE1aUG9aNDVkTTVrbThyX1B1LXJLMUl0UFpOVEhRakhJa3JGYzhjUzBfUUZhRm1oaGk4ZmdkOHJUM0tQSXJDaENnUE1wNm5Makw1aUxfMEx1TmdJSDQtNC15dlhyY2VxcFFDY2c": 1795527926.7877645,
 "CNN|CBMiigFBVV95cUxQSlpWNS1oRUtmMExZRDF2Y0xVWEZUWXYzdXRiWjByUmpuOHotYTJsZFJ2UXFLWFNla0JoOG54TjNsUjJyczBSN2o5UkJXVU9fWE1uUTZMUEp0d0JRR2xQVHpoQUF0NWNhRTNvaXNQM0JJYXhsRmR3ekFVYWVKbzM0aEtKdkJOTldWcnc": 1795802442.9154294,
 "CNN|CBMiigFBVV95cUxQX2lmTU5JZGt3NE9wU1l2N0YyYURlcFVaVG9lZWJDN3d2eWpDUnRVU0dlZGU5SExybDZhYU5vSXF2Y2xnQTBBUEV4QkwwQUFCTU4zcC0xd2N6Y1AwbWVfQTR4XzRPem5FVEQ3TWdIWkZnZ2NZOWdLWTdiYWtHamtHcTg4a1V3UlA2OXc": 1795745730.246201,
+"CNN|CBMiigFBVV95cUxQY1hOLWdyTnFoQWZpMU5aUUZtZ3dXbFM4M2UycnlRdVNUN1p4VGhUa0Q4WGU0X3g2a2ZULUFyMUQ2d240LVptMGtJdVdVbEpZVG0wZEU2RGFacldGU1VvSXpqNk1QM1EtWnFablJ6RUo3bjAybWhJNlotTS1ZZDNEZzZsVDhnbDdURFE": 1795842928.2142801,
 "CNN|CBMiigFBVV95cUxQbEtpTGdkSXZZMDYza0laaWw2QXVWVndvSmc1b0Nfd2xGalhhckhtbXNZMm1OWDhNMHEwZEZZLWhldlo5M0dHUy1lRDNNR0lQVW5hR2JwYnBQM20xZTJuZXJDX2hpSHU1R1RWRkNLbjR4OUVNNmhqVmg0SkdmVXFKLWota2kxc1g5dHc": 1795675526.3613768,
 "CNN|CBMiigFBVV95cUxQdTR4RVlBdTJ4Ym1NY2hWdjRLY213eUNyY0hNck5sek1sLThnYVFUeHU3dE92bjZPeUlOR0daNTFXTkhMdG5uX2o4Zm9oY20tRmszdC10MldMTVRONW1zZzAzMmxNVE9EMTA1LWVnWkRBOGxYTVh3RFlsZkZwcFNFeTVxOUNEeW9JOHc": 1795317986.1596677,
 "CNN|CBMiiwFBVV95cUxNMmZSeV9HbFZDSVJRbkVPZkFnZ1JhOTduNFlidkpRU0JVYmVRakNQM0hLaFhtUXlyaTJHQ01QWEVQQU42ZE9lQjBFb05WbHh1Q1pWSE5ZdmNIbDVETlpyc3M1bjZRQ25DakZWTkd2RmZGWlZ0dUZqRG0wQWVYOXA1aW10bXVhdWN6VklB": 1795421726.451144,
@@ -4867,6 +4854,8 @@
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/26/un-mouvement-social-ne-se-reduit-pas-a-ses-debouches_6815562_3232.html": 1795709728.7394333,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/26/zoe-carle-specialiste-de-l-analyse-du-discours-les-slogans-politiques-ont-parfaitement-le-droit-d-etre-outranciers_6815593_3232.html": 1795720533.712372,
 "Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/27/le-monde-culturel-attend-la-presidentielle-ou-il-jouera-son-avenir-a-la-roulette-se-sauver-ou-mourir-et-il-evite-ainsi-de-se-remettre-en-question_6815861_3232.html": 1795784447.8606412,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/il-fait-sombre-au-pays-des-lumieres-on-est-tres-serieux-quand-on-a-17-ans-ce-que-les-slogans-des-lyceens-disent-de-notre-epoque-et-d-une-generation_6816066_3232.html": 1795842928.2142801,
+"Le Monde Politique|https://www.lemonde.fr/idees/article/2026/11/28/pourquoi-la-mobilisation-lyceenne-est-une-reponse-a-la-rhetorique-du-declin-de-l-occident_6816065_3232.html": 1795842928.2142801,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/21/jair-bolsonaro-ancien-president-du-bresil-a-nouveau-hospitalise-en-soins-intensifs-pour-une-occlusion-intestinale_6814064_3210.html": 1795303727.0445561,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/22/israel-les-partis-de-gadi-eisenkot-et-de-benyamin-netanyahou-concluent-de-nouvelles-negociations-de-coalition-sans-accord_6814239_3210.html": 1795371333.4419487,
 "Le Monde Politique|https://www.lemonde.fr/international/article/2026/11/24/slovaquie-le-gouvernement-supprime-le-vote-par-correspondance-l-opposition-affirme-que-la-coalition-a-peur-de-perdre-les-prochaines-elections_6814773_3210.html": 1795528844.2123516,
