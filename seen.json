@@ -8,25 +8,11 @@
 ],
 "recent": [
 {
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkkteXh4WXIwLU15Tkd5SDMxa1M1bjg2SlJFVjZfdDI3ZG9JT05HbW14ZzVqeDQ5NXIycUtnZlNWSWo5YjFnTDhpRS15YWctMVVHeGU2LVcybndBZzF2MXdnSEwyWTBjY0lRZW00aENseG91dXpQQ0VhaThiRDY0SlBRYlRHTlA4UGJEVUZCLXQxaVBlYm5PZERB?oc=5",
-"src": "CNN",
-"title": "Director of Band that was set to perform in Macy's Parade says slew of donations will allow them to perform Saturday",
-"ts": 1795724720.0
-},
-{
 "lang": "fr",
 "link": "https://www.france24.com/fr/france/20261126-alg%C3%A9rie-accuse-france-maltraitances-agent-consulaire-d%C3%A9tenu-depuis-2025",
 "src": "France 24",
 "title": "L'Algérie accuse la France de \"maltraitances\" sur un agent consulaire détenu depuis 2025",
 "ts": 1795725276.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUk10SzdWbUhuNXFaMFJUalRfVzBpcHN4OWp3SmpZN29td185ajFNSG01aGlabjVxWGlyQkN6Wkd1N0MyM2lPNzNXT2xvNUpvek05MDRkT1JiWjVsRFFPQUVLem5VSWZVdzg4Qmpub0JUVUpaQzctU2M5R28xVzNDOUlfa0J1OHRMM2FidXprSW1jZG1W?oc=5",
-"src": "CNN",
-"title": "Director of band that was set to play in Macy's Parade says slew of donations will allow them to perform Saturday",
-"ts": 1795724720.0
 },
 {
 "lang": "en",
@@ -104,13 +90,6 @@
 "src": "CNN",
 "title": "Band performs in Times Square after Macy’s parade postponed",
 "ts": 1795732260.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLTVjRzhwdGdZWkJIclpwUnRPNVU2bFJ1Rm03Vi1JQndfaXdBMFU0ZU5LUHRhQlhNUnBCcEJ1UkZud1ZFLW9KYm9GMkxkU3ByUFVPVmxNRDd0MDlPcHEyMGNUNzdYMkJjNE5MZlAwcVA0RE9nMkkxRHRmRUNKUEk3cGRYamNLVmQxY2lhSUNlX3BCUQ?oc=5",
-"src": "CNN",
-"title": "I test headphones and earbuds for a living. Here are 21 of the best Black Friday deals",
-"ts": 1795724880.0
 },
 {
 "lang": "fr",
@@ -2883,6 +2862,13 @@
 "src": "Le Monde Politique",
 "title": "« Après avoir appris à mieux gérer nos déchets, veillons à rallonger la durée de vie de nos biens »",
 "ts": 1795852811.0
+},
+{
+"lang": "fr",
+"link": "https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html",
+"src": "Le Monde Politique",
+"title": "Convention citoyenne sur les finances publiques : le CESE entend peser sur les débats à l’approche de la présidentielle",
+"ts": 1795854147.0
 }
 ],
 "seen": {
@@ -3154,8 +3140,6 @@
 "CNN|CBMiY0FVX3lxTE12YTdhRzNSTC1qWWd4eUdOYjF4S2J3NklRT25pZWpfSnBTSFBLb2pxdjRzdVRaV2NOQlRVazJhMVVXYnRkbzJfSzIyTWpzbGR1ejRtQTU0MEl5S2xrUElUdENrcw": 1795347035.2407687,
 "CNN|CBMiY0FVX3lxTE95eFFObVZQczZ0eVB4M1pjRTdNMlRIN015MmNQdTFlRk4xamhfRkdsZlNxNklBMEtlRTJxRmNHT3g4MVFBZG01Ujg2Wkl6TWxVRGRybHVDNmgxQm1LZVNtX29GMA": 1795317986.1596677,
 "CNN|CBMiY0FVX3lxTE9TYmZuRFFDdW5uUjVhWFkwT3JsM1FZalpzM01zbUxsbHRfYmoxWHBpajdUMnFBSWtydlYzZS00em9tNVFKczJ1em9fVUE2YkxYZXJsQ3NGaW5MQVhUUUMwbWUxbw": 1795539643.276993,
-"CNN|CBMiYEFVX3lxTE4td0NyME9JWlJJaE93d1ljZGVxTUZocmVKTlpFZ2U1bmRBNVY0bFhsVmdabklSazFQVzg3YmR2VHl2MWlVbGU4ZlZXeUkxWW5JQzNyN3pUaVNhWkJXYVRxWQ": 1795249832.2767353,
-"CNN|CBMiYEFVX3lxTFAtVENkSVF0SVJ3eElXY3VFeFgwcXM2Ul9PMTlaZ3pLMXAxNDVhaGtEcWJtOHZQWWF0aXBLd0hadUx2V3RMZDBnM2NwUC05YURSS2R1Y012UXVmdXM0SGxPOQ": 1795249832.2767353,
 "CNN|CBMiYkFVX3lxTE5HbWllSnVGUHRKTHh4MXkzbW12b0dHR1BHOEJ4alhWQm84d1FWR2Z0X1dvVXpocFAyYXRmS3pTc3RtejZybWNBSDVBVTQyVE8tUUFUM2pWalpOM08zUmVxTHdR": 1795385724.7054732,
 "CNN|CBMiYkFVX3lxTE9NblRFVlpvclRQMFNVZG9VTVJPOFUyLVFQNzJRS1BaeU1PS3dpTmRRbE9YaGxFSURaajl6dE9zLWhrSjl1YkVadE9DZ0JVZGIxcG9vcXlBUURkUmpOTW9zalB3": 1795374925.6711144,
 "CNN|CBMiZ0FVX3lxTE5OUk1HWmJsUmtmN1RmSDhrellzVzN0RmVJZ25sMmd2VkNsMUdWdWFYU0RtSW5ISjdxRWRFU0hxUzdud0JleVQ5aldOU1BXVFFhTVVEemREM2pPNEZROWdrRzlaUUhyOGM": 1795566636.3181057,
@@ -3219,6 +3203,7 @@
 "CNN|CBMib0FVX3lxTE9TWGRRMlRTRUN3Y2VqWlRKbW1hTUFrMlJjZmZRVEdzMHdhNnM5dWlUN2pvNXpuNmxLSlVRV1BzOHlKYThkQVZIWUZlTS1vYy1Sd2JqRlFySmZhd1NVbkdxNDhSMXlTNG0zTzM2RDVPVQ": 1795654840.8518288,
 "CNN|CBMib0FVX3lxTE9nTEw2RTRWRHNDR3B1Yk1vdkxSeV9FY0xaQnN2elZnd09KY0JnMl9Sd21BM1huRzFrLS1qYTRxOXE1RkFqZVNpQkxMcFozWlJMTzVwb0t5MzBtMENtM0doVXo4amRUYWprdE1NUzNuOA": 1795484730.7263691,
 "CNN|CBMib0FVX3lxTE9xb0ppRVRjYkZuWWdMSXpFYUk0eEthdDF1dFg1N3UzVHY5dUxVWXRDd3RhYVJmSktxbkJtV0Y4dGF4VU9reVQ1UktQVGlJYU1jM2xQQkx1aWVjU21RVVhpM2prb0JZbnc4NHhnMjI4UQ": 1795428040.549066,
+"CNN|CBMib0FVX3lxTFA1bHU5VXZXZzJIRDRBZC1FUnZCMjNlM0g4Vm5zWkNqRmd1cFdPeWI2RGlwUzRWRU1leG1jNkdobFZFUjhRakkxVWhBalF6cnBMWVRzV1hWSjFaekpCN0pTWE9ESVZCVURpZlpPQXVDWQ": 1795854634.5359015,
 "CNN|CBMib0FVX3lxTFA5Z2JBYXA4NVFQdWZ2RlJDN3RMMHFwTGdTX2FjN3dCR1ItUkhNSHNDQk1RSGVyelFjemJNLUxBQTd6cXhnREZJN1I0c3RiZW1wWGk3cE5wbWdsWi1MQ0ZpYl91Mk9Mc01INVRvSzR4TQ": 1795779040.364418,
 "CNN|CBMib0FVX3lxTFB5ZjUxY3E0LWdvb3dBdFoxNlNzWjUwMzBRbktrY21VQk5janhId2RHQnZndld1Q09OakZjTnR3NnRtYzNYSWs3LUtwT19ZNFM1bWFYRVBEaC1hT3U1dXFKMWdrNlhZNWpUeUloWk9MVQ": 1795391126.855841,
 "CNN|CBMib0FVX3lxTFBLNlBMbDJ5eU9DMDRoOWNrSkZwVFVuMmZSQXNzLVA3bThDVVo1bDRvVHdjaU9IWGhHWmk3Vk40VlZ3bzQxelFraHl0Q0oxTFNyZzdocWdtYUJRM2RZaElSd291ZDl4U0pha21zWjVEMA": 1795824926.059395,
@@ -4577,7 +4562,6 @@
 "France 24|de9f79aa-e8c2-11f1-a801-df36f16f3f3b": 1795611641.2302907,
 "France 24|e093bfee-e9be-11f1-9b8d-25bd1374e964": 1795721436.0730712,
 "France 24|e0d75d38-e9ac-11f1-b4dc-cbfd6d6808eb": 1795714235.7133036,
-"France 24|e164d32e-e584-11f1-8432-8fa90dee50f1": 1795249832.2767353,
 "France 24|e2682ffa-e70a-11f1-974f-bd86c4f749bb": 1795430735.8811448,
 "France 24|e29c41f6-e9a2-11f1-ac96-0344b6df5f4d": 1795708845.5058198,
 "France 24|e32c9034-e9a3-11f1-9233-61ef2bdaf6e3": 1795772728.762984,
@@ -4771,6 +4755,7 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-raphael-glucksmann-cherche-a-tisser-un-reseau-d-elus-locaux_6815814_823448.html": 1795765525.2492561,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/un-concert-de-rock-antiwokisme-organise-par-une-mouvance-identitaire-interdit-dans-le-rhone-et-l-isere_6815938_823448.html": 1795820442.3943264,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/27/un-hommage-national-aux-victimes-de-l-attentat-raciste-de-trappes-et-de-la-verriere-aura-lieu-le-4-decembre-aux-invalides-a-paris_6815903_823448.html": 1795797929.0462213,
+"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/convention-citoyenne-sur-les-finances-publiques-le-cese-entend-peser-sur-les-debats-a-l-approche-de-la-presidentielle_6816088_823448.html": 1795854634.5359015,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/28/partir-ou-rester-en-cas-de-victoire-du-rn-a-la-presidentielle-2027-le-dilemme-des-hauts-fonctionnaires_6816058_823448.html": 1795839006.0034773,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-au-quotidien-on-constate-de-plus-en-plus-une-solitude-des-communes_6815062_823448.html": 1795624235.2718632,
 "Le Monde Politique|https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-david-lisnard-va-t-il-etre-reelu-a-la-tete-des-maires-de-france-suivez-la-journee-et-posez-nous-vos-questions_6815062_823448.html": 1795606238.3842661,
@@ -5022,6 +5007,7 @@
 "Reuters|CBMiZ0FVX3lxTFBKX3JwTl92NG1EMFFiZGNSUDk2bTRHWWwwYnBObS1kamRlZnc4LXhpZjY5bkRRZUtyOS1lVlhaaFFtWWIxVEJKZkFFX211ck1ValR3cE56ZnUwUFRIWmJucmI2ZVl3M2M": 1795285034.035354,
 "Reuters|CBMiZ0FVX3lxTFBLeG56REZpTzRyV0FwNEZTdDVVaVlXeThybU52OEZiYmxSRmNGelhISjdLWVNXcmZmZUhfV2xxVW1lNmQ4WnR5YTJkTzJpQVZIWXd6cFMxQTBuT0lkY2dkTDJwTEZIUUk": 1795446926.9540098,
 "Reuters|CBMiZ0FVX3lxTFBNTHFoNmVUSUx4UC1kSkV0QW1NZXVudWU3a21xZjZKX3BmNW0wNDQxcndXMU10S1FqOS1JUV9Ob056NUNaUTA4OGhMVlE2X0ZqVWRoLVYwVXc1eEhYWHpUZzU3ZVlJUFU": 1795640444.912453,
+"Reuters|CBMiZ0FVX3lxTFBObEFPcU5scVl1V3hpWE5BWnBCMHR4clh1T0FCUFJHdDVUdGJsUXJvajFHd0VPbW1kZEp5MGtLaUYyblNYTjVGNGhYM1lEdUdsdXpXTUJoemZFQ3RBS1lYNFNnVWdkUTA": 1795854634.5359015,
 "Reuters|CBMiZ0FVX3lxTFBObWhZcjV2Y1hRVkM3NlpRQ296N0d5MEpIY09GUnJxQ1JVUy1EZE5ENC04Mm0zUzZwX3otN3dVa0h4R1NjV1VITDhLNHp5MDdiMDJ6a3FsRzVaa1IwQWx2Z21TdjM4Nlk": 1795567528.6618168,
 "Reuters|CBMiZ0FVX3lxTFBUS3F0T3F0SjBrQ0ZlZENPemdDR1cyRHBicl96blpvQTJ2alNrMXJ3OWdGQ3NiVHZhQ2pxckNXcmdLazEtbTR2VjFHTzQ0bjBfNFdNUVlSVFMzZ2h3VzRYTXdaenVKbVE": 1795673727.9892197,
 "Reuters|CBMiZ0FVX3lxTFBVdDk5VV85NkVya0VyeUpsa3M1UUwtcE1lSTlSLTdmemh1T2UtcThnbDNydWVVTHNiZUNQczBsRDBZYTVlUlhxOGJQYmNXaDJYUFhxLVBoSkg5ZmtYc0pXdERUN2tNZkU": 1795712445.8708022,
