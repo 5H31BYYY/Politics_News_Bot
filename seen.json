@@ -72,13 +72,6 @@
 },
 {
 "lang": "en",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFBOZGpxZHowYWJzZlRFNFBlUEZsMEpvREpnQnMybTMzTTczbWg4RlRRM2VkWlNWbGNIZEc4ZGF1ODRxZzdqenRLdkoxbmhzb0stZDVQQzZuWV82aWV2Y0ZIVkxDVDd3bUJ5U1Eyc0FCdTlBaUFJVHc0VmlYOEZYQVU2MjBzTVI0NzJnbzc4RUJ3b2lycUppbHZB?oc=5",
-"src": "Reuters",
-"title": "EU leaders aim for budget deal before the end of the year, Merz says",
-"ts": 1795727864.0
-},
-{
-"lang": "en",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUU2UTdMSzhabVJEYUYzN1Y1SGk3MWdLeVo4cV9iWDVCd3RZWDVDR2lFZ0dtUTRlUUxxbExIRlJDeGx3dEVVLVBuRU1qaDlrXzd6aHpwUHVWTEhMemE2ZzdaSjROTy1HQUF2dkdDcFhNYWtnMU51a2dsSURKSmlfdjlkTnMzeDdySmZLbWotTnR2clUxR0hrQ255ekNnM3dR?oc=5",
 "src": "Reuters",
 "title": "Core inflation in Japan's capital accelerates in November",
@@ -90,13 +83,6 @@
 "src": "Le Monde Politique",
 "title": "Présidentielle 2027 : Eric Zemmour annonce sa « dernière campagne »",
 "ts": 1795737298.0
-},
-{
-"lang": "en",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnVzaWpqYVdIRXFZeEQ1Q1VidmZybUhsRnVEaEhobi0xQTNSZk82SDhjZVo4eF9KU0VZeTRtRVFVbFdMT2ptbnVLalM0d1VXUDdlM3BFNVlPVzV4cUQ4VDA1TllOTXNYLXJQYlU0cGRON252Zmg3OVd4RmZTdURBZ21ZZGZ1S0RJQWxERFBpUDkwOGs?oc=5",
-"src": "CNN",
-"title": "The week in 32 photos",
-"ts": 1795727731.0
 },
 {
 "lang": "fr",
@@ -3853,7 +3839,6 @@
 "CNN|CBMimwFBVV95cUxPTVQyTXB6OU42N2x0WWJkSDlMQ1ZGMmx1aFdja2cwZ2hHdklad2lyZC0tVWZBdlgyN3ZPZi1uVjhneEhIdlBoVXdMVnB5TmJ0SHMtcTdDYXI5WUM3TDF6cVhaZUdpdnFNWnhhSVRJLTdZc0E0R19NZmNKbWxtNUZHdWtkTDg5amxDRlN4dHVMd3hJbFNxT2NjaDFjRQ": 1795563940.8508117,
 "CNN|CBMimwFBVV95cUxPYWlRbWp2U1hPbkNnckplcFBHNXM0UWx5d2NsRmlIMC15REo3Z2VWX29mVGo3ZnFKNTFQQ2FTTExxRlUxb1VNRnV3cy0yM3JJNDhoSy15TVBWYUZaSFRJbmFRS3drQnlxSGd4dXhxTE1xMy1IdVE4ejdBT1dTUjM2YndFcno5NnluSHNUY0dYY0R0WEdjSklPQzYtTQ": 1795619734.8505733,
 "CNN|CBMimwFBVV95cUxPbGllWUUyNXZHaXRRalhYQTVqQ0FjbFlUVE52bUp1cVpMVDFFS01CODRMMFJIZV81V0hsdzkydEVZWWZBT2t5Wk5WR3lHZVhKQURBVm9NMF9oSC1RVU0xUjZ1eHlZcWVKeENJcWZySXE0WGJDVVdldndsZUstVkZ3WHUzb0tfWXl0OE9JTVNXQ1NPV0F0NXp3SDY2OA": 1795581933.6679065,
-"CNN|CBMinAFBVV95cUxNU09pSHdqSGZpYzNaQW9NSjRIaExTY3ljcmFkNUQ0bzdhbVFqdW5lLWlhS3BhX0I5SDJkcE81cGktUU1GU3hScjVKWjd4UWFVejA1U1AtRGYyTGhrZy1VOTc4Mk9oeGJnTjM1NVVaeUV3TnNuRi1NQ3FVQnBNTV9QWklyZGM4SjJ6ZjBoR3I4VUVYWEQ3OFZnSzZxb0g": 1795253434.957544,
 "CNN|CBMinAFBVV95cUxNczg1SkRRVEJVWU9pMFRfWDU3OUVCd3ZDYkhFUnl4TzItby1uc1lIM0Ftc0NnNlRzNjI0YzNBQUVrSkhPUGJJTTBITVo1OGM1TVFmLW1yRE1DU3o1b3pibUVuSHMzZElNeFFtdGxGMk9jRzkwdXR0N2ZYQ3N4OGNQZEpYM3I1NDZHZDA3aEk3bXozWGJ3TV9JZnlLb3k": 1795557639.5746932,
 "CNN|CBMinAFBVV95cUxOX1hNbmVDSVVJNjlMNTBOM29KaXZlSDJNNzlzN0JzOEZ0TVBsVzN5ZjVNdW1LcThTLXBFNGplZDZ2Z2pfeWNDa2p6b0dPUEl1OTg2bThqZzZtNU9qcU5tZXUwQVRmQ2FONE82d3ZlQWNtOGRybTdPVnpURTVLV3g3WWR3YlZjX1VmOTFwMnZ1dWowckN1Vl9JMFVxTzY": 1795646733.027554,
 "CNN|CBMinAFBVV95cUxOb1VPMld6aXpPTlpFc0lIdG04VldEbURyZVoybnRyOEJSc0lXb0gzczNXQ24ySFBKQWVjRk9aZHdVNVBKZmZjZEluWGtyZktYNnVLUEc2X2c4U1VMdFg1eWR2elVlMjQ1bjBFZkh4eWcwTUJMM0FzZndYRTlRZE5vVFpUV2hvNGxfVWZnVTgzeERQaUN6QlZSM0ExeF8": 1795809640.7377563,
@@ -4613,7 +4598,6 @@
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/dans-le-var-eric-zemmour-en-campagne-pour-une-primaire-de-la-droite_6814062_823448.html": 1795303727.0445561,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/desobeir-au-pouvoir-politique-le-debat-resurgit-dans-la-fonction-publique_6814050_823448.html": 1795285034.035354,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/les-rassemblements-d-ultradroite-et-antifasciste-prevus-dimanche-a-angers-interdits-par-la-prefecture_6813982_823448.html": 1795261486.363686,
-"Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-comment-l-argument-du-barrage-anime-la-campagne-de-premier-tour-au-risque-de-l-affaiblir-au-second_6813960_823448.html": 1795252536.5783057,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-david-lisnard-voit-dans-une-primaire-de-la-droite-et-du-centre-un-moyen-d-exclure-les-macronistes_6814071_823448.html": 1795303727.0445561,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-francois-ruffin-renonce-a-sa-candidature-face-au-risque-de-l-arrivee-de-l-extreme-droite-au-pouvoir_6814051_823448.html": 1795285034.035354,
 "Le Monde Politique|https://www.lemonde.fr/politique/article/2026/11/22/a-angers-militants-identitaires-et-antifascistes-se-toisent-en-marge-d-un-rassemblement-interdit-contre-le-racisme-anti-blancs_6814249_823448.html": 1795387526.0407708,
